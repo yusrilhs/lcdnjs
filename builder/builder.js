@@ -2,13 +2,14 @@ const https = require('https')
     , gutil = require('gulp-util')
     , fs = require('fs')
     , path = require('path')
+    , compareVersions = require('compare-version')
 
-const cdnjsApiUrl = 'https://api.cdnjs.com/libraries'
+const cdnjsApiUrl = 'https://api.cdnjs.com/libraries?fields=version'
     , snippetPath = path.join(__dirname, '../snippets')
 
 const snippetTemplate = '<snippet>\n\
     <content><![CDATA[\n\
-<script type="text/javascript" src="<%= latest %>"></script>\n\
+script type="text/javascript" src="<%= latest %>"></script>\n\
 ]]></content>\n\
     <tabTrigger>lcjs<%= name %></tabTrigger>\n\
     <description><%= description %></description>\n\
@@ -64,10 +65,12 @@ LcdnjsBuilder.prototype.onError = function(err) {
 LcdnjsBuilder.prototype.build = function() {
   let that = this
     , libraries = []
+    , dumps = {}
   
   gutil.log('Start building sublime snippet at: ' + snippetPath)
 
   that.results.forEach(function(lib) {
+    let libName = lib.name
     lib.file = false
     lib.description = lib.name
                          .replace(/-/g, ' ')
@@ -76,9 +79,27 @@ LcdnjsBuilder.prototype.build = function() {
                             return letter.toUpperCase();
                          });
 
+    lib.name = libName.replace(/\./g, '')
+
+    let dump = dumps[lib.name]
+
+    if (dump) {
+        if(compareVersions(dump.version, lib.version) < 0) {
+          gutil.log('Remove previous version snippet of: ' + libName)
+          fs.unlinkSync(path.join(snippetPath, libName + '.sublime-snippet'))
+        } else {
+          return
+        }
+    }
+
+    dumps[libName] = {
+      version: lib.version
+    }
+
     let content = gutil.template(snippetTemplate, lib)
-    libraries.push('* ' + lib.name)
-    that.writeFile(lib.name, content)
+
+    that.writeFile(libName, content)
+    libraries.push('* ' + libName)
   })
   
   fs.writeFileSync(path.join(__dirname, '../.log'), libraries.join('\n'))
