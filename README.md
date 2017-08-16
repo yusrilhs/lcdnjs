@@ -1,6 +1,6 @@
 # Latest cdnjs library sublime snippet
 
-This is repository just Sublime Snippet for lazy time to find any latest library link in cdnjs. And you want any library as you typed on Sublime Text.
+This repository just Sublime Snippet for lazy time to find any latest library link in cdnjs. And you want any library as you typed on Sublime Text.
 
 ## Installation
 
