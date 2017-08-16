@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/10.1.0/nouislider.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsnoUiSlider</tabTrigger>
+    <description>Nouislider</description>
+</snippet>

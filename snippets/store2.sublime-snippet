@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/store2/2.5.2/store2.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsstore2</tabTrigger>
+    <description>Store2</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/wysihtml/0.5.5/wysihtml.min.js"></script>
+]]></content>
+    <tabTrigger>lcjswysihtml</tabTrigger>
+    <description>Wysihtml</description>
+</snippet>

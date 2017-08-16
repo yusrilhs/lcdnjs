@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/6.1.19/browser.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsbabel-core</tabTrigger>
+    <description>Babel Core</description>
+</snippet>

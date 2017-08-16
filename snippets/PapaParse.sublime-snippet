@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/4.3.5/papaparse.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsPapaParse</tabTrigger>
+    <description>Papaparse</description>
+</snippet>

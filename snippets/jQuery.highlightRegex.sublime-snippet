@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jQuery.highlightRegex/0.1.2/highlightRegex.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjQuery.highlightRegex</tabTrigger>
+    <description>Jquery.Highlightregex</description>
+</snippet>

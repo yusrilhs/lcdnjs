@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mb.bgndgallery/1.9.5/jquery.mb.bgndGallery.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjquery.mb.bgndgallery</tabTrigger>
+    <description>Jquery.Mb.Bgndgallery</description>
+</snippet>

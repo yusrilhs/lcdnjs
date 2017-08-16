@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fukol-grids/0.1.1/fukol.min.css"></script>
+]]></content>
+    <tabTrigger>lcjsfukol-grids</tabTrigger>
+    <description>Fukol Grids</description>
+</snippet>

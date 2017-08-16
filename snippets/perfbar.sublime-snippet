@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/perfbar/0.2.1/perfbar.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsperfbar</tabTrigger>
+    <description>Perfbar</description>
+</snippet>

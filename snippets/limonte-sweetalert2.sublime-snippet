@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/6.6.8/sweetalert2.min.js"></script>
+]]></content>
+    <tabTrigger>lcjslimonte-sweetalert2</tabTrigger>
+    <description>Limonte Sweetalert2</description>
+</snippet>

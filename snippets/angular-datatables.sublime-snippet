@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-datatables/2.1.0/angular-datatables.js"></script>
+]]></content>
+    <tabTrigger>lcjsangular-datatables</tabTrigger>
+    <description>Angular Datatables</description>
+</snippet>

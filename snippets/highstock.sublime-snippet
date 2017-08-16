@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/highstock/5.0.14/highstock.js"></script>
+]]></content>
+    <tabTrigger>lcjshighstock</tabTrigger>
+    <description>Highstock</description>
+</snippet>

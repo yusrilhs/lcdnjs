@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/placeholder-shiv/0.2/placeholder-shiv.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsplaceholder-shiv</tabTrigger>
+    <description>Placeholder Shiv</description>
+</snippet>

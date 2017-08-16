@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/videojs-youtube/2.4.0/Youtube.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsvideojs-youtube</tabTrigger>
+    <description>Videojs Youtube</description>
+</snippet>

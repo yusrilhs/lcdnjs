@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/blueimp-JavaScript-Templates/3.9.0/js/tmpl.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsblueimp-JavaScript-Templates</tabTrigger>
+    <description>Blueimp Javascript Templates</description>
+</snippet>

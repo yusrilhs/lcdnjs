@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/headhesive/1.2.4/headhesive.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsheadhesive</tabTrigger>
+    <description>Headhesive</description>
+</snippet>

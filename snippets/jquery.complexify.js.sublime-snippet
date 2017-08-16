@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.complexify.js/0.5.1/jquery.complexify.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjquery.complexify.js</tabTrigger>
+    <description>Jquery.Complexify.Js</description>
+</snippet>

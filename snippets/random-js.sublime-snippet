@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/random-js/1.0.8/random.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsrandom-js</tabTrigger>
+    <description>Random Js</description>
+</snippet>

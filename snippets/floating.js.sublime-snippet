@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/floating.js/2.7.1/floating.js"></script>
+]]></content>
+    <tabTrigger>lcjsfloating.js</tabTrigger>
+    <description>Floating.Js</description>
+</snippet>

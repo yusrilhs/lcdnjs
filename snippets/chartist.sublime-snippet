@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/chartist/0.11.0/chartist.min.js"></script>
+]]></content>
+    <tabTrigger>lcjschartist</tabTrigger>
+    <description>Chartist</description>
+</snippet>

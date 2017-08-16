@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.businessHours/1.0.1/jquery.businessHours.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjquery.businessHours</tabTrigger>
+    <description>Jquery.Businesshours</description>
+</snippet>

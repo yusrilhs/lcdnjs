@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.transit/0.9.12/jquery.transit.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjquery.transit</tabTrigger>
+    <description>Jquery.Transit</description>
+</snippet>

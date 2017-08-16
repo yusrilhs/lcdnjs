@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ScrollTrigger/0.3.6/ScrollTrigger.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsScrollTrigger</tabTrigger>
+    <description>Scrolltrigger</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/cellx/1.7.29/cellx.min.js"></script>
+]]></content>
+    <tabTrigger>lcjscellx</tabTrigger>
+    <description>Cellx</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jsviews/0.9.87/jsviews.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjsviews</tabTrigger>
+    <description>Jsviews</description>
+</snippet>

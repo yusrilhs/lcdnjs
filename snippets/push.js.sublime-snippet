@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/push.js/1.0.4/push.min.js"></script>
+]]></content>
+    <tabTrigger>lcjspush.js</tabTrigger>
+    <description>Push.Js</description>
+</snippet>

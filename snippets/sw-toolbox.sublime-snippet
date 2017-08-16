@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/sw-toolbox/3.6.1/sw-toolbox.js"></script>
+]]></content>
+    <tabTrigger>lcjssw-toolbox</tabTrigger>
+    <description>Sw Toolbox</description>
+</snippet>

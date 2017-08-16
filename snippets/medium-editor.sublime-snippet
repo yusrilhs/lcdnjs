@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/medium-editor/5.23.2/js/medium-editor.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsmedium-editor</tabTrigger>
+    <description>Medium Editor</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Ripple.js/1.2.1/ripple.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsRipple.js</tabTrigger>
+    <description>Ripple.Js</description>
+</snippet>

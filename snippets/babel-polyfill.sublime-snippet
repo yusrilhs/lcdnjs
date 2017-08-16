@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/babel-polyfill/6.23.0/polyfill.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsbabel-polyfill</tabTrigger>
+    <description>Babel Polyfill</description>
+</snippet>

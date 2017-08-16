@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tipsy/1.0.3/jquery.tipsy.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjquery.tipsy</tabTrigger>
+    <description>Jquery.Tipsy</description>
+</snippet>

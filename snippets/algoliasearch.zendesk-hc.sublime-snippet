@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/algoliasearch.zendesk-hc/2.16.0/algoliasearch.zendesk-hc.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsalgoliasearch.zendesk-hc</tabTrigger>
+    <description>Algoliasearch.Zendesk Hc</description>
+</snippet>

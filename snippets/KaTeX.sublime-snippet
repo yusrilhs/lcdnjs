@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.8.1/katex.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsKaTeX</tabTrigger>
+    <description>Katex</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/reflect-metadata/0.1.10/Reflect.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsreflect-metadata</tabTrigger>
+    <description>Reflect Metadata</description>
+</snippet>

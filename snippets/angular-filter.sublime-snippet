@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-filter/0.5.16/angular-filter.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsangular-filter</tabTrigger>
+    <description>Angular Filter</description>
+</snippet>

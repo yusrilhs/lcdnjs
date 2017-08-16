@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/odometer.js/0.4.8/odometer.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsodometer.js</tabTrigger>
+    <description>Odometer.Js</description>
+</snippet>

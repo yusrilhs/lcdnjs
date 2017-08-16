@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/aping/1.4.1/aping.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsaping</tabTrigger>
+    <description>Aping</description>
+</snippet>

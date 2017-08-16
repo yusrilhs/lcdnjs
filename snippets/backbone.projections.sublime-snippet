@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/backbone.projections/1.0.0/backbone.projections.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsbackbone.projections</tabTrigger>
+    <description>Backbone.Projections</description>
+</snippet>

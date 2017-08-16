@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ideal-image-slider/1.5.1/ideal-image-slider.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsideal-image-slider</tabTrigger>
+    <description>Ideal Image Slider</description>
+</snippet>

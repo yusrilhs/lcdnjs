@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.6.0/Sortable.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsSortable</tabTrigger>
+    <description>Sortable</description>
+</snippet>

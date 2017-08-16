@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/opal-parser/0.3.43/opal-parser.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsopal-parser</tabTrigger>
+    <description>Opal Parser</description>
+</snippet>

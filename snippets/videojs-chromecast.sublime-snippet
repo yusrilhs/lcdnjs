@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/videojs-chromecast/1.1.1/videojs.chromecast.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsvideojs-chromecast</tabTrigger>
+    <description>Videojs Chromecast</description>
+</snippet>

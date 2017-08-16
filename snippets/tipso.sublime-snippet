@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tipso/1.0.8/tipso.min.js"></script>
+]]></content>
+    <tabTrigger>lcjstipso</tabTrigger>
+    <description>Tipso</description>
+</snippet>

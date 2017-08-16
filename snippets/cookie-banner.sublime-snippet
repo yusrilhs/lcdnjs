@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/cookie-banner/1.2.0/cookiebanner.min.js"></script>
+]]></content>
+    <tabTrigger>lcjscookie-banner</tabTrigger>
+    <description>Cookie Banner</description>
+</snippet>

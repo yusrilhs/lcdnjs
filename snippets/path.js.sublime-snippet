@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/path.js/0.8.4/path.min.js"></script>
+]]></content>
+    <tabTrigger>lcjspath.js</tabTrigger>
+    <description>Path.Js</description>
+</snippet>

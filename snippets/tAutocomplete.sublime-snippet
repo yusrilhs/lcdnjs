@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tAutocomplete/1.0.0/tautocomplete.min.js"></script>
+]]></content>
+    <tabTrigger>lcjstAutocomplete</tabTrigger>
+    <description>Tautocomplete</description>
+</snippet>

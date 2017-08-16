@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Sly/1.6.1/sly.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsSly</tabTrigger>
+    <description>Sly</description>
+</snippet>

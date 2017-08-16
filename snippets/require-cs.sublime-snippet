@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/require-cs/0.5.0/cs.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsrequire-cs</tabTrigger>
+    <description>Require Cs</description>
+</snippet>

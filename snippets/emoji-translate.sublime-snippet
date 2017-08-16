@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/emoji-translate/1.0.2/emoji-translate.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsemoji-translate</tabTrigger>
+    <description>Emoji Translate</description>
+</snippet>

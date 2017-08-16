@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ng-flow/2.7.7/ng-flow-standalone.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsng-flow</tabTrigger>
+    <description>Ng Flow</description>
+</snippet>

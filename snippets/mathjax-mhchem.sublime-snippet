@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax-mhchem/3.2.0/mhchem.js"></script>
+]]></content>
+    <tabTrigger>lcjsmathjax-mhchem</tabTrigger>
+    <description>Mathjax Mhchem</description>
+</snippet>

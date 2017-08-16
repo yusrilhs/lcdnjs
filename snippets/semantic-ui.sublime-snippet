@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.13/semantic.min.js"></script>
+]]></content>
+    <tabTrigger>lcjssemantic-ui</tabTrigger>
+    <description>Semantic Ui</description>
+</snippet>

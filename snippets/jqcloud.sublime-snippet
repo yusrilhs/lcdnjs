@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jqcloud/1.0.4/jqcloud.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjqcloud</tabTrigger>
+    <description>Jqcloud</description>
+</snippet>

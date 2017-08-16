@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3-voronoi/1.1.2/d3-voronoi.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsd3-voronoi</tabTrigger>
+    <description>D3 Voronoi</description>
+</snippet>

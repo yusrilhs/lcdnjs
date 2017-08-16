@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/dynamics.js/1.1.5/dynamics.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsdynamics.js</tabTrigger>
+    <description>Dynamics.Js</description>
+</snippet>

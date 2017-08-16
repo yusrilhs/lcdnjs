@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-router-default/0.0.6/angular-ui-router-default.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsangular-ui-router-default</tabTrigger>
+    <description>Angular Ui Router Default</description>
+</snippet>

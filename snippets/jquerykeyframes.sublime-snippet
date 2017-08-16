@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquerykeyframes/0.0.9/jquery.keyframes.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjquerykeyframes</tabTrigger>
+    <description>Jquerykeyframes</description>
+</snippet>

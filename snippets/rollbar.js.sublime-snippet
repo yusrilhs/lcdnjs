@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/rollbar.js/2.2.0/rollbar.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsrollbar.js</tabTrigger>
+    <description>Rollbar.Js</description>
+</snippet>

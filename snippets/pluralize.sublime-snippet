@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pluralize/6.0.0/pluralize.min.js"></script>
+]]></content>
+    <tabTrigger>lcjspluralize</tabTrigger>
+    <description>Pluralize</description>
+</snippet>

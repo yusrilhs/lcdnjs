@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3-transition/1.1.0/d3-transition.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsd3-transition</tabTrigger>
+    <description>D3 Transition</description>
+</snippet>

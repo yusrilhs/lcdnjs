@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/playlyfe-odysseus/0.5.6/odysseus.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsplaylyfe-odysseus</tabTrigger>
+    <description>Playlyfe Odysseus</description>
+</snippet>

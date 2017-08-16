@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/cal-heatmap/3.6.2/cal-heatmap.min.js"></script>
+]]></content>
+    <tabTrigger>lcjscal-heatmap</tabTrigger>
+    <description>Cal Heatmap</description>
+</snippet>

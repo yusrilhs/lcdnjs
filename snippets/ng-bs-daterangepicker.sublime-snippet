@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ng-bs-daterangepicker/0.0.6/ng-bs-daterangepicker.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsng-bs-daterangepicker</tabTrigger>
+    <description>Ng Bs Daterangepicker</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/faviconx/1.0.1/faviconx-min.js"></script>
+]]></content>
+    <tabTrigger>lcjsfaviconx</tabTrigger>
+    <description>Faviconx</description>
+</snippet>

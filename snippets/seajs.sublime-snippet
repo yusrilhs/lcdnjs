@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/seajs/3.0.2/sea.js"></script>
+]]></content>
+    <tabTrigger>lcjsseajs</tabTrigger>
+    <description>Seajs</description>
+</snippet>

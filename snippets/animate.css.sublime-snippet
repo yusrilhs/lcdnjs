@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css"></script>
+]]></content>
+    <tabTrigger>lcjsanimate.css</tabTrigger>
+    <description>Animate.Css</description>
+</snippet>

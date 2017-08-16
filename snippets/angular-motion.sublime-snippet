@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-motion/0.4.4/angular-motion.min.css"></script>
+]]></content>
+    <tabTrigger>lcjsangular-motion</tabTrigger>
+    <description>Angular Motion</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/formjs/1.1.1/formjs.min.css"></script>
+]]></content>
+    <tabTrigger>lcjsformjs</tabTrigger>
+    <description>Formjs</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/cryptico/0.0.1343522940/cryptico.min.js"></script>
+]]></content>
+    <tabTrigger>lcjscryptico</tabTrigger>
+    <description>Cryptico</description>
+</snippet>

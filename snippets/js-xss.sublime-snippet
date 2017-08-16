@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/js-xss/0.3.3/xss.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjs-xss</tabTrigger>
+    <description>Js Xss</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ion.calendar/2.0.2/js/ion.calendar.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsion.calendar</tabTrigger>
+    <description>Ion.Calendar</description>
+</snippet>

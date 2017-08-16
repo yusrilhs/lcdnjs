@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/js/swiper.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsSwiper</tabTrigger>
+    <description>Swiper</description>
+</snippet>

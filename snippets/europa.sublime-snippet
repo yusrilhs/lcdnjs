@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/europa/4.0.0/europa.min.js"></script>
+]]></content>
+    <tabTrigger>lcjseuropa</tabTrigger>
+    <description>Europa</description>
+</snippet>

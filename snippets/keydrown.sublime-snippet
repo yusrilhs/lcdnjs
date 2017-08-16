@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/keydrown/1.2.3/keydrown.min.js"></script>
+]]></content>
+    <tabTrigger>lcjskeydrown</tabTrigger>
+    <description>Keydrown</description>
+</snippet>

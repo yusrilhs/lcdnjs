@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ng-clip/0.2.6/ng-clip.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsng-clip</tabTrigger>
+    <description>Ng Clip</description>
+</snippet>

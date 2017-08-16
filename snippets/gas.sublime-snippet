@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gas/1.11.0/gas.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsgas</tabTrigger>
+    <description>Gas</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tauCharts/1.2.1/tauCharts.min.js"></script>
+]]></content>
+    <tabTrigger>lcjstauCharts</tabTrigger>
+    <description>Taucharts</description>
+</snippet>

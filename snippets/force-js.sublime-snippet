@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/force-js/0.1.2/force.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsforce-js</tabTrigger>
+    <description>Force Js</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/textfit/2.3.1/textFit.min.js"></script>
+]]></content>
+    <tabTrigger>lcjstextfit</tabTrigger>
+    <description>Textfit</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-http-auth/1.5.0/http-auth-interceptor.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsangular-http-auth</tabTrigger>
+    <description>Angular Http Auth</description>
+</snippet>

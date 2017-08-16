@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/svg.pan-zoom.js/2.8.0/svg.pan-zoom.min.js"></script>
+]]></content>
+    <tabTrigger>lcjssvg.pan-zoom.js</tabTrigger>
+    <description>Svg.Pan Zoom.Js</description>
+</snippet>

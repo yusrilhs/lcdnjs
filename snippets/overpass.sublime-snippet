@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/overpass/3.0.2/overpass-webfont/overpass.min.css"></script>
+]]></content>
+    <tabTrigger>lcjsoverpass</tabTrigger>
+    <description>Overpass</description>
+</snippet>

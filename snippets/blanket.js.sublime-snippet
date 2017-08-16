@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/blanket.js/1.1.4/blanket.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsblanket.js</tabTrigger>
+    <description>Blanket.Js</description>
+</snippet>

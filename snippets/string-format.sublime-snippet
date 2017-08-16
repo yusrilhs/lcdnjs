@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/string-format/0.5.0/string-format.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsstring-format</tabTrigger>
+    <description>String Format</description>
+</snippet>

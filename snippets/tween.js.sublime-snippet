@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tween.js/17.1.0/Tween.min.js"></script>
+]]></content>
+    <tabTrigger>lcjstween.js</tabTrigger>
+    <description>Tween.Js</description>
+</snippet>

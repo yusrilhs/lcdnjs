@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/cache.adderall/0.1.0/cache.adderall.js"></script>
+]]></content>
+    <tabTrigger>lcjscache.adderall</tabTrigger>
+    <description>Cache.Adderall</description>
+</snippet>

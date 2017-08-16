@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.1.1/css/hover-min.css"></script>
+]]></content>
+    <tabTrigger>lcjshover.css</tabTrigger>
+    <description>Hover.Css</description>
+</snippet>

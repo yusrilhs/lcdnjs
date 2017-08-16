@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/sizzle/2.3.3/sizzle.min.js"></script>
+]]></content>
+    <tabTrigger>lcjssizzle</tabTrigger>
+    <description>Sizzle</description>
+</snippet>

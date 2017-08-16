@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lumx/1.5.27/lumx.min.js"></script>
+]]></content>
+    <tabTrigger>lcjslumx</tabTrigger>
+    <description>Lumx</description>
+</snippet>

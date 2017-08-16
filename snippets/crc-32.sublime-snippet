@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/crc-32/1.1.0/crc32.min.js"></script>
+]]></content>
+    <tabTrigger>lcjscrc-32</tabTrigger>
+    <description>Crc 32</description>
+</snippet>

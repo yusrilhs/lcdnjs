@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/corysimmons-selectivizr2/1.0.9/selectivizr2.min.js"></script>
+]]></content>
+    <tabTrigger>lcjscorysimmons-selectivizr2</tabTrigger>
+    <description>Corysimmons Selectivizr2</description>
+</snippet>

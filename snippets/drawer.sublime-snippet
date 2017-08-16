@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/drawer/3.2.2/js/drawer.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsdrawer</tabTrigger>
+    <description>Drawer</description>
+</snippet>

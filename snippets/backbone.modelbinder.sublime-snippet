@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/backbone.modelbinder/1.1.0/Backbone.ModelBinder.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsbackbone.modelbinder</tabTrigger>
+    <description>Backbone.Modelbinder</description>
+</snippet>

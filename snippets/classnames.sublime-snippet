@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/classnames/2.2.5/index.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsclassnames</tabTrigger>
+    <description>Classnames</description>
+</snippet>

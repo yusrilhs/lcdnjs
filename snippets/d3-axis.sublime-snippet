@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3-axis/1.0.8/d3-axis.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsd3-axis</tabTrigger>
+    <description>D3 Axis</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.4/js/bootstrap-select.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsbootstrap-select</tabTrigger>
+    <description>Bootstrap Select</description>
+</snippet>

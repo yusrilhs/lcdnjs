@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ally.js/1.4.1/ally.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsally.js</tabTrigger>
+    <description>Ally.Js</description>
+</snippet>

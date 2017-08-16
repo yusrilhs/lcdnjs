@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.collapsible/1.2/jquery.collapsible.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjquery.collapsible</tabTrigger>
+    <description>Jquery.Collapsible</description>
+</snippet>

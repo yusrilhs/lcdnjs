@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/shoelace-css/1.0.0-beta9/shoelace.css"></script>
+]]></content>
+    <tabTrigger>lcjsshoelace-css</tabTrigger>
+    <description>Shoelace Css</description>
+</snippet>

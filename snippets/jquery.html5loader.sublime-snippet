@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.html5loader/1.8.0/jquery.html5Loader.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjquery.html5loader</tabTrigger>
+    <description>Jquery.Html5loader</description>
+</snippet>

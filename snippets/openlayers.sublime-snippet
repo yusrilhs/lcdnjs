@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/openlayers/4.3.1/ol.js"></script>
+]]></content>
+    <tabTrigger>lcjsopenlayers</tabTrigger>
+    <description>Openlayers</description>
+</snippet>

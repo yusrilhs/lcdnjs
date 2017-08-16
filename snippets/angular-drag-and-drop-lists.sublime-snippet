@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-drag-and-drop-lists/2.1.0/angular-drag-and-drop-lists.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsangular-drag-and-drop-lists</tabTrigger>
+    <description>Angular Drag And Drop Lists</description>
+</snippet>

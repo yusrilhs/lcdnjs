@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react-semantify/0.6.0/react-semantify.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsreact-semantify</tabTrigger>
+    <description>React Semantify</description>
+</snippet>

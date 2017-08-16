@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/polythene/0.3.0/polythene-standalone.js"></script>
+]]></content>
+    <tabTrigger>lcjspolythene</tabTrigger>
+    <description>Polythene</description>
+</snippet>

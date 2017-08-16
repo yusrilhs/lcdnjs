@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tweetnacl/1.0.0/nacl-fast.min.js"></script>
+]]></content>
+    <tabTrigger>lcjstweetnacl</tabTrigger>
+    <description>Tweetnacl</description>
+</snippet>

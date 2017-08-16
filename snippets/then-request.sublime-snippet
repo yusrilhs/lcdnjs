@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/then-request/2.2.0/request.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsthen-request</tabTrigger>
+    <description>Then Request</description>
+</snippet>

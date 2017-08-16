@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mousetrap/1.6.1/mousetrap.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsmousetrap</tabTrigger>
+    <description>Mousetrap</description>
+</snippet>

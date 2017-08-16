@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/danialfarid-angular-file-upload/12.2.13/ng-file-upload-shim.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsdanialfarid-angular-file-upload</tabTrigger>
+    <description>Danialfarid Angular File Upload</description>
+</snippet>

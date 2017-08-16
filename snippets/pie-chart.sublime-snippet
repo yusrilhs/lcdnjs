@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pie-chart/1.0.0/pie-chart.min.js"></script>
+]]></content>
+    <tabTrigger>lcjspie-chart</tabTrigger>
+    <description>Pie Chart</description>
+</snippet>

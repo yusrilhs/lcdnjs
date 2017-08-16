@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-wysiwyg/1.2.4/angular-wysiwyg.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsangular-wysiwyg</tabTrigger>
+    <description>Angular Wysiwyg</description>
+</snippet>

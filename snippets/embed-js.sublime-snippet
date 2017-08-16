@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/embed-js/4.2.3/embed.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsembed-js</tabTrigger>
+    <description>Embed Js</description>
+</snippet>

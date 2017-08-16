@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mobi.css/1.2.0/mobi.min.css"></script>
+]]></content>
+    <tabTrigger>lcjsmobi.css</tabTrigger>
+    <description>Mobi.Css</description>
+</snippet>

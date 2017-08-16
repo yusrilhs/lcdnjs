@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/octicons.min.css"></script>
+]]></content>
+    <tabTrigger>lcjsocticons</tabTrigger>
+    <description>Octicons</description>
+</snippet>

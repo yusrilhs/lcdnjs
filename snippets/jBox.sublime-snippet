@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jBox/0.4.8/jBox.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjBox</tabTrigger>
+    <description>Jbox</description>
+</snippet>

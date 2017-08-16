@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/detectizr/2.2.0/detectizr.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsdetectizr</tabTrigger>
+    <description>Detectizr</description>
+</snippet>

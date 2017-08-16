@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/crossroads/0.12.2/crossroads.min.js"></script>
+]]></content>
+    <tabTrigger>lcjscrossroads</tabTrigger>
+    <description>Crossroads</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react-markdown/2.5.0/react-markdown.js"></script>
+]]></content>
+    <tabTrigger>lcjsreact-markdown</tabTrigger>
+    <description>React Markdown</description>
+</snippet>

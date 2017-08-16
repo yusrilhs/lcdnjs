@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fermata/0.10.8/fermata.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsfermata</tabTrigger>
+    <description>Fermata</description>
+</snippet>

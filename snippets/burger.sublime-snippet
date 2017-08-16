@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/burger/2.0.2/scripts/burger.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsburger</tabTrigger>
+    <description>Burger</description>
+</snippet>

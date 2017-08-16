@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/animo.js/1.0.3/animo.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsanimo.js</tabTrigger>
+    <description>Animo.Js</description>
+</snippet>

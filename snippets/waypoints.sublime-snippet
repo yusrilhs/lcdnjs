@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/noframework.waypoints.min.js"></script>
+]]></content>
+    <tabTrigger>lcjswaypoints</tabTrigger>
+    <description>Waypoints</description>
+</snippet>

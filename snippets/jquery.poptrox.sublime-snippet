@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.poptrox/2.5.1/jquery.poptrox.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjquery.poptrox</tabTrigger>
+    <description>Jquery.Poptrox</description>
+</snippet>

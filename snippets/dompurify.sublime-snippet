@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/1.0.0/purify.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsdompurify</tabTrigger>
+    <description>Dompurify</description>
+</snippet>

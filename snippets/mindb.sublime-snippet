@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mindb/0.1.17/min.js"></script>
+]]></content>
+    <tabTrigger>lcjsmindb</tabTrigger>
+    <description>Mindb</description>
+</snippet>

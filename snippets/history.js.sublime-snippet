@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/history.js/1.8/native.history.min.js"></script>
+]]></content>
+    <tabTrigger>lcjshistory.js</tabTrigger>
+    <description>History.Js</description>
+</snippet>

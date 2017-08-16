@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/font/css/open-iconic.min.css"></script>
+]]></content>
+    <tabTrigger>lcjsopen-iconic</tabTrigger>
+    <description>Open Iconic</description>
+</snippet>

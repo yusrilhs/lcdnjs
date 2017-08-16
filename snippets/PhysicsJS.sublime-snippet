@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/PhysicsJS/0.7.0/physicsjs.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsPhysicsJS</tabTrigger>
+    <description>Physicsjs</description>
+</snippet>

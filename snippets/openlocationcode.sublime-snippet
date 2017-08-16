@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/openlocationcode/1.0.1/openlocationcode.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsopenlocationcode</tabTrigger>
+    <description>Openlocationcode</description>
+</snippet>

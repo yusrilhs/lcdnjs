@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-material-data-table/0.10.10/md-data-table.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsangular-material-data-table</tabTrigger>
+    <description>Angular Material Data Table</description>
+</snippet>

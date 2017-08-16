@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/2.8.0/github-markdown.min.css"></script>
+]]></content>
+    <tabTrigger>lcjsgithub-markdown-css</tabTrigger>
+    <description>Github Markdown Css</description>
+</snippet>

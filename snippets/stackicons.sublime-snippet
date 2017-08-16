@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/stackicons/1.0/css/stackicons-min.css"></script>
+]]></content>
+    <tabTrigger>lcjsstackicons</tabTrigger>
+    <description>Stackicons</description>
+</snippet>

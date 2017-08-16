@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-sortable/0.17.1/sortable.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsangular-ui-sortable</tabTrigger>
+    <description>Angular Ui Sortable</description>
+</snippet>

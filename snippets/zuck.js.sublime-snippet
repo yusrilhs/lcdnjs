@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/zuck.js/1.0.4/zuck.min.js"></script>
+]]></content>
+    <tabTrigger>lcjszuck.js</tabTrigger>
+    <description>Zuck.Js</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tipograf/2.0.0/tipograf.min.css"></script>
+]]></content>
+    <tabTrigger>lcjstipograf</tabTrigger>
+    <description>Tipograf</description>
+</snippet>

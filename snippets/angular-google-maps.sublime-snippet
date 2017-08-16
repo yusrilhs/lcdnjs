@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-google-maps/2.4.1/angular-google-maps.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsangular-google-maps</tabTrigger>
+    <description>Angular Google Maps</description>
+</snippet>

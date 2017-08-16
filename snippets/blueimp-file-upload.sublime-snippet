@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/blueimp-file-upload/9.18.0/js/jquery.fileupload.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsblueimp-file-upload</tabTrigger>
+    <description>Blueimp File Upload</description>
+</snippet>

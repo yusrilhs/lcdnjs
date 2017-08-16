@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pipes-core/0.8.4/pipes.core.min.js"></script>
+]]></content>
+    <tabTrigger>lcjspipes-core</tabTrigger>
+    <description>Pipes Core</description>
+</snippet>

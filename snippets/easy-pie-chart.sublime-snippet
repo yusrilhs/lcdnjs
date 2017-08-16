@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/easy-pie-chart/2.1.6/jquery.easypiechart.min.js"></script>
+]]></content>
+    <tabTrigger>lcjseasy-pie-chart</tabTrigger>
+    <description>Easy Pie Chart</description>
+</snippet>

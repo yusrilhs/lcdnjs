@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mojio-js/3.5.2/mojio-js.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsmojio-js</tabTrigger>
+    <description>Mojio Js</description>
+</snippet>

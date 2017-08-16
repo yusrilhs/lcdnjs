@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/SpeechKITT/0.3.0/speechkitt.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsSpeechKITT</tabTrigger>
+    <description>Speechkitt</description>
+</snippet>

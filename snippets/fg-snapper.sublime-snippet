@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fg-snapper/3.0.0/snapper.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsfg-snapper</tabTrigger>
+    <description>Fg Snapper</description>
+</snippet>

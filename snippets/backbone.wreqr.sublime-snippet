@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/backbone.wreqr/1.4.0/backbone.wreqr.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsbackbone.wreqr</tabTrigger>
+    <description>Backbone.Wreqr</description>
+</snippet>

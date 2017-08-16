@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/responsive-elements/1.0.2/responsive-elements.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsresponsive-elements</tabTrigger>
+    <description>Responsive Elements</description>
+</snippet>

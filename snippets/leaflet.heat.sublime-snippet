@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.heat/0.2.0/leaflet-heat.js"></script>
+]]></content>
+    <tabTrigger>lcjsleaflet.heat</tabTrigger>
+    <description>Leaflet.Heat</description>
+</snippet>

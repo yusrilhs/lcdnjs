@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bottleneck/1.16.0/bottleneck.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsbottleneck</tabTrigger>
+    <description>Bottleneck</description>
+</snippet>

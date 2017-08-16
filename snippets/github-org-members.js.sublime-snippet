@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/github-org-members.js/1.2.7/github-org-members.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsgithub-org-members.js</tabTrigger>
+    <description>Github Org Members.Js</description>
+</snippet>

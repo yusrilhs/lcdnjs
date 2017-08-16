@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/amcharts/3.21.5/amcharts.js"></script>
+]]></content>
+    <tabTrigger>lcjsamcharts</tabTrigger>
+    <description>Amcharts</description>
+</snippet>

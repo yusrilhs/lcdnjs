@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/graphael/0.5.1/g.raphael-min.js"></script>
+]]></content>
+    <tabTrigger>lcjsgraphael</tabTrigger>
+    <description>Graphael</description>
+</snippet>

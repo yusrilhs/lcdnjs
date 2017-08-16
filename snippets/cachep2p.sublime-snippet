@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/cachep2p/0.1.6/cachep2p.min.js"></script>
+]]></content>
+    <tabTrigger>lcjscachep2p</tabTrigger>
+    <description>Cachep2p</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lave/1.1.10/lave.js"></script>
+]]></content>
+    <tabTrigger>lcjslave</tabTrigger>
+    <description>Lave</description>
+</snippet>

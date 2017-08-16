@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mocha/3.5.0/mocha.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsmocha</tabTrigger>
+    <description>Mocha</description>
+</snippet>

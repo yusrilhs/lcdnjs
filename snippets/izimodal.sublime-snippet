@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/izimodal/1.5.0/js/iziModal.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsizimodal</tabTrigger>
+    <description>Izimodal</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ion-sound/3.0.7/js/ion.sound.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsion-sound</tabTrigger>
+    <description>Ion Sound</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.1.2/lunr.min.js"></script>
+]]></content>
+    <tabTrigger>lcjslunr.js</tabTrigger>
+    <description>Lunr.Js</description>
+</snippet>

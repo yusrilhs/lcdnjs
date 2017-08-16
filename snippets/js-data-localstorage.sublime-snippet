@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/js-data-localstorage/2.3.2/js-data-localstorage.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjs-data-localstorage</tabTrigger>
+    <description>Js Data Localstorage</description>
+</snippet>

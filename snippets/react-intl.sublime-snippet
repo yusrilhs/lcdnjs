@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react-intl/1.2.2/react-intl.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsreact-intl</tabTrigger>
+    <description>React Intl</description>
+</snippet>

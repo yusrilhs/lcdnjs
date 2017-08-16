@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-countto/1.2.0/jquery.countTo.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjquery-countto</tabTrigger>
+    <description>Jquery Countto</description>
+</snippet>

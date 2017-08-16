@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdui/0.3.0/js/mdui.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsmdui</tabTrigger>
+    <description>Mdui</description>
+</snippet>

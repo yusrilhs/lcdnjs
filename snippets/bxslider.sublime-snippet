@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.12/jquery.bxslider.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsbxslider</tabTrigger>
+    <description>Bxslider</description>
+</snippet>

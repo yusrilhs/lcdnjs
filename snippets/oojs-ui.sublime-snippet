@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/oojs-ui/0.22.4/oojs-ui.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsoojs-ui</tabTrigger>
+    <description>Oojs Ui</description>
+</snippet>

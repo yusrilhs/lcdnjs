@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/zui/1.7.0/js/zui.min.js"></script>
+]]></content>
+    <tabTrigger>lcjszui</tabTrigger>
+    <description>Zui</description>
+</snippet>

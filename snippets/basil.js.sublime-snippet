@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/basil.js/0.4.5/basil.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsbasil.js</tabTrigger>
+    <description>Basil.Js</description>
+</snippet>

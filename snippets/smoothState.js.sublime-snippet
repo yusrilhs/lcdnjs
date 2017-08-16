@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/smoothState.js/0.7.2/jquery.smoothState.min.js"></script>
+]]></content>
+    <tabTrigger>lcjssmoothState.js</tabTrigger>
+    <description>Smoothstate.Js</description>
+</snippet>

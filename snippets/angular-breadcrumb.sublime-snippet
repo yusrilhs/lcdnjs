@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-breadcrumb/0.5.0/angular-breadcrumb.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsangular-breadcrumb</tabTrigger>
+    <description>Angular Breadcrumb</description>
+</snippet>

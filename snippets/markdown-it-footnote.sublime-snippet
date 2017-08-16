@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/markdown-it-footnote/3.0.1/markdown-it-footnote.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsmarkdown-it-footnote</tabTrigger>
+    <description>Markdown It Footnote</description>
+</snippet>

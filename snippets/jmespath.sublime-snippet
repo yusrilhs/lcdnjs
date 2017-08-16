@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jmespath/0.15.0/jmespath.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjmespath</tabTrigger>
+    <description>Jmespath</description>
+</snippet>

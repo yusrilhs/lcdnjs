@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/sigma.js/1.2.0/sigma.min.js"></script>
+]]></content>
+    <tabTrigger>lcjssigma.js</tabTrigger>
+    <description>Sigma.Js</description>
+</snippet>

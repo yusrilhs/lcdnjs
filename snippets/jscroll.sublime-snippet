@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jscroll/2.3.9/jquery.jscroll.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjscroll</tabTrigger>
+    <description>Jscroll</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3-dispatch/1.0.3/d3-dispatch.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsd3-dispatch</tabTrigger>
+    <description>D3 Dispatch</description>
+</snippet>

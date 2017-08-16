@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/expect.js/0.2.0/expect.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsexpect.js</tabTrigger>
+    <description>Expect.Js</description>
+</snippet>

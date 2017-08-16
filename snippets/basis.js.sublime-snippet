@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/basis.js/1.10.3/basis.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsbasis.js</tabTrigger>
+    <description>Basis.Js</description>
+</snippet>

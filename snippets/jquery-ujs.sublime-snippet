@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-ujs/1.2.2/rails.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjquery-ujs</tabTrigger>
+    <description>Jquery Ujs</description>
+</snippet>

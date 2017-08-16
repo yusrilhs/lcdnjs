@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/asciidoctor.js/1.5.6-preview.3/asciidoctor.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsasciidoctor.js</tabTrigger>
+    <description>Asciidoctor.Js</description>
+</snippet>

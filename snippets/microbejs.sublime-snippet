@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/microbejs/0.5.2/microbe.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsmicrobejs</tabTrigger>
+    <description>Microbejs</description>
+</snippet>

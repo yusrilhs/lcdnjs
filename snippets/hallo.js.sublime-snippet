@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hallo.js/1.1.1/hallo.min.js"></script>
+]]></content>
+    <tabTrigger>lcjshallo.js</tabTrigger>
+    <description>Hallo.Js</description>
+</snippet>

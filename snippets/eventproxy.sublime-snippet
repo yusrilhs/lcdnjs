@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/eventproxy/1.0.0/eventproxy.min.js"></script>
+]]></content>
+    <tabTrigger>lcjseventproxy</tabTrigger>
+    <description>Eventproxy</description>
+</snippet>

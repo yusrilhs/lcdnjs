@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/frontpress/1.0.8/frontpress.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsfrontpress</tabTrigger>
+    <description>Frontpress</description>
+</snippet>

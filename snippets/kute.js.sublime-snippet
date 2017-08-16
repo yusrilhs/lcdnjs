@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/kute.js/1.6.2/kute.min.js"></script>
+]]></content>
+    <tabTrigger>lcjskute.js</tabTrigger>
+    <description>Kute.Js</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ready.js/0.1.2/ready.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsready.js</tabTrigger>
+    <description>Ready.Js</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-smooth-scrollbar/7.2.0/angular-smooth-scrollbar.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsangular-smooth-scrollbar</tabTrigger>
+    <description>Angular Smooth Scrollbar</description>
+</snippet>

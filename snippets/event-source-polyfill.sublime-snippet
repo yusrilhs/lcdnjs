@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/event-source-polyfill/0.0.9/eventsource.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsevent-source-polyfill</tabTrigger>
+    <description>Event Source Polyfill</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3-shape/1.2.0/d3-shape.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsd3-shape</tabTrigger>
+    <description>D3 Shape</description>
+</snippet>

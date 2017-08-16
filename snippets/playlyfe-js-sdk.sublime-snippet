@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/playlyfe-js-sdk/1.0.1/playlyfe-js-sdk.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsplaylyfe-js-sdk</tabTrigger>
+    <description>Playlyfe Js Sdk</description>
+</snippet>

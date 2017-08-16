@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/line-chart/2.0.28/LineChart.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsline-chart</tabTrigger>
+    <description>Line Chart</description>
+</snippet>

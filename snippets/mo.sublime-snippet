@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mo/1.7.3/lang.js"></script>
+]]></content>
+    <tabTrigger>lcjsmo</tabTrigger>
+    <description>Mo</description>
+</snippet>

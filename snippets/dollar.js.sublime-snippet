@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/dollar.js/1.5.1/dollar.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsdollar.js</tabTrigger>
+    <description>Dollar.Js</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ng-i18next/1.0.4/ng-i18next.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsng-i18next</tabTrigger>
+    <description>Ng I18next</description>
+</snippet>

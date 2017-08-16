@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/iGrowl/3.0.3/js/igrowl.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsiGrowl</tabTrigger>
+    <description>Igrowl</description>
+</snippet>

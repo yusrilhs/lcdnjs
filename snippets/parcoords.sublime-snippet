@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/parcoords/0.7.0/d3.parcoords.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsparcoords</tabTrigger>
+    <description>Parcoords</description>
+</snippet>

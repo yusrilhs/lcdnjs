@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-material-design/4.0.2/bootstrap-material-design.umd.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsbootstrap-material-design</tabTrigger>
+    <description>Bootstrap Material Design</description>
+</snippet>

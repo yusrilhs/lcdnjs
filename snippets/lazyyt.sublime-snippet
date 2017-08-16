@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lazyyt/0.3.4/lazyYT.min.js"></script>
+]]></content>
+    <tabTrigger>lcjslazyyt</tabTrigger>
+    <description>Lazyyt</description>
+</snippet>

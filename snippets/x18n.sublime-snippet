@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/x18n/2.0.3/x18n.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsx18n</tabTrigger>
+    <description>X18n</description>
+</snippet>

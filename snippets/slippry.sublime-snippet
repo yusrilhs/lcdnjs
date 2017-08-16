@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/slippry/1.4.0/slippry.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsslippry</tabTrigger>
+    <description>Slippry</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.iframetracker/1.1.0/jquery.iframetracker.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjquery.iframetracker</tabTrigger>
+    <description>Jquery.Iframetracker</description>
+</snippet>

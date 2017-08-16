@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/scaleapp/0.4.3/scaleapp.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsscaleapp</tabTrigger>
+    <description>Scaleapp</description>
+</snippet>

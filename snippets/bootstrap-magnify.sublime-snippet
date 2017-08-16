@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-magnify/0.3.0/js/bootstrap-magnify.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsbootstrap-magnify</tabTrigger>
+    <description>Bootstrap Magnify</description>
+</snippet>

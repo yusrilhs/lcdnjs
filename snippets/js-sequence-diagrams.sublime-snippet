@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/js-sequence-diagrams/1.0.6/sequence-diagram-min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjs-sequence-diagrams</tabTrigger>
+    <description>Js Sequence Diagrams</description>
+</snippet>

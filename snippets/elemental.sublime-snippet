@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/elemental/0.5.3/elemental.min.js"></script>
+]]></content>
+    <tabTrigger>lcjselemental</tabTrigger>
+    <description>Elemental</description>
+</snippet>

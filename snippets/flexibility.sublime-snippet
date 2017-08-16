@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/flexibility/2.0.1/flexibility.js"></script>
+]]></content>
+    <tabTrigger>lcjsflexibility</tabTrigger>
+    <description>Flexibility</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/apng-canvas/2.1.1/apng-canvas.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsapng-canvas</tabTrigger>
+    <description>Apng Canvas</description>
+</snippet>

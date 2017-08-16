@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/zTree.v3/3.5.29/js/jquery.ztree.all.min.js"></script>
+]]></content>
+    <tabTrigger>lcjszTree.v3</tabTrigger>
+    <description>Ztree.V3</description>
+</snippet>

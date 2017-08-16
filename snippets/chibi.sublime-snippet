@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/chibi/3.0.9/chibi-min.js"></script>
+]]></content>
+    <tabTrigger>lcjschibi</tabTrigger>
+    <description>Chibi</description>
+</snippet>

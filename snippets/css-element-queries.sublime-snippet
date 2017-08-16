@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/css-element-queries/0.4.0/ElementQueries.min.js"></script>
+]]></content>
+    <tabTrigger>lcjscss-element-queries</tabTrigger>
+    <description>Css Element Queries</description>
+</snippet>

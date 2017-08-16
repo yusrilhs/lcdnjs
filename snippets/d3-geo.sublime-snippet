@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3-geo/1.6.4/d3-geo.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsd3-geo</tabTrigger>
+    <description>D3 Geo</description>
+</snippet>

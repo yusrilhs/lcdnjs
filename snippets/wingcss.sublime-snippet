@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/wingcss/0.1.9/wing.min.css"></script>
+]]></content>
+    <tabTrigger>lcjswingcss</tabTrigger>
+    <description>Wingcss</description>
+</snippet>

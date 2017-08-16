@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/highchartTable/2.0.0/jquery.highchartTable.min.js"></script>
+]]></content>
+    <tabTrigger>lcjshighchartTable</tabTrigger>
+    <description>Highcharttable</description>
+</snippet>

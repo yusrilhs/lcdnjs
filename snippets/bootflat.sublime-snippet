@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootflat/2.0.4/css/bootflat.min.css"></script>
+]]></content>
+    <tabTrigger>lcjsbootflat</tabTrigger>
+    <description>Bootflat</description>
+</snippet>

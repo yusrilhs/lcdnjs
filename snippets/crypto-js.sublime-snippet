@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.min.js"></script>
+]]></content>
+    <tabTrigger>lcjscrypto-js</tabTrigger>
+    <description>Crypto Js</description>
+</snippet>

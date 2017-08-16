@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jump.js/1.0.2/jump.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjump.js</tabTrigger>
+    <description>Jump.Js</description>
+</snippet>

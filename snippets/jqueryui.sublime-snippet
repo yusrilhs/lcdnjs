@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjqueryui</tabTrigger>
+    <description>Jqueryui</description>
+</snippet>

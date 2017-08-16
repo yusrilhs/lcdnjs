@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/picomodal/3.0.0/picoModal.min.js"></script>
+]]></content>
+    <tabTrigger>lcjspicomodal</tabTrigger>
+    <description>Picomodal</description>
+</snippet>

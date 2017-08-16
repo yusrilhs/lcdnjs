@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/paypaljsbuttons/2.0.1/paypal-button.min.js"></script>
+]]></content>
+    <tabTrigger>lcjspaypaljsbuttons</tabTrigger>
+    <description>Paypaljsbuttons</description>
+</snippet>

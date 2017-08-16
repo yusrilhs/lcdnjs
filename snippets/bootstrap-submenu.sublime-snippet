@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-submenu/2.0.4/js/bootstrap-submenu.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsbootstrap-submenu</tabTrigger>
+    <description>Bootstrap Submenu</description>
+</snippet>

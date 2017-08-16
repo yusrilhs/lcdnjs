@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/motion-ui/1.2.3/motion-ui.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsmotion-ui</tabTrigger>
+    <description>Motion Ui</description>
+</snippet>

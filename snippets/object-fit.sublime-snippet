@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/object-fit/0.4.3/polyfill.object-fit.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsobject-fit</tabTrigger>
+    <description>Object Fit</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jReject/1.1.4/js/jquery.reject.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjReject</tabTrigger>
+    <description>Jreject</description>
+</snippet>

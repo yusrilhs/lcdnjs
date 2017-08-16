@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react-nvd3/0.5.7/react-nvd3.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsreact-nvd3</tabTrigger>
+    <description>React Nvd3</description>
+</snippet>

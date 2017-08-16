@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/3.0.3/tocbot.min.js"></script>
+]]></content>
+    <tabTrigger>lcjstocbot</tabTrigger>
+    <description>Tocbot</description>
+</snippet>

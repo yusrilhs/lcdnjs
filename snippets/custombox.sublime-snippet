@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/custombox/4.0.3/custombox.min.js"></script>
+]]></content>
+    <tabTrigger>lcjscustombox</tabTrigger>
+    <description>Custombox</description>
+</snippet>

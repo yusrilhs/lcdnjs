@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/minireset.css/0.0.2/minireset.min.css"></script>
+]]></content>
+    <tabTrigger>lcjsminireset.css</tabTrigger>
+    <description>Minireset.Css</description>
+</snippet>

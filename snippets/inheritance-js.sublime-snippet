@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/inheritance-js/0.4.12/inheritance.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsinheritance-js</tabTrigger>
+    <description>Inheritance Js</description>
+</snippet>

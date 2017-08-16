@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/quo.js/2.3.6/quo.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsquo.js</tabTrigger>
+    <description>Quo.Js</description>
+</snippet>

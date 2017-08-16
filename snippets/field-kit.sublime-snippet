@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/field-kit/2.1.0/field-kit.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsfield-kit</tabTrigger>
+    <description>Field Kit</description>
+</snippet>

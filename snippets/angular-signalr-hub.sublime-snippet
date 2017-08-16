@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-signalr-hub/1.6.3/signalr-hub.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsangular-signalr-hub</tabTrigger>
+    <description>Angular Signalr Hub</description>
+</snippet>

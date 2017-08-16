@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pagex/2.3.0/pagex.min.js"></script>
+]]></content>
+    <tabTrigger>lcjspagex</tabTrigger>
+    <description>Pagex</description>
+</snippet>

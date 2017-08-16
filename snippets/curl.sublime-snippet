@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/curl/0.8.9/curl-for-jQuery/curl.min.js"></script>
+]]></content>
+    <tabTrigger>lcjscurl</tabTrigger>
+    <description>Curl</description>
+</snippet>

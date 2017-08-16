@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-hash/0.2.1/leaflet-hash.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsleaflet-hash</tabTrigger>
+    <description>Leaflet Hash</description>
+</snippet>

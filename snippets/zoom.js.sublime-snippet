@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/zoom.js/0.0.1/zoom.min.js"></script>
+]]></content>
+    <tabTrigger>lcjszoom.js</tabTrigger>
+    <description>Zoom.Js</description>
+</snippet>

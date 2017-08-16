@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/coordinates-picker/1.0.0/coordinates-picker.min.js"></script>
+]]></content>
+    <tabTrigger>lcjscoordinates-picker</tabTrigger>
+    <description>Coordinates Picker</description>
+</snippet>

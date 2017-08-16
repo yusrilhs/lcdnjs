@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/retina.js/2.1.2/retina.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsretina.js</tabTrigger>
+    <description>Retina.Js</description>
+</snippet>

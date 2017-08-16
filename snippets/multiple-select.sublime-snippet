@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/multiple-select/1.2.0/multiple-select.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsmultiple-select</tabTrigger>
+    <description>Multiple Select</description>
+</snippet>

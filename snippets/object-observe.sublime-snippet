@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/object-observe/0.2.6/object-observe.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsobject-observe</tabTrigger>
+    <description>Object Observe</description>
+</snippet>

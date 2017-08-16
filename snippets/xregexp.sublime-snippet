@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/xregexp/3.2.0/xregexp-all.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsxregexp</tabTrigger>
+    <description>Xregexp</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/flux/3.1.3/Flux.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsflux</tabTrigger>
+    <description>Flux</description>
+</snippet>

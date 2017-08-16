@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Captionator/0.6/js/captionator-min.js"></script>
+]]></content>
+    <tabTrigger>lcjsCaptionator</tabTrigger>
+    <description>Captionator</description>
+</snippet>

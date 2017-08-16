@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/billboard.js/1.0.1/billboard.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsbillboard.js</tabTrigger>
+    <description>Billboard.Js</description>
+</snippet>

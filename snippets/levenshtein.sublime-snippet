@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/levenshtein/1.0.5/levenshtein.min.js"></script>
+]]></content>
+    <tabTrigger>lcjslevenshtein</tabTrigger>
+    <description>Levenshtein</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/web-socket-js/1.0.0/web_socket.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsweb-socket-js</tabTrigger>
+    <description>Web Socket Js</description>
+</snippet>

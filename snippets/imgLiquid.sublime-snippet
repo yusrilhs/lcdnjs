@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/imgLiquid/0.9.944/js/imgLiquid-min.js"></script>
+]]></content>
+    <tabTrigger>lcjsimgLiquid</tabTrigger>
+    <description>Imgliquid</description>
+</snippet>

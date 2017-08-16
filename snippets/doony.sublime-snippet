@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/doony/2.1/js/doony.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsdoony</tabTrigger>
+    <description>Doony</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-mousewheel/1.0.5/mousewheel.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsangular-mousewheel</tabTrigger>
+    <description>Angular Mousewheel</description>
+</snippet>

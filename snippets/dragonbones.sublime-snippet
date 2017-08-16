@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/dragonbones/2.4.1/dragonbones.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsdragonbones</tabTrigger>
+    <description>Dragonbones</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-translate-storage-cookie/2.15.2/angular-translate-storage-cookie.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsangular-translate-storage-cookie</tabTrigger>
+    <description>Angular Translate Storage Cookie</description>
+</snippet>

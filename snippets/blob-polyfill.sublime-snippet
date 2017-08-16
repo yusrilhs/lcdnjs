@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/blob-polyfill/1.0.20150320/Blob.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsblob-polyfill</tabTrigger>
+    <description>Blob Polyfill</description>
+</snippet>

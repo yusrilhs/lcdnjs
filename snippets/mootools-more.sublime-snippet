@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mootools-more/1.6.0/mootools-more-compressed.js"></script>
+]]></content>
+    <tabTrigger>lcjsmootools-more</tabTrigger>
+    <description>Mootools More</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-slick-carousel/3.1.7/angular-slick.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsangular-slick-carousel</tabTrigger>
+    <description>Angular Slick Carousel</description>
+</snippet>

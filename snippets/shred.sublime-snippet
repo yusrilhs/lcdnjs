@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/shred/0.8.10/shred.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsshred</tabTrigger>
+    <description>Shred</description>
+</snippet>

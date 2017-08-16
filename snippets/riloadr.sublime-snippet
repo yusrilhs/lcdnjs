@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/riloadr/1.5.3/riloadr.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsriloadr</tabTrigger>
+    <description>Riloadr</description>
+</snippet>

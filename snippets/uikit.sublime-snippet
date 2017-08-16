@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/uikit/2.27.4/js/uikit.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsuikit</tabTrigger>
+    <description>Uikit</description>
+</snippet>

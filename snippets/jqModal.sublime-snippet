@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jqModal/1.4.2/jqModal.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjqModal</tabTrigger>
+    <description>Jqmodal</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jszip-utils/0.0.2/jszip-utils.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjszip-utils</tabTrigger>
+    <description>Jszip Utils</description>
+</snippet>

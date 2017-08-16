@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/zingchart-react/1.0.6/zingchart-react.min.js"></script>
+]]></content>
+    <tabTrigger>lcjszingchart-react</tabTrigger>
+    <description>Zingchart React</description>
+</snippet>

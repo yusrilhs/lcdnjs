@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Trip.js/3.3.3/trip.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsTrip.js</tabTrigger>
+    <description>Trip.Js</description>
+</snippet>

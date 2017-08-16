@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.11.1/bootstrap-table.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsbootstrap-table</tabTrigger>
+    <description>Bootstrap Table</description>
+</snippet>

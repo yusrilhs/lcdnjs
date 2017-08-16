@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tez.js/9.4.1/Tez.min.js"></script>
+]]></content>
+    <tabTrigger>lcjstez.js</tabTrigger>
+    <description>Tez.Js</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/convnetjs/0.3.0/convnet-min.js"></script>
+]]></content>
+    <tabTrigger>lcjsconvnetjs</tabTrigger>
+    <description>Convnetjs</description>
+</snippet>

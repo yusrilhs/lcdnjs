@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/wavesurfer.js/1.4.0/wavesurfer.min.js"></script>
+]]></content>
+    <tabTrigger>lcjswavesurfer.js</tabTrigger>
+    <description>Wavesurfer.Js</description>
+</snippet>

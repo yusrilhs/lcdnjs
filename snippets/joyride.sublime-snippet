@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/joyride/2.1.0/jquery.joyride.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjoyride</tabTrigger>
+    <description>Joyride</description>
+</snippet>

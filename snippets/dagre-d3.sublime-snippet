@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/dagre-d3/0.4.17/dagre-d3.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsdagre-d3</tabTrigger>
+    <description>Dagre D3</description>
+</snippet>

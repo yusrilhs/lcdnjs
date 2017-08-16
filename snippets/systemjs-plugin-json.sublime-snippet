@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/systemjs-plugin-json/0.3.0/json.min.js"></script>
+]]></content>
+    <tabTrigger>lcjssystemjs-plugin-json</tabTrigger>
+    <description>Systemjs Plugin Json</description>
+</snippet>

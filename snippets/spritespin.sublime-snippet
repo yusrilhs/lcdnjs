@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/spritespin/3.4.3/spritespin.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsspritespin</tabTrigger>
+    <description>Spritespin</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/signalr.js/2.2.2/jquery.signalR.min.js"></script>
+]]></content>
+    <tabTrigger>lcjssignalr.js</tabTrigger>
+    <description>Signalr.Js</description>
+</snippet>

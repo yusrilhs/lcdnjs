@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Backbone.dualStorage/1.4.1/backbone.dualstorage.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsBackbone.dualStorage</tabTrigger>
+    <description>Backbone.Dualstorage</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/machina.js/2.0.0/machina.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsmachina.js</tabTrigger>
+    <description>Machina.Js</description>
+</snippet>

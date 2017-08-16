@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/authy-forms.js/2.2/form.authy.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsauthy-forms.js</tabTrigger>
+    <description>Authy Forms.Js</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/multiple.js/0.0.1/multiple.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsmultiple.js</tabTrigger>
+    <description>Multiple.Js</description>
+</snippet>

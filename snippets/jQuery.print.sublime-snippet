@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jQuery.print/1.5.1/jQuery.print.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjQuery.print</tabTrigger>
+    <description>Jquery.Print</description>
+</snippet>

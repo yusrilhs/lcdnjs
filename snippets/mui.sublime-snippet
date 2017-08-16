@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mui/3.4.0/js/mui.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsmui</tabTrigger>
+    <description>Mui</description>
+</snippet>

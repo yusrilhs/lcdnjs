@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fabric.js/1.7.17/fabric.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsfabric.js</tabTrigger>
+    <description>Fabric.Js</description>
+</snippet>

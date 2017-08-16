@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jQuery-Paging/1.2.0/jquery.paging.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjQuery-Paging</tabTrigger>
+    <description>Jquery Paging</description>
+</snippet>

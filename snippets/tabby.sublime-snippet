@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tabby/11.2.0/js/tabby.min.js"></script>
+]]></content>
+    <tabTrigger>lcjstabby</tabTrigger>
+    <description>Tabby</description>
+</snippet>

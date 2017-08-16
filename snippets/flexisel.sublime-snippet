@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/flexisel/2.2.2/js/jquery.flexisel.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsflexisel</tabTrigger>
+    <description>Flexisel</description>
+</snippet>

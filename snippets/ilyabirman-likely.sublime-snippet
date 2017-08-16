@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ilyabirman-likely/2.2.3/likely.js"></script>
+]]></content>
+    <tabTrigger>lcjsilyabirman-likely</tabTrigger>
+    <description>Ilyabirman Likely</description>
+</snippet>

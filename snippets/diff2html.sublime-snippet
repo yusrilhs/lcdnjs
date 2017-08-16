@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/diff2html/2.3.0/diff2html.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsdiff2html</tabTrigger>
+    <description>Diff2html</description>
+</snippet>

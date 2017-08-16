@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-popup-overlay/1.7.9/jquery.popupoverlay.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjquery-popup-overlay</tabTrigger>
+    <description>Jquery Popup Overlay</description>
+</snippet>

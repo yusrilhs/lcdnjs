@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/three.js/86/three.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsthree.js</tabTrigger>
+    <description>Three.Js</description>
+</snippet>

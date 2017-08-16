@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/justifiedGallery/3.6.3/js/jquery.justifiedGallery.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjustifiedGallery</tabTrigger>
+    <description>Justifiedgallery</description>
+</snippet>

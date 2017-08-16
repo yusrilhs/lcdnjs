@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/stacktrace.js/2.0.0/stacktrace.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsstacktrace.js</tabTrigger>
+    <description>Stacktrace.Js</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.9.2/jplayer/jquery.jplayer.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjplayer</tabTrigger>
+    <description>Jplayer</description>
+</snippet>

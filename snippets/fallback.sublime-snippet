@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fallback/1.1.8/fallback.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsfallback</tabTrigger>
+    <description>Fallback</description>
+</snippet>

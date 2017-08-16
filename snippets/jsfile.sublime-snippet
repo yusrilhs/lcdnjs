@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jsfile/0.1.17/jsfile.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjsfile</tabTrigger>
+    <description>Jsfile</description>
+</snippet>

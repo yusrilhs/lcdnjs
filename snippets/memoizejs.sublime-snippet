@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/memoizejs/0.1.1/memoize.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsmemoizejs</tabTrigger>
+    <description>Memoizejs</description>
+</snippet>

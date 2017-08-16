@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/imager.js/0.5.1/Imager.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsimager.js</tabTrigger>
+    <description>Imager.Js</description>
+</snippet>

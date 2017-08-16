@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/coffee-script/1.12.7/coffee-script.min.js"></script>
+]]></content>
+    <tabTrigger>lcjscoffee-script</tabTrigger>
+    <description>Coffee Script</description>
+</snippet>

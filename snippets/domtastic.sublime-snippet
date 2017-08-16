@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/domtastic/0.12.1/domtastic.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsdomtastic</tabTrigger>
+    <description>Domtastic</description>
+</snippet>

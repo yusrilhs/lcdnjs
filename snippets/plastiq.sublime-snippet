@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/plastiq/1.14.0/plastiq.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsplastiq</tabTrigger>
+    <description>Plastiq</description>
+</snippet>

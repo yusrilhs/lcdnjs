@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/svg4everybody/2.1.9/svg4everybody.min.js"></script>
+]]></content>
+    <tabTrigger>lcjssvg4everybody</tabTrigger>
+    <description>Svg4everybody</description>
+</snippet>

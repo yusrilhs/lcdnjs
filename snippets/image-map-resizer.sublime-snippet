@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/image-map-resizer/1.0.3/js/imageMapResizer.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsimage-map-resizer</tabTrigger>
+    <description>Image Map Resizer</description>
+</snippet>

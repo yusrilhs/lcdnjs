@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/PKI.js/1.2.1/x509_simpl.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsPKI.js</tabTrigger>
+    <description>Pki.Js</description>
+</snippet>

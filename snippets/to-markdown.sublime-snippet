@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/to-markdown/3.1.0/to-markdown.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsto-markdown</tabTrigger>
+    <description>To Markdown</description>
+</snippet>

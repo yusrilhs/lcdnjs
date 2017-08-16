@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/midnight.js/1.1.2/midnight.jquery.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsmidnight.js</tabTrigger>
+    <description>Midnight.Js</description>
+</snippet>

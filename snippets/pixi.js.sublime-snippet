@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pixi.js/4.5.4/pixi.min.js"></script>
+]]></content>
+    <tabTrigger>lcjspixi.js</tabTrigger>
+    <description>Pixi.Js</description>
+</snippet>

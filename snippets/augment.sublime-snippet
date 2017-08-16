@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/augment/4.3.0/augment.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsaugment</tabTrigger>
+    <description>Augment</description>
+</snippet>

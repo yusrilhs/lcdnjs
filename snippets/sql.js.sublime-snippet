@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/sql.js/0.4.0/js/sql.js"></script>
+]]></content>
+    <tabTrigger>lcjssql.js</tabTrigger>
+    <description>Sql.Js</description>
+</snippet>

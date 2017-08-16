@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/move.js/0.5.0/move.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsmove.js</tabTrigger>
+    <description>Move.Js</description>
+</snippet>

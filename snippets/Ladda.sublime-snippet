@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Ladda/1.0.1/ladda.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsLadda</tabTrigger>
+    <description>Ladda</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/keymaster/1.6.1/keymaster.min.js"></script>
+]]></content>
+    <tabTrigger>lcjskeymaster</tabTrigger>
+    <description>Keymaster</description>
+</snippet>

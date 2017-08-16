@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/please-wait/0.0.5/please-wait.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsplease-wait</tabTrigger>
+    <description>Please Wait</description>
+</snippet>

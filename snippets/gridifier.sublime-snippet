@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gridifier/2.0.3/gridifier.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsgridifier</tabTrigger>
+    <description>Gridifier</description>
+</snippet>

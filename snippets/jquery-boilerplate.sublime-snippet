@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-boilerplate/4.1.0/jquery.boilerplate.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjquery-boilerplate</tabTrigger>
+    <description>Jquery Boilerplate</description>
+</snippet>

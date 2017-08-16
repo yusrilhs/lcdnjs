@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/qwerty-hancock/0.5.1/qwerty-hancock.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsqwerty-hancock</tabTrigger>
+    <description>Qwerty Hancock</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/javascript-detect-element-resize/0.5.3/detect-element-resize.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjavascript-detect-element-resize</tabTrigger>
+    <description>Javascript Detect Element Resize</description>
+</snippet>

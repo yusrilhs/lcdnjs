@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.freedraw/2.0.1/leaflet-freedraw.web.js"></script>
+]]></content>
+    <tabTrigger>lcjsleaflet.freedraw</tabTrigger>
+    <description>Leaflet.Freedraw</description>
+</snippet>

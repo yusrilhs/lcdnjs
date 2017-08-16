@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/backbone-relational/0.10.0/backbone-relational.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsbackbone-relational</tabTrigger>
+    <description>Backbone Relational</description>
+</snippet>

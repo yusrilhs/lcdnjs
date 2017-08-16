@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/clmtrackr/1.0.2/clmtrackr.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsclmtrackr</tabTrigger>
+    <description>Clmtrackr</description>
+</snippet>

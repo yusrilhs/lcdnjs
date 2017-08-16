@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/custom-elements/1.0.0/custom-elements.min.js"></script>
+]]></content>
+    <tabTrigger>lcjscustom-elements</tabTrigger>
+    <description>Custom Elements</description>
+</snippet>

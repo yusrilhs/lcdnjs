@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/luminous-lightbox/1.0.1/Luminous.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsluminous-lightbox</tabTrigger>
+    <description>Luminous Lightbox</description>
+</snippet>

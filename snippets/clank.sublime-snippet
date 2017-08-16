@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/clank/0.3.6/clank.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsclank</tabTrigger>
+    <description>Clank</description>
+</snippet>

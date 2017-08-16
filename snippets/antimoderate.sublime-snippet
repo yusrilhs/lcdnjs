@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/antimoderate/0.0.2/antimoderate.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsantimoderate</tabTrigger>
+    <description>Antimoderate</description>
+</snippet>

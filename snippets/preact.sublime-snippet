@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/preact/8.2.1/preact.min.js"></script>
+]]></content>
+    <tabTrigger>lcjspreact</tabTrigger>
+    <description>Preact</description>
+</snippet>

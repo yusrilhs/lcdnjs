@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react-table/6.5.3/react-table.js"></script>
+]]></content>
+    <tabTrigger>lcjsreact-table</tabTrigger>
+    <description>React Table</description>
+</snippet>

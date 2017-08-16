@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/roslibjs/0.18.0/roslib.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsroslibjs</tabTrigger>
+    <description>Roslibjs</description>
+</snippet>

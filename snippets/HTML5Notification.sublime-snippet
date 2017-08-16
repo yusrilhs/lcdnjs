@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/HTML5Notification/3.0.0/Notification.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsHTML5Notification</tabTrigger>
+    <description>Html5notification</description>
+</snippet>

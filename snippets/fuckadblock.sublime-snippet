@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fuckadblock/3.2.1/fuckadblock.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsfuckadblock</tabTrigger>
+    <description>Fuckadblock</description>
+</snippet>

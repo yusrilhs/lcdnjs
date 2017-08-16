@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/chess.js/0.10.2/chess.min.js"></script>
+]]></content>
+    <tabTrigger>lcjschess.js</tabTrigger>
+    <description>Chess.Js</description>
+</snippet>

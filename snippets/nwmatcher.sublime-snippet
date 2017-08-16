@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/nwmatcher/1.4.2/nwmatcher.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsnwmatcher</tabTrigger>
+    <description>Nwmatcher</description>
+</snippet>

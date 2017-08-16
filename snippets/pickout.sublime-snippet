@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pickout/2.0.1/pickout.min.js"></script>
+]]></content>
+    <tabTrigger>lcjspickout</tabTrigger>
+    <description>Pickout</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3plus/1.9.8/d3plus.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsd3plus</tabTrigger>
+    <description>D3plus</description>
+</snippet>

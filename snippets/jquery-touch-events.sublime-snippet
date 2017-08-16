@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-touch-events/1.0.9/jquery.mobile-events.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjquery-touch-events</tabTrigger>
+    <description>Jquery Touch Events</description>
+</snippet>

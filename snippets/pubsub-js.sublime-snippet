@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pubsub-js/1.5.7/pubsub.min.js"></script>
+]]></content>
+    <tabTrigger>lcjspubsub-js</tabTrigger>
+    <description>Pubsub Js</description>
+</snippet>

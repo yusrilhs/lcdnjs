@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ipaddr.js/1.4.0/ipaddr.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsipaddr.js</tabTrigger>
+    <description>Ipaddr.Js</description>
+</snippet>

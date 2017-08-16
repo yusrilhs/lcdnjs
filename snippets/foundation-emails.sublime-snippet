@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/foundation-emails/2.2.1/foundation-emails.min.css"></script>
+]]></content>
+    <tabTrigger>lcjsfoundation-emails</tabTrigger>
+    <description>Foundation Emails</description>
+</snippet>

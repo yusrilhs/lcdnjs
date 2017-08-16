@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/allmighty-autocomplete/1.0.140706/autocomplete.min.css"></script>
+]]></content>
+    <tabTrigger>lcjsallmighty-autocomplete</tabTrigger>
+    <description>Allmighty Autocomplete</description>
+</snippet>

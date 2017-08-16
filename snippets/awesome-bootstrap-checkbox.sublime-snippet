@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/awesome-bootstrap-checkbox/0.3.7/awesome-bootstrap-checkbox.min.css"></script>
+]]></content>
+    <tabTrigger>lcjsawesome-bootstrap-checkbox</tabTrigger>
+    <description>Awesome Bootstrap Checkbox</description>
+</snippet>

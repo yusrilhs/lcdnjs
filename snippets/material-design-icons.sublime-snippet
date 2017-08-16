@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/material-design-icons/3.0.1/maps/svg/production/ic_beenhere_24px.svg"></script>
+]]></content>
+    <tabTrigger>lcjsmaterial-design-icons</tabTrigger>
+    <description>Material Design Icons</description>
+</snippet>

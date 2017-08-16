@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/startbootstrap-grayscale/3.3.7/js/grayscale.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsstartbootstrap-grayscale</tabTrigger>
+    <description>Startbootstrap Grayscale</description>
+</snippet>

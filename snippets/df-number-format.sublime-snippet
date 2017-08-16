@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/df-number-format/2.1.6/jquery.number.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsdf-number-format</tabTrigger>
+    <description>Df Number Format</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/yamlcss/4.1.2/core/base.min.css"></script>
+]]></content>
+    <tabTrigger>lcjsyamlcss</tabTrigger>
+    <description>Yamlcss</description>
+</snippet>

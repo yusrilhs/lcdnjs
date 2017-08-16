@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vue-material-components/0.3.4/vue-material-components.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsvue-material-components</tabTrigger>
+    <description>Vue Material Components</description>
+</snippet>

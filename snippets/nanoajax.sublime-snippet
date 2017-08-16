@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/nanoajax/0.4.3/nanoajax.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsnanoajax</tabTrigger>
+    <description>Nanoajax</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/backbone-react-component/1.0.0/backbone-react-component-min.js"></script>
+]]></content>
+    <tabTrigger>lcjsbackbone-react-component</tabTrigger>
+    <description>Backbone React Component</description>
+</snippet>

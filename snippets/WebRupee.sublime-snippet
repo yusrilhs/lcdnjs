@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/WebRupee/2.0/font.min.css"></script>
+]]></content>
+    <tabTrigger>lcjsWebRupee</tabTrigger>
+    <description>Webrupee</description>
+</snippet>

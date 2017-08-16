@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ikki/0.2.0/ikki.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsikki</tabTrigger>
+    <description>Ikki</description>
+</snippet>

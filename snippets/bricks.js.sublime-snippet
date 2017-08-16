@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bricks.js/1.8.0/bricks.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsbricks.js</tabTrigger>
+    <description>Bricks.Js</description>
+</snippet>

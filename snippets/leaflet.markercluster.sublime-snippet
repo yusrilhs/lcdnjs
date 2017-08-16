@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.0.6/leaflet.markercluster.js"></script>
+]]></content>
+    <tabTrigger>lcjsleaflet.markercluster</tabTrigger>
+    <description>Leaflet.Markercluster</description>
+</snippet>

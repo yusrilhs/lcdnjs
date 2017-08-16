@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ion-rangeslider/2.2.0/js/ion.rangeSlider.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsion-rangeslider</tabTrigger>
+    <description>Ion Rangeslider</description>
+</snippet>

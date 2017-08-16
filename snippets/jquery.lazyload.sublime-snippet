@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.lazyload/1.9.1/jquery.lazyload.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjquery.lazyload</tabTrigger>
+    <description>Jquery.Lazyload</description>
+</snippet>

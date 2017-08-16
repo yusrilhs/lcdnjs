@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vega-embed/2.2.0/vega-embed.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsvega-embed</tabTrigger>
+    <description>Vega Embed</description>
+</snippet>

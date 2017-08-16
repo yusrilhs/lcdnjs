@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/url-search-params/0.10.0/url-search-params.js"></script>
+]]></content>
+    <tabTrigger>lcjsurl-search-params</tabTrigger>
+    <description>Url Search Params</description>
+</snippet>

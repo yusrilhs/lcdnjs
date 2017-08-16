@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vivus/0.4.2/vivus.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsvivus</tabTrigger>
+    <description>Vivus</description>
+</snippet>

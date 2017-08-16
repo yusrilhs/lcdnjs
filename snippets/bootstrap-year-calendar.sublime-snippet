@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-year-calendar/1.1.1/js/bootstrap-year-calendar.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsbootstrap-year-calendar</tabTrigger>
+    <description>Bootstrap Year Calendar</description>
+</snippet>

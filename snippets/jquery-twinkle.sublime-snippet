@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-twinkle/0.8.0/jquery.twinkle.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjquery-twinkle</tabTrigger>
+    <description>Jquery Twinkle</description>
+</snippet>

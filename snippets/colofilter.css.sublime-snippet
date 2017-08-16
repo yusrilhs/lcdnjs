@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/colofilter.css/1.0.0/styles/colofilter.min.css"></script>
+]]></content>
+    <tabTrigger>lcjscolofilter.css</tabTrigger>
+    <description>Colofilter.Css</description>
+</snippet>

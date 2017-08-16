@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vue-clickaway/2.1.0/vue-clickaway.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsvue-clickaway</tabTrigger>
+    <description>Vue Clickaway</description>
+</snippet>

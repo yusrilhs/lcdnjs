@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/two.js/0.6.0/two.min.js"></script>
+]]></content>
+    <tabTrigger>lcjstwo.js</tabTrigger>
+    <description>Two.Js</description>
+</snippet>

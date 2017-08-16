@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jInvertScroll/0.8.3/js/jquery.jInvertScroll.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjInvertScroll</tabTrigger>
+    <description>Jinvertscroll</description>
+</snippet>
