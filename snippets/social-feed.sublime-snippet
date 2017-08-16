@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/social-feed/0.1.2/js/jquery.socialfeed.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/social-feed/0.1.2/js/jquery.socialfeed.min.js"></script>
 ]]></content>
     <tabTrigger>lcjssocial-feed</tabTrigger>
     <description>Social Feed</description>

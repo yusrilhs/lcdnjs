@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/backbone.syphon/0.7.0/backbone.syphon.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/backbone.syphon/0.7.0/backbone.syphon.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsbackbone.syphon</tabTrigger>
+    <tabTrigger>lcjsbackbonesyphon</tabTrigger>
     <description>Backbone.Syphon</description>
 </snippet>

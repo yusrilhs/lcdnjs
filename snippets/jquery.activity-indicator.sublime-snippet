@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.activity-indicator/1.0.0/jquery.activity-indicator.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.activity-indicator/1.0.0/jquery.activity-indicator.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsjquery.activity-indicator</tabTrigger>
+    <tabTrigger>lcjsjqueryactivity-indicator</tabTrigger>
     <description>Jquery.Activity Indicator</description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jQRangeSlider/5.7.2/jQRangeSlider.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jQRangeSlider/5.7.2/jQRangeSlider.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsjQRangeSlider</tabTrigger>
     <description>Jqrangeslider</description>

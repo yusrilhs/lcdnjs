@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/topcoat-icons/0.1.0/font/icomatic.css"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/topcoat-icons/0.1.0/font/icomatic.css"></script>
 ]]></content>
     <tabTrigger>lcjstopcoat-icons</tabTrigger>
     <description>Topcoat Icons</description>

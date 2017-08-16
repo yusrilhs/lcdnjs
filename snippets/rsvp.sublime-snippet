@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/rsvp/4.6.1/rsvp.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/rsvp/4.6.1/rsvp.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsrsvp</tabTrigger>
     <description>Rsvp</description>

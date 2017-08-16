@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fuzzyset.js/0.0.4/fuzzyset.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fuzzyset.js/0.0.4/fuzzyset.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsfuzzyset.js</tabTrigger>
+    <tabTrigger>lcjsfuzzysetjs</tabTrigger>
     <description>Fuzzyset.Js</description>
 </snippet>

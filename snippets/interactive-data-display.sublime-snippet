@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/interactive-data-display/1.5.1/idd.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/interactive-data-display/1.5.1/idd.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsinteractive-data-display</tabTrigger>
     <description>Interactive Data Display</description>

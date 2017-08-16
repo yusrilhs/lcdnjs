@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/javascript-debug/0.4/ba-debug.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/javascript-debug/0.4/ba-debug.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsjavascript-debug</tabTrigger>
     <description>Javascript Debug</description>

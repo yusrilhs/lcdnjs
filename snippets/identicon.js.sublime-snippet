@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/identicon.js/2.3.1/identicon.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/identicon.js/2.3.1/identicon.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsidenticon.js</tabTrigger>
+    <tabTrigger>lcjsidenticonjs</tabTrigger>
     <description>Identicon.Js</description>
 </snippet>

@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/dancer.js/0.4.0/dancer.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/dancer.js/0.4.0/dancer.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsdancer.js</tabTrigger>
+    <tabTrigger>lcjsdancerjs</tabTrigger>
     <description>Dancer.Js</description>
 </snippet>

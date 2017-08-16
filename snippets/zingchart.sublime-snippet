@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/zingchart/2.6.1/zingchart.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/zingchart/2.6.1/zingchart.min.js"></script>
 ]]></content>
     <tabTrigger>lcjszingchart</tabTrigger>
     <description>Zingchart</description>

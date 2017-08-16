@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ng.ckeditor/2.0.4/ng-ckeditor.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ng.ckeditor/2.0.4/ng-ckeditor.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsng.ckeditor</tabTrigger>
+    <tabTrigger>lcjsngckeditor</tabTrigger>
     <description>Ng.Ckeditor</description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/amstockchart/3.13.0/amstock.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/amstockchart/3.13.0/amstock.js"></script>
 ]]></content>
     <tabTrigger>lcjsamstockchart</tabTrigger>
     <description>Amstockchart</description>

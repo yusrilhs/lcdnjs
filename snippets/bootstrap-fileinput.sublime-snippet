@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-fileinput/4.4.2/js/fileinput.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-fileinput/4.4.2/js/fileinput.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsbootstrap-fileinput</tabTrigger>
     <description>Bootstrap Fileinput</description>

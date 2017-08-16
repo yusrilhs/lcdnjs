@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fetch-jsonp/1.1.1/fetch-jsonp.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fetch-jsonp/1.1.1/fetch-jsonp.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsfetch-jsonp</tabTrigger>
     <description>Fetch Jsonp</description>

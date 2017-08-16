@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/politespace/1.0.2/politespace.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/politespace/1.0.2/politespace.min.js"></script>
 ]]></content>
     <tabTrigger>lcjspolitespace</tabTrigger>
     <description>Politespace</description>

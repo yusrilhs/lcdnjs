@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mycolorway-simple-hotkeys/1.0.3/hotkeys.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mycolorway-simple-hotkeys/1.0.3/hotkeys.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsmycolorway-simple-hotkeys</tabTrigger>
     <description>Mycolorway Simple Hotkeys</description>

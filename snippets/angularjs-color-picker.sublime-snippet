@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angularjs-color-picker/3.4.4/angularjs-color-picker.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angularjs-color-picker/3.4.4/angularjs-color-picker.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsangularjs-color-picker</tabTrigger>
     <description>Angularjs Color Picker</description>

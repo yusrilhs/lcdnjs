@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/opentip/2.4.6/downloads/opentip-jquery.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/opentip/2.4.6/downloads/opentip-jquery.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsopentip</tabTrigger>
     <description>Opentip</description>

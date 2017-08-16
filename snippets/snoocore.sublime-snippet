@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/snoocore/3.2.0/Snoocore-browser.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/snoocore/3.2.0/Snoocore-browser.min.js"></script>
 ]]></content>
     <tabTrigger>lcjssnoocore</tabTrigger>
     <description>Snoocore</description>

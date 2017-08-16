@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jsface/2.4.9/jsface.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jsface/2.4.9/jsface.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsjsface</tabTrigger>
     <description>Jsface</description>

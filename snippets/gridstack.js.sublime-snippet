@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gridstack.js/0.3.0/gridstack.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gridstack.js/0.3.0/gridstack.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsgridstack.js</tabTrigger>
+    <tabTrigger>lcjsgridstackjs</tabTrigger>
     <description>Gridstack.Js</description>
 </snippet>

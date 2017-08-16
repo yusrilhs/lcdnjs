@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/URI.js/1.18.12/URI.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/URI.js/1.18.12/URI.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsURI.js</tabTrigger>
+    <tabTrigger>lcjsURIjs</tabTrigger>
     <description>Uri.Js</description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/2.0.46/css/materialdesignicons.min.css"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/2.0.46/css/materialdesignicons.min.css"></script>
 ]]></content>
     <tabTrigger>lcjsMaterialDesign-Webfont</tabTrigger>
     <description>Materialdesign Webfont</description>

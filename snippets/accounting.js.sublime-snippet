@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/accounting.js/0.4.1/accounting.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/accounting.js/0.4.1/accounting.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsaccounting.js</tabTrigger>
+    <tabTrigger>lcjsaccountingjs</tabTrigger>
     <description>Accounting.Js</description>
 </snippet>

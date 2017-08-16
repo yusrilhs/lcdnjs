@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.formset/1.2.2/jquery.formset.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.formset/1.2.2/jquery.formset.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsjquery.formset</tabTrigger>
+    <tabTrigger>lcjsjqueryformset</tabTrigger>
     <description>Jquery.Formset</description>
 </snippet>

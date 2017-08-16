@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hola-video.js/5.10.2-25/video.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hola-video.js/5.10.2-25/video.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjshola-video.js</tabTrigger>
+    <tabTrigger>lcjshola-videojs</tabTrigger>
     <description>Hola Video.Js</description>
 </snippet>

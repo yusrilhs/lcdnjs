@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-rating-input/0.4.0/bootstrap-rating-input.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-rating-input/0.4.0/bootstrap-rating-input.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsbootstrap-rating-input</tabTrigger>
     <description>Bootstrap Rating Input</description>

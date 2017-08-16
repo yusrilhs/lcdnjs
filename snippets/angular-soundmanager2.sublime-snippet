@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-soundmanager2/0.5.6/angular-soundmanager2.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-soundmanager2/0.5.6/angular-soundmanager2.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsangular-soundmanager2</tabTrigger>
     <description>Angular Soundmanager2</description>

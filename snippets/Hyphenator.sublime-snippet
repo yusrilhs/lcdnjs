@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Hyphenator/5.2.0/Hyphenator.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Hyphenator/5.2.0/Hyphenator.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsHyphenator</tabTrigger>
     <description>Hyphenator</description>

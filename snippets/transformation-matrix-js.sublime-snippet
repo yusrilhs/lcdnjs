@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/transformation-matrix-js/2.7.2/matrix.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/transformation-matrix-js/2.7.2/matrix.min.js"></script>
 ]]></content>
     <tabTrigger>lcjstransformation-matrix-js</tabTrigger>
     <description>Transformation Matrix Js</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/messageformat/0.3.1/messageformat.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/messageformat/0.3.1/messageformat.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsmessageformat</tabTrigger>
     <description>Messageformat</description>

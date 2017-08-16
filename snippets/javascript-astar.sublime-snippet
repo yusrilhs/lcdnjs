@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/javascript-astar/0.4.1/astar.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/javascript-astar/0.4.1/astar.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsjavascript-astar</tabTrigger>
     <description>Javascript Astar</description>

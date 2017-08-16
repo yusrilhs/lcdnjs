@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fetchival/0.3.2/index.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fetchival/0.3.2/index.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsfetchival</tabTrigger>
     <description>Fetchival</description>

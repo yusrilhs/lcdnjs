@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/smartcrop/2.0.1/smartcrop.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/smartcrop/2.0.1/smartcrop.min.js"></script>
 ]]></content>
     <tabTrigger>lcjssmartcrop</tabTrigger>
     <description>Smartcrop</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ga-lite/1.1.2/ga-lite.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ga-lite/1.1.2/ga-lite.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsga-lite</tabTrigger>
     <description>Ga Lite</description>

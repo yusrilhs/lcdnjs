@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jsoneditor/5.9.3/jsoneditor.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jsoneditor/5.9.3/jsoneditor.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsjsoneditor</tabTrigger>
     <description>Jsoneditor</description>

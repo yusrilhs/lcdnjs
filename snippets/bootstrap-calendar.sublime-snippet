@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-calendar/0.2.5/js/calendar.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-calendar/0.2.5/js/calendar.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsbootstrap-calendar</tabTrigger>
     <description>Bootstrap Calendar</description>

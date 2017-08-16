@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/plottable.js/3.4.1/plottable.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/plottable.js/3.4.1/plottable.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsplottable.js</tabTrigger>
+    <tabTrigger>lcjsplottablejs</tabTrigger>
     <description>Plottable.Js</description>
 </snippet>

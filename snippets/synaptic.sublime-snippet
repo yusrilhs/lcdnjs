@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/synaptic/1.0.12/synaptic.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/synaptic/1.0.12/synaptic.min.js"></script>
 ]]></content>
     <tabTrigger>lcjssynaptic</tabTrigger>
     <description>Synaptic</description>

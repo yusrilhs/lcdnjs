@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/m8tro-bootstrap/3.3.7/m8tro.min.css"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/m8tro-bootstrap/3.3.7/m8tro.min.css"></script>
 ]]></content>
     <tabTrigger>lcjsm8tro-bootstrap</tabTrigger>
     <description>M8tro Bootstrap</description>

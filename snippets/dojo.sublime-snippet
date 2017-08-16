@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/dojo/1.10.4/dojo.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/dojo/1.10.4/dojo.js"></script>
 ]]></content>
     <tabTrigger>lcjsdojo</tabTrigger>
     <description>Dojo</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ng-meta/1.0.0/ngMeta.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ng-meta/1.0.0/ngMeta.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsng-meta</tabTrigger>
     <description>Ng Meta</description>

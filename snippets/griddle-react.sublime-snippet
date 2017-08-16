@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/griddle-react/0.8.1/Griddle.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/griddle-react/0.8.1/Griddle.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsgriddle-react</tabTrigger>
     <description>Griddle React</description>

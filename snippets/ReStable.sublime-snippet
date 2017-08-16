@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ReStable/0.1.2/jquery.restable.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ReStable/0.1.2/jquery.restable.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsReStable</tabTrigger>
     <description>Restable</description>

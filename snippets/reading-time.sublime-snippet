@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/reading-time/1.0.0/readingTime.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/reading-time/1.0.0/readingTime.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsreading-time</tabTrigger>
     <description>Reading Time</description>

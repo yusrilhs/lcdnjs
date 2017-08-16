@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bucky/0.2.8/bucky.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bucky/0.2.8/bucky.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsbucky</tabTrigger>
     <description>Bucky</description>

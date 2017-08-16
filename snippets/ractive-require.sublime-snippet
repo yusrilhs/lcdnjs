@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ractive-require/0.6.12/ractive-require.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ractive-require/0.6.12/ractive-require.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsractive-require</tabTrigger>
     <description>Ractive Require</description>

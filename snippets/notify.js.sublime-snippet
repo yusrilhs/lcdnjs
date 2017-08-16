@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/notify.js/3.0.0/notify.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/notify.js/3.0.0/notify.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsnotify.js</tabTrigger>
+    <tabTrigger>lcjsnotifyjs</tabTrigger>
     <description>Notify.Js</description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/geo-location-javascript/0.4.8/geo-min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/geo-location-javascript/0.4.8/geo-min.js"></script>
 ]]></content>
     <tabTrigger>lcjsgeo-location-javascript</tabTrigger>
     <description>Geo Location Javascript</description>

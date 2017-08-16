@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/2.8.0/css/flag-icon.min.css"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/2.8.0/css/flag-icon.min.css"></script>
 ]]></content>
     <tabTrigger>lcjsflag-icon-css</tabTrigger>
     <description>Flag Icon Css</description>

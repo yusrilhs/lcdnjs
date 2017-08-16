@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twig.js/0.8.9/twig.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twig.js/0.8.9/twig.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjstwig.js</tabTrigger>
+    <tabTrigger>lcjstwigjs</tabTrigger>
     <description>Twig.Js</description>
 </snippet>

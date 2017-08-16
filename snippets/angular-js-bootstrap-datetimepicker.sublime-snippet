@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-js-bootstrap-datetimepicker/2.5.0/datetimepicker.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-js-bootstrap-datetimepicker/2.5.0/datetimepicker.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsangular-js-bootstrap-datetimepicker</tabTrigger>
     <description>Angular Js Bootstrap Datetimepicker</description>

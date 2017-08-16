@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/knockout.mapping/2.4.1/knockout.mapping.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/knockout.mapping/2.4.1/knockout.mapping.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsknockout.mapping</tabTrigger>
+    <tabTrigger>lcjsknockoutmapping</tabTrigger>
     <description>Knockout.Mapping</description>
 </snippet>

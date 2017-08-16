@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/phery.js/2.7.4/phery.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/phery.js/2.7.4/phery.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsphery.js</tabTrigger>
+    <tabTrigger>lcjspheryjs</tabTrigger>
     <description>Phery.Js</description>
 </snippet>

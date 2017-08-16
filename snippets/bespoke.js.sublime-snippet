@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bespoke.js/1.1.0/bespoke.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bespoke.js/1.1.0/bespoke.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsbespoke.js</tabTrigger>
+    <tabTrigger>lcjsbespokejs</tabTrigger>
     <description>Bespoke.Js</description>
 </snippet>

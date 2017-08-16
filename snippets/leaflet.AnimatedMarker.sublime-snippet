@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.AnimatedMarker/1.0.0/AnimatedMarker.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.AnimatedMarker/1.0.0/AnimatedMarker.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsleaflet.AnimatedMarker</tabTrigger>
+    <tabTrigger>lcjsleafletAnimatedMarker</tabTrigger>
     <description>Leaflet.Animatedmarker</description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/wangEditor/3.0.8/wangEditor.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/wangEditor/3.0.8/wangEditor.min.js"></script>
 ]]></content>
     <tabTrigger>lcjswangEditor</tabTrigger>
     <description>Wangeditor</description>

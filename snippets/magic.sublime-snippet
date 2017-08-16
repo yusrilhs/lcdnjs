@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/magic/1.1.0/magic.min.css"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/magic/1.1.0/magic.min.css"></script>
 ]]></content>
     <tabTrigger>lcjsmagic</tabTrigger>
     <description>Magic</description>

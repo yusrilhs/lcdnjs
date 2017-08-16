@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bsjs/0.3.0/bsjs.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bsjs/0.3.0/bsjs.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsbsjs</tabTrigger>
     <description>Bsjs</description>

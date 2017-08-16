@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/autocompeter/1.2.3/autocompeter.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/autocompeter/1.2.3/autocompeter.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsautocompeter</tabTrigger>
     <description>Autocompeter</description>

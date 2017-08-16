@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tabslet.js/1.7.3/jquery.tabslet.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tabslet.js/1.7.3/jquery.tabslet.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsjquery.tabslet.js</tabTrigger>
+    <tabTrigger>lcjsjquerytabsletjs</tabTrigger>
     <description>Jquery.Tabslet.Js</description>
 </snippet>

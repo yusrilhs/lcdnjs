@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/cell/1.2.0/cell.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/cell/1.2.0/cell.min.js"></script>
 ]]></content>
     <tabTrigger>lcjscell</tabTrigger>
     <description>Cell</description>

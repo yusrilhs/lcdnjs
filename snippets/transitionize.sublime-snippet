@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/transitionize/0.0.3/transitionize.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/transitionize/0.0.3/transitionize.min.js"></script>
 ]]></content>
     <tabTrigger>lcjstransitionize</tabTrigger>
     <description>Transitionize</description>

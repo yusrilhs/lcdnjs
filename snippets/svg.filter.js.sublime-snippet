@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/svg.filter.js/2.0.2/svg.filter.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/svg.filter.js/2.0.2/svg.filter.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjssvg.filter.js</tabTrigger>
+    <tabTrigger>lcjssvgfilterjs</tabTrigger>
     <description>Svg.Filter.Js</description>
 </snippet>

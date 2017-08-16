@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/heatcanvas/1.2.3/heatcanvas.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/heatcanvas/1.2.3/heatcanvas.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsheatcanvas</tabTrigger>
     <description>Heatcanvas</description>

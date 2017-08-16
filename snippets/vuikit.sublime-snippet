@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vuikit/0.6.3/vuikit.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vuikit/0.6.3/vuikit.js"></script>
 ]]></content>
     <tabTrigger>lcjsvuikit</tabTrigger>
     <description>Vuikit</description>

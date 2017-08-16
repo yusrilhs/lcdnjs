@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/social-share-kit/1.0.14/js/social-share-kit.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/social-share-kit/1.0.14/js/social-share-kit.min.js"></script>
 ]]></content>
     <tabTrigger>lcjssocial-share-kit</tabTrigger>
     <description>Social Share Kit</description>

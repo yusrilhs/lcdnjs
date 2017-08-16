@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react-router-dom/4.1.2/react-router-dom.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react-router-dom/4.1.2/react-router-dom.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsreact-router-dom</tabTrigger>
     <description>React Router Dom</description>

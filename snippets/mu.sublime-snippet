@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mu/0.3.1/mu.min.css"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mu/0.3.1/mu.min.css"></script>
 ]]></content>
     <tabTrigger>lcjsmu</tabTrigger>
     <description>Mu</description>

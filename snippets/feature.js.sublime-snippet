@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/feature.js/1.0.1/feature.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/feature.js/1.0.1/feature.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsfeature.js</tabTrigger>
+    <tabTrigger>lcjsfeaturejs</tabTrigger>
     <description>Feature.Js</description>
 </snippet>

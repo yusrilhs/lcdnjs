@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/redux-form-material-ui/4.2.0/redux-form-material-ui.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/redux-form-material-ui/4.2.0/redux-form-material-ui.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsredux-form-material-ui</tabTrigger>
     <description>Redux Form Material Ui</description>

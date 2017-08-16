@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/reacthttp/1.0.0/react-http.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/reacthttp/1.0.0/react-http.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsreacthttp</tabTrigger>
     <description>Reacthttp</description>

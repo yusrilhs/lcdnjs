@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/peppermint/1.4.0/peppermint.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/peppermint/1.4.0/peppermint.min.js"></script>
 ]]></content>
     <tabTrigger>lcjspeppermint</tabTrigger>
     <description>Peppermint</description>

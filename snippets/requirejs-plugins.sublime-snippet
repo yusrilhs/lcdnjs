@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/requirejs-plugins/1.0.3/async.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/requirejs-plugins/1.0.3/async.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsrequirejs-plugins</tabTrigger>
     <description>Requirejs Plugins</description>

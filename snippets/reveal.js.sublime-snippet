@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.5.0/js/reveal.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.5.0/js/reveal.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsreveal.js</tabTrigger>
+    <tabTrigger>lcjsrevealjs</tabTrigger>
     <description>Reveal.Js</description>
 </snippet>

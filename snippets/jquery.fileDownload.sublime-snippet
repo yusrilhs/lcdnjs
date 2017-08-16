@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.fileDownload/1.4.2/jquery.fileDownload.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.fileDownload/1.4.2/jquery.fileDownload.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsjquery.fileDownload</tabTrigger>
+    <tabTrigger>lcjsjqueryfileDownload</tabTrigger>
     <description>Jquery.Filedownload</description>
 </snippet>

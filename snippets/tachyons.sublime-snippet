@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tachyons/4.8.1/tachyons.min.css"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tachyons/4.8.1/tachyons.min.css"></script>
 ]]></content>
     <tabTrigger>lcjstachyons</tabTrigger>
     <description>Tachyons</description>

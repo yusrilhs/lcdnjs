@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lovefield/2.1.12/lovefield.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lovefield/2.1.12/lovefield.min.js"></script>
 ]]></content>
     <tabTrigger>lcjslovefield</tabTrigger>
     <description>Lovefield</description>

@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mini.css/2.3.3/mini-default.min.css"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mini.css/2.3.4/mini-default.min.css"></script>
 ]]></content>
-    <tabTrigger>lcjsmini.css</tabTrigger>
+    <tabTrigger>lcjsminicss</tabTrigger>
     <description>Mini.Css</description>
 </snippet>

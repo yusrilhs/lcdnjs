@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twix.js/1.2.0/twix.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twix.js/1.2.0/twix.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjstwix.js</tabTrigger>
+    <tabTrigger>lcjstwixjs</tabTrigger>
     <description>Twix.Js</description>
 </snippet>

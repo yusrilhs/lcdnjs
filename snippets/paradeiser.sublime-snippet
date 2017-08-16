@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/paradeiser/0.4.5/min/paradeiser.min.css"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/paradeiser/0.4.5/min/paradeiser.min.css"></script>
 ]]></content>
     <tabTrigger>lcjsparadeiser</tabTrigger>
     <description>Paradeiser</description>

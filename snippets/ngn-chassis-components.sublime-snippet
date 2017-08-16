@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ngn-chassis-components/1.0.5/chassis-cycle.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ngn-chassis-components/1.0.5/chassis-cycle.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsngn-chassis-components</tabTrigger>
     <description>Ngn Chassis Components</description>

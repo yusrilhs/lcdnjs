@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/typeahead.js/0.11.1/typeahead.bundle.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/typeahead.js/0.11.1/typeahead.bundle.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjstypeahead.js</tabTrigger>
+    <tabTrigger>lcjstypeaheadjs</tabTrigger>
     <description>Typeahead.Js</description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vue-async-data/1.0.2/vue-async-data.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vue-async-data/1.0.2/vue-async-data.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsvue-async-data</tabTrigger>
     <description>Vue Async Data</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gist-embed/2.6.0/gist-embed.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gist-embed/2.6.0/gist-embed.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsgist-embed</tabTrigger>
     <description>Gist Embed</description>

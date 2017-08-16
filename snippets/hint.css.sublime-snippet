@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hint.css/2.5.0/hint.min.css"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hint.css/2.5.0/hint.min.css"></script>
 ]]></content>
-    <tabTrigger>lcjshint.css</tabTrigger>
+    <tabTrigger>lcjshintcss</tabTrigger>
     <description>Hint.Css</description>
 </snippet>

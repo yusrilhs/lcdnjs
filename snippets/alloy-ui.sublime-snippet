@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/alloy-ui/1.0.1/aui-min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/alloy-ui/1.0.1/aui-min.js"></script>
 ]]></content>
     <tabTrigger>lcjsalloy-ui</tabTrigger>
     <description>Alloy Ui</description>

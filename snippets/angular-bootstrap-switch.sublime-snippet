@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-bootstrap-switch/0.5.2/angular-bootstrap-switch.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-bootstrap-switch/0.5.2/angular-bootstrap-switch.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsangular-bootstrap-switch</tabTrigger>
     <description>Angular Bootstrap Switch</description>

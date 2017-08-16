@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tmlib.js/0.5.2/tmlib.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tmlib.js/0.5.2/tmlib.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjstmlib.js</tabTrigger>
+    <tabTrigger>lcjstmlibjs</tabTrigger>
     <description>Tmlib.Js</description>
 </snippet>

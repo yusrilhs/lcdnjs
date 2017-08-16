@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/unibox/1.17.4/js/unibox.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/unibox/1.17.4/js/unibox.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsunibox</tabTrigger>
     <description>Unibox</description>

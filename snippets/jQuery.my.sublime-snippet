@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jQuery.my/1.2.10/jquerymy.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jQuery.my/1.2.10/jquerymy.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsjQuery.my</tabTrigger>
+    <tabTrigger>lcjsjQuerymy</tabTrigger>
     <description>Jquery.My</description>
 </snippet>

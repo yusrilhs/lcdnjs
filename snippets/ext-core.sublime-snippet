@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ext-core/3.1.0/ext-core.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ext-core/3.1.0/ext-core.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsext-core</tabTrigger>
     <description>Ext Core</description>

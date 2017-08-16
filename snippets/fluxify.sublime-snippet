@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fluxify/0.2.3/fluxify.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fluxify/0.2.3/fluxify.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsfluxify</tabTrigger>
     <description>Fluxify</description>

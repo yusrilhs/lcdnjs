@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/multiscroll.js/0.1.8/jquery.multiscroll.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/multiscroll.js/0.1.8/jquery.multiscroll.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsmultiscroll.js</tabTrigger>
+    <tabTrigger>lcjsmultiscrolljs</tabTrigger>
     <description>Multiscroll.Js</description>
 </snippet>

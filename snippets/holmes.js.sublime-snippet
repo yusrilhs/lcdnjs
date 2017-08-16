@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/holmes.js/1.17.0/js/holmes.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/holmes.js/1.17.2/js/holmes.js"></script>
 ]]></content>
-    <tabTrigger>lcjsholmes.js</tabTrigger>
+    <tabTrigger>lcjsholmesjs</tabTrigger>
     <description>Holmes.Js</description>
 </snippet>

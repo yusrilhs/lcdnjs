@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fast-json-patch/2.0.4/fast-json-patch.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fast-json-patch/2.0.4/fast-json-patch.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsfast-json-patch</tabTrigger>
     <description>Fast Json Patch</description>

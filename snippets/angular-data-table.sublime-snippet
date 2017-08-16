@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-data-table/0.7.0/dataTable.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-data-table/0.7.0/dataTable.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsangular-data-table</tabTrigger>
     <description>Angular Data Table</description>

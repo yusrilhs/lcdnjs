@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/i3d3/0.9.1/i3d3.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/i3d3/0.9.1/i3d3.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsi3d3</tabTrigger>
     <description>I3d3</description>

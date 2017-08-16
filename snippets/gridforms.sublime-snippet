@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gridforms/1.0.10/gridforms.min.css"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gridforms/1.0.10/gridforms.min.css"></script>
 ]]></content>
     <tabTrigger>lcjsgridforms</tabTrigger>
     <description>Gridforms</description>

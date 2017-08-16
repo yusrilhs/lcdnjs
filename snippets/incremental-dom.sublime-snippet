@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/incremental-dom/0.5.1/incremental-dom-min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/incremental-dom/0.5.1/incremental-dom-min.js"></script>
 ]]></content>
     <tabTrigger>lcjsincremental-dom</tabTrigger>
     <description>Incremental Dom</description>

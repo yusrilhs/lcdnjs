@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mapbox-gl/0.39.1/mapbox-gl.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mapbox-gl/0.39.1/mapbox-gl.js"></script>
 ]]></content>
     <tabTrigger>lcjsmapbox-gl</tabTrigger>
     <description>Mapbox Gl</description>

@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/task.js/0.0.24/task.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/task.js/0.0.24/task.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjstask.js</tabTrigger>
+    <tabTrigger>lcjstaskjs</tabTrigger>
     <description>Task.Js</description>
 </snippet>

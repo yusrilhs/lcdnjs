@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/6to5/3.6.5/browser.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/6to5/3.6.5/browser.js"></script>
 ]]></content>
     <tabTrigger>lcjs6to5</tabTrigger>
     <description>6to5</description>

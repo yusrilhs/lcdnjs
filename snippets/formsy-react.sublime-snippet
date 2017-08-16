@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/formsy-react/0.19.5/formsy-react.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/formsy-react/0.19.5/formsy-react.js"></script>
 ]]></content>
     <tabTrigger>lcjsformsy-react</tabTrigger>
     <description>Formsy React</description>

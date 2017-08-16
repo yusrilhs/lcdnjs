@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/dropdown.js/0.0.2dev/jquery.dropdown.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/dropdown.js/0.0.2dev/jquery.dropdown.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsdropdown.js</tabTrigger>
+    <tabTrigger>lcjsdropdownjs</tabTrigger>
     <description>Dropdown.Js</description>
 </snippet>

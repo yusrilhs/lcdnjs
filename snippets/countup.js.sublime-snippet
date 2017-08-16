@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/countup.js/1.8.5/countUp.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/countup.js/1.8.5/countUp.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjscountup.js</tabTrigger>
+    <tabTrigger>lcjscountupjs</tabTrigger>
     <description>Countup.Js</description>
 </snippet>

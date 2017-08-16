@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/valjs/1.2/jquery.valjs.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/valjs/1.2/jquery.valjs.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsvaljs</tabTrigger>
     <description>Valjs</description>

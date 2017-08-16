@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.swipebox/1.4.4/js/jquery.swipebox.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.swipebox/1.4.4/js/jquery.swipebox.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsjquery.swipebox</tabTrigger>
+    <tabTrigger>lcjsjqueryswipebox</tabTrigger>
     <description>Jquery.Swipebox</description>
 </snippet>

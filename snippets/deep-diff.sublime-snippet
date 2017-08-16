@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/deep-diff/0.3.3/deep-diff.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/deep-diff/0.3.3/deep-diff.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsdeep-diff</tabTrigger>
     <description>Deep Diff</description>

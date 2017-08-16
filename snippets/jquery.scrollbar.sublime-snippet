@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.scrollbar/0.2.11/jquery.scrollbar.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.scrollbar/0.2.11/jquery.scrollbar.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsjquery.scrollbar</tabTrigger>
+    <tabTrigger>lcjsjqueryscrollbar</tabTrigger>
     <description>Jquery.Scrollbar</description>
 </snippet>

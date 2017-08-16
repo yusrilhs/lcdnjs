@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gmaps.js/0.4.25/gmaps.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gmaps.js/0.4.25/gmaps.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsgmaps.js</tabTrigger>
+    <tabTrigger>lcjsgmapsjs</tabTrigger>
     <description>Gmaps.Js</description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/motio/2.2.2/motio.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/motio/2.2.2/motio.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsmotio</tabTrigger>
     <description>Motio</description>

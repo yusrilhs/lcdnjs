@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angularLocalStorage/0.3.2/angularLocalStorage.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angularLocalStorage/0.3.2/angularLocalStorage.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsangularLocalStorage</tabTrigger>
     <description>Angularlocalstorage</description>

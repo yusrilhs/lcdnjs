@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/16pixels/0.1.9/16pixels.min.css"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/16pixels/0.1.9/16pixels.min.css"></script>
 ]]></content>
     <tabTrigger>lcjs16pixels</tabTrigger>
     <description>16pixels</description>

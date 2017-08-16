@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/BigVideo.js/1.1.5/lib/bigvideo.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/BigVideo.js/1.1.5/lib/bigvideo.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsBigVideo.js</tabTrigger>
+    <tabTrigger>lcjsBigVideojs</tabTrigger>
     <description>Bigvideo.Js</description>
 </snippet>

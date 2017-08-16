@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/juicer/0.6.15/juicer-min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/juicer/0.6.15/juicer-min.js"></script>
 ]]></content>
     <tabTrigger>lcjsjuicer</tabTrigger>
     <description>Juicer</description>

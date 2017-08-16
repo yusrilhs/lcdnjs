@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/backbone.stickit/0.9.2/backbone.stickit.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/backbone.stickit/0.9.2/backbone.stickit.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsbackbone.stickit</tabTrigger>
+    <tabTrigger>lcjsbackbonestickit</tabTrigger>
     <description>Backbone.Stickit</description>
 </snippet>

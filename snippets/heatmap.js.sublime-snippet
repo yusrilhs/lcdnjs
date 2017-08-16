@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/heatmap.js/2.0.2/heatmap.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/heatmap.js/2.0.2/heatmap.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsheatmap.js</tabTrigger>
+    <tabTrigger>lcjsheatmapjs</tabTrigger>
     <description>Heatmap.Js</description>
 </snippet>

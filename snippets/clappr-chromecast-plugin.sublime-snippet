@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/clappr-chromecast-plugin/0.0.6/clappr-chromecast-plugin.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/clappr-chromecast-plugin/0.0.6/clappr-chromecast-plugin.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsclappr-chromecast-plugin</tabTrigger>
     <description>Clappr Chromecast Plugin</description>

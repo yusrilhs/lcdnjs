@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tingle/0.11.0/tingle.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tingle/0.11.0/tingle.min.js"></script>
 ]]></content>
     <tabTrigger>lcjstingle</tabTrigger>
     <description>Tingle</description>

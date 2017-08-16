@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-bootstrap-colorpicker/3.0.31/js/bootstrap-colorpicker-module.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-bootstrap-colorpicker/3.0.31/js/bootstrap-colorpicker-module.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsangular-bootstrap-colorpicker</tabTrigger>
     <description>Angular Bootstrap Colorpicker</description>

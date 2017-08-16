@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/require-domReady/2.0.1/domReady.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/require-domReady/2.0.1/domReady.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsrequire-domReady</tabTrigger>
     <description>Require Domready</description>

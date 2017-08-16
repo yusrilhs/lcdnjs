@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/video.js-chromecast/2.0.9/videojs-chromecast.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/video.js-chromecast/2.0.9/videojs-chromecast.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsvideo.js-chromecast</tabTrigger>
+    <tabTrigger>lcjsvideojs-chromecast</tabTrigger>
     <description>Video.Js Chromecast</description>
 </snippet>

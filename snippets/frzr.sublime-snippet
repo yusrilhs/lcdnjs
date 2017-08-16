@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/frzr/0.22.7/frzr.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/frzr/0.22.7/frzr.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsfrzr</tabTrigger>
     <description>Frzr</description>

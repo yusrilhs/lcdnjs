@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/deepstream.io-client-js/2.2.1/deepstream.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/deepstream.io-client-js/2.2.1/deepstream.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsdeepstream.io-client-js</tabTrigger>
+    <tabTrigger>lcjsdeepstreamio-client-js</tabTrigger>
     <description>Deepstream.Io Client Js</description>
 </snippet>

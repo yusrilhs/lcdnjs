@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/background-check/1.2.2/background-check.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/background-check/1.2.2/background-check.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsbackground-check</tabTrigger>
     <description>Background Check</description>

@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/CoolQueue.io/1.0.0/coolqueue.io.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/CoolQueue.io/1.0.0/coolqueue.io.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsCoolQueue.io</tabTrigger>
+    <tabTrigger>lcjsCoolQueueio</tabTrigger>
     <description>Coolqueue.Io</description>
 </snippet>

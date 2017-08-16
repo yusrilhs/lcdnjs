@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gillie/0.2.1/gillie.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gillie/0.2.1/gillie.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsgillie</tabTrigger>
     <description>Gillie</description>

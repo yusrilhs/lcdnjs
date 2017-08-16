@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Sidy.js/1.1.0/sidy.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Sidy.js/1.1.0/sidy.js"></script>
 ]]></content>
-    <tabTrigger>lcjsSidy.js</tabTrigger>
+    <tabTrigger>lcjsSidyjs</tabTrigger>
     <description>Sidy.Js</description>
 </snippet>

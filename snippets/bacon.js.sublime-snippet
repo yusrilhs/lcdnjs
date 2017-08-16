@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bacon.js/0.7.95/Bacon.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bacon.js/0.7.95/Bacon.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsbacon.js</tabTrigger>
+    <tabTrigger>lcjsbaconjs</tabTrigger>
     <description>Bacon.Js</description>
 </snippet>

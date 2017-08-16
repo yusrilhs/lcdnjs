@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gh.js/3.0.10/gh.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gh.js/3.0.10/gh.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsgh.js</tabTrigger>
+    <tabTrigger>lcjsghjs</tabTrigger>
     <description>Gh.Js</description>
 </snippet>

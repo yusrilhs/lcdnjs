@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/cinnamon.js/1.0.6/cinnamon.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/cinnamon.js/1.0.6/cinnamon.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjscinnamon.js</tabTrigger>
+    <tabTrigger>lcjscinnamonjs</tabTrigger>
     <description>Cinnamon.Js</description>
 </snippet>

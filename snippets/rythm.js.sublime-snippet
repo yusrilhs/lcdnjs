@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/rythm.js/2.0.5/rythm.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/rythm.js/2.0.5/rythm.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsrythm.js</tabTrigger>
+    <tabTrigger>lcjsrythmjs</tabTrigger>
     <description>Rythm.Js</description>
 </snippet>

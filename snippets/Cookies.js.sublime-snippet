@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Cookies.js/1.2.1/cookies.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Cookies.js/1.2.1/cookies.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsCookies.js</tabTrigger>
+    <tabTrigger>lcjsCookiesjs</tabTrigger>
     <description>Cookies.Js</description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/js-scrypt/1.2.0/scrypt.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/js-scrypt/1.2.0/scrypt.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsjs-scrypt</tabTrigger>
     <description>Js Scrypt</description>

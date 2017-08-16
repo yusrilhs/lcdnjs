@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-bgiframe/3.0.1/jquery.bgiframe.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-bgiframe/3.0.1/jquery.bgiframe.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsjquery-bgiframe</tabTrigger>
     <description>Jquery Bgiframe</description>

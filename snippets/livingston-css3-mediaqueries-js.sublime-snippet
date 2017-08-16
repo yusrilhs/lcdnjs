@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/livingston-css3-mediaqueries-js/1.0.0/css3-mediaqueries.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/livingston-css3-mediaqueries-js/1.0.0/css3-mediaqueries.min.js"></script>
 ]]></content>
     <tabTrigger>lcjslivingston-css3-mediaqueries-js</tabTrigger>
     <description>Livingston Css3 Mediaqueries Js</description>

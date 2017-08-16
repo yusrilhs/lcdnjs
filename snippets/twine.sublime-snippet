@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twine/1.2.0/twine.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twine/1.2.0/twine.min.js"></script>
 ]]></content>
     <tabTrigger>lcjstwine</tabTrigger>
     <description>Twine</description>

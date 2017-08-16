@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/resumable.js/1.0.3/resumable.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/resumable.js/1.0.3/resumable.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsresumable.js</tabTrigger>
+    <tabTrigger>lcjsresumablejs</tabTrigger>
     <description>Resumable.Js</description>
 </snippet>

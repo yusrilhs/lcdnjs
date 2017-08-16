@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css"></script>
 ]]></content>
     <tabTrigger>lcjsmeyer-reset</tabTrigger>
     <description>Meyer Reset</description>

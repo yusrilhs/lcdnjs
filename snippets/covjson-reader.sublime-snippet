@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/covjson-reader/0.16.3/covjson-reader.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/covjson-reader/0.16.3/covjson-reader.min.js"></script>
 ]]></content>
     <tabTrigger>lcjscovjson-reader</tabTrigger>
     <description>Covjson Reader</description>

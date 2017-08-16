@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/stacktable.js/1.0.3/stacktable.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/stacktable.js/1.0.3/stacktable.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsstacktable.js</tabTrigger>
+    <tabTrigger>lcjsstacktablejs</tabTrigger>
     <description>Stacktable.Js</description>
 </snippet>

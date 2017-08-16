@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/oz.js/2.6.4/oz.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/oz.js/2.6.4/oz.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsoz.js</tabTrigger>
+    <tabTrigger>lcjsozjs</tabTrigger>
     <description>Oz.Js</description>
 </snippet>

@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/stellar.js/0.6.2/jquery.stellar.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/stellar.js/0.6.2/jquery.stellar.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsstellar.js</tabTrigger>
+    <tabTrigger>lcjsstellarjs</tabTrigger>
     <description>Stellar.Js</description>
 </snippet>

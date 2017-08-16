@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/backbone.modal/1.1.5/backbone.modal-bundled-min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/backbone.modal/1.1.5/backbone.modal-bundled-min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsbackbone.modal</tabTrigger>
+    <tabTrigger>lcjsbackbonemodal</tabTrigger>
     <description>Backbone.Modal</description>
 </snippet>

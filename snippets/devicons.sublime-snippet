@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/devicons/1.8.0/css/devicons.min.css"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/devicons/1.8.0/css/devicons.min.css"></script>
 ]]></content>
     <tabTrigger>lcjsdevicons</tabTrigger>
     <description>Devicons</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/rusha/0.8.6/rusha.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/rusha/0.8.6/rusha.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsrusha</tabTrigger>
     <description>Rusha</description>

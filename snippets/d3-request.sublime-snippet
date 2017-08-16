@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3-request/1.0.5/d3-request.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3-request/1.0.5/d3-request.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsd3-request</tabTrigger>
     <description>D3 Request</description>

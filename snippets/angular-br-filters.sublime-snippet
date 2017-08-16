@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-br-filters/0.7.0/angular-br-filters.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-br-filters/0.7.0/angular-br-filters.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsangular-br-filters</tabTrigger>
     <description>Angular Br Filters</description>

@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.perfect-scrollbar/0.7.0/js/perfect-scrollbar.jquery.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.perfect-scrollbar/0.7.0/js/perfect-scrollbar.jquery.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsjquery.perfect-scrollbar</tabTrigger>
+    <tabTrigger>lcjsjqueryperfect-scrollbar</tabTrigger>
     <description>Jquery.Perfect Scrollbar</description>
 </snippet>

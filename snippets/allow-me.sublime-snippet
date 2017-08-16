@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/allow-me/0.1.1/allowMe.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/allow-me/0.1.1/allowMe.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsallow-me</tabTrigger>
     <description>Allow Me</description>

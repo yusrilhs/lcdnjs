@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/matchmedia-ng/1.0.8/matchmedia-ng.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/matchmedia-ng/1.0.8/matchmedia-ng.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsmatchmedia-ng</tabTrigger>
     <description>Matchmedia Ng</description>

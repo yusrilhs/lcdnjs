@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/basket.js/0.5.2/basket.full.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/basket.js/0.5.2/basket.full.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsbasket.js</tabTrigger>
+    <tabTrigger>lcjsbasketjs</tabTrigger>
     <description>Basket.Js</description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/timekit-js-sdk/1.10.2/timekit-sdk.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/timekit-js-sdk/1.10.2/timekit-sdk.min.js"></script>
 ]]></content>
     <tabTrigger>lcjstimekit-js-sdk</tabTrigger>
     <description>Timekit Js Sdk</description>

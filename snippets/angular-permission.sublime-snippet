@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-permission/5.3.2/angular-permission.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-permission/5.3.2/angular-permission.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsangular-permission</tabTrigger>
     <description>Angular Permission</description>

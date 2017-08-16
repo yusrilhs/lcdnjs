@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/space/0.8.4/space.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/space/0.8.4/space.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsspace</tabTrigger>
     <description>Space</description>

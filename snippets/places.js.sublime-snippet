@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/places.js/1.4.15/places.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/places.js/1.4.15/places.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsplaces.js</tabTrigger>
+    <tabTrigger>lcjsplacesjs</tabTrigger>
     <description>Places.Js</description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-validate/1.2.3/validate.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-validate/1.2.3/validate.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsangular-ui-validate</tabTrigger>
     <description>Angular Ui Validate</description>

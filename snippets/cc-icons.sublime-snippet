@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/cc-icons/1.2.1/css/cc-icons.min.css"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/cc-icons/1.2.1/css/cc-icons.min.css"></script>
 ]]></content>
     <tabTrigger>lcjscc-icons</tabTrigger>
     <description>Cc Icons</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/console-polyfill/0.3.0/index.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/console-polyfill/0.3.0/index.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsconsole-polyfill</tabTrigger>
     <description>Console Polyfill</description>

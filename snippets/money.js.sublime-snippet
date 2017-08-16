@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/money.js/0.2.0/money.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/money.js/0.2.0/money.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsmoney.js</tabTrigger>
+    <tabTrigger>lcjsmoneyjs</tabTrigger>
     <description>Money.Js</description>
 </snippet>

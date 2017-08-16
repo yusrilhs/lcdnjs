@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/onfire.js/1.0.6/onfire.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/onfire.js/1.0.6/onfire.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsonfire.js</tabTrigger>
+    <tabTrigger>lcjsonfirejs</tabTrigger>
     <description>Onfire.Js</description>
 </snippet>

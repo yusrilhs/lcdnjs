@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/xuijs/2.3.2/xui.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/xuijs/2.3.2/xui.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsxuijs</tabTrigger>
     <description>Xuijs</description>

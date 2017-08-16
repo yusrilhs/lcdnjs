@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/shell.js/1.0.5/js/shell.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/shell.js/1.0.5/js/shell.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsshell.js</tabTrigger>
+    <tabTrigger>lcjsshelljs</tabTrigger>
     <description>Shell.Js</description>
 </snippet>

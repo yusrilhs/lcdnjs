@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3-drag/1.1.1/d3-drag.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3-drag/1.1.1/d3-drag.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsd3-drag</tabTrigger>
     <description>D3 Drag</description>

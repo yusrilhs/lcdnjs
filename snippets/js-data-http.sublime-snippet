@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/js-data-http/2.2.2/js-data-http.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/js-data-http/2.2.2/js-data-http.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsjs-data-http</tabTrigger>
     <description>Js Data Http</description>

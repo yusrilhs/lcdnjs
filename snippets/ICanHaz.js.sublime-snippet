@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ICanHaz.js/0.10.3/ICanHaz.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ICanHaz.js/0.10.3/ICanHaz.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsICanHaz.js</tabTrigger>
+    <tabTrigger>lcjsICanHazjs</tabTrigger>
     <description>Icanhaz.Js</description>
 </snippet>

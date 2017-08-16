@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/zepto.fullpage/0.5.0/zepto.fullpage.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/zepto.fullpage/0.5.0/zepto.fullpage.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjszepto.fullpage</tabTrigger>
+    <tabTrigger>lcjszeptofullpage</tabTrigger>
     <description>Zepto.Fullpage</description>
 </snippet>

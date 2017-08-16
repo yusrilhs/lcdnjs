@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-data-remote/1.1.1/jquery.data-remote.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-data-remote/1.1.1/jquery.data-remote.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsjquery-data-remote</tabTrigger>
     <description>Jquery Data Remote</description>

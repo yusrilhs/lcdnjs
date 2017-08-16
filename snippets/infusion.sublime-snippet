@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/infusion/2.0.0/infusion-all.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/infusion/2.0.0/infusion-all.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsinfusion</tabTrigger>
     <description>Infusion</description>

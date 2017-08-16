@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/datalib/1.8.0/datalib.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/datalib/1.8.0/datalib.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsdatalib</tabTrigger>
     <description>Datalib</description>

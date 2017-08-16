@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/socket.io-stream/0.9.1/socket.io-stream.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/socket.io-stream/0.9.1/socket.io-stream.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjssocket.io-stream</tabTrigger>
+    <tabTrigger>lcjssocketio-stream</tabTrigger>
     <description>Socket.Io Stream</description>
 </snippet>

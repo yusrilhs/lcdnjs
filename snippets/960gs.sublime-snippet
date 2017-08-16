@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/960gs/0/960.min.css"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/960gs/0/960.min.css"></script>
 ]]></content>
     <tabTrigger>lcjs960gs</tabTrigger>
     <description>960gs</description>

@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/baffle.js/0.3.6/baffle.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/baffle.js/0.3.6/baffle.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsbaffle.js</tabTrigger>
+    <tabTrigger>lcjsbafflejs</tabTrigger>
     <description>Baffle.Js</description>
 </snippet>

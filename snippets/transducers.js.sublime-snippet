@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/transducers.js/0.3.2/transducers.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/transducers.js/0.3.2/transducers.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjstransducers.js</tabTrigger>
+    <tabTrigger>lcjstransducersjs</tabTrigger>
     <description>Transducers.Js</description>
 </snippet>

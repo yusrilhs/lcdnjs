@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ajile/2.1.7/com.iskitz.ajile.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ajile/2.1.7/com.iskitz.ajile.js"></script>
 ]]></content>
     <tabTrigger>lcjsajile</tabTrigger>
     <description>Ajile</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/sir-trevor-js/0.6.6/sir-trevor.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/sir-trevor-js/0.6.6/sir-trevor.min.js"></script>
 ]]></content>
     <tabTrigger>lcjssir-trevor-js</tabTrigger>
     <description>Sir Trevor Js</description>

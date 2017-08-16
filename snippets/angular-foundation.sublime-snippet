@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-foundation/0.8.0/mm-foundation.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-foundation/0.8.0/mm-foundation.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsangular-foundation</tabTrigger>
     <description>Angular Foundation</description>

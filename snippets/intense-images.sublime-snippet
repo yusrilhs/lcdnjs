@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/intense-images/1.0.5/intense.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/intense-images/1.0.5/intense.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsintense-images</tabTrigger>
     <description>Intense Images</description>

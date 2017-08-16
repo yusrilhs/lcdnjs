@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/aurora.js-aac/0.1.0/aac.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/aurora.js-aac/0.1.0/aac.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsaurora.js-aac</tabTrigger>
+    <tabTrigger>lcjsaurorajs-aac</tabTrigger>
     <description>Aurora.Js Aac</description>
 </snippet>

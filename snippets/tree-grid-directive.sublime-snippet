@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tree-grid-directive/0.4.0/tree-grid-directive.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tree-grid-directive/0.4.0/tree-grid-directive.min.js"></script>
 ]]></content>
     <tabTrigger>lcjstree-grid-directive</tabTrigger>
     <description>Tree Grid Directive</description>

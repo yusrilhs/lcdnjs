@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.appear/0.3.3/jquery.appear.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.appear/0.3.3/jquery.appear.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsjquery.appear</tabTrigger>
+    <tabTrigger>lcjsjqueryappear</tabTrigger>
     <description>Jquery.Appear</description>
 </snippet>

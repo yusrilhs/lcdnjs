@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hellojs/2.0.0-1/hello.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hellojs/2.0.0-1/hello.js"></script>
 ]]></content>
     <tabTrigger>lcjshellojs</tabTrigger>
     <description>Hellojs</description>

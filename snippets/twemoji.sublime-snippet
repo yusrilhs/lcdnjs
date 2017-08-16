@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/2.5.0/2/twemoji.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/2.5.0/2/twemoji.min.js"></script>
 ]]></content>
     <tabTrigger>lcjstwemoji</tabTrigger>
     <description>Twemoji</description>

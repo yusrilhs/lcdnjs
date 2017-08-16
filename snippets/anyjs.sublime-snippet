@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/anyjs/1.0.6/any.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/anyjs/1.0.6/any.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsanyjs</tabTrigger>
     <description>Anyjs</description>

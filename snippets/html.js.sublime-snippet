@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/html.js/0.12.1/HTML.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/html.js/0.12.1/HTML.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjshtml.js</tabTrigger>
+    <tabTrigger>lcjshtmljs</tabTrigger>
     <description>Html.Js</description>
 </snippet>

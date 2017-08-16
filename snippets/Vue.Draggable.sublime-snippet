@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Vue.Draggable/2.14.1/vuedraggable.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Vue.Draggable/2.14.1/vuedraggable.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsVue.Draggable</tabTrigger>
+    <tabTrigger>lcjsVueDraggable</tabTrigger>
     <description>Vue.Draggable</description>
 </snippet>

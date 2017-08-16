@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/qwest/4.4.6/qwest.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/qwest/4.5.0/qwest.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsqwest</tabTrigger>
     <description>Qwest</description>

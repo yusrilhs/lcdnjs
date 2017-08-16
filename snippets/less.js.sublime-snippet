@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/less.js/2.7.2/less.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/less.js/2.7.2/less.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjsless.js</tabTrigger>
+    <tabTrigger>lcjslessjs</tabTrigger>
     <description>Less.Js</description>
 </snippet>

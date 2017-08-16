@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/miniTip/1.5.3/jquery.miniTip.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/miniTip/1.5.3/jquery.miniTip.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsminiTip</tabTrigger>
     <description>Minitip</description>

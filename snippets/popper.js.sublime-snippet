@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.1/popper.min.js"></script>
+script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.2/popper.min.js"></script>
 ]]></content>
-    <tabTrigger>lcjspopper.js</tabTrigger>
+    <tabTrigger>lcjspopperjs</tabTrigger>
     <description>Popper.Js</description>
 </snippet>
