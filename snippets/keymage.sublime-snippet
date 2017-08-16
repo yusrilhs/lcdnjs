@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/keymage/1.1.3/keymage.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/keymage/1.1.3/keymage.min.js"></script>
 ]]></content>
     <tabTrigger>lcjskeymage</tabTrigger>
     <description>Keymage</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vault.js/1.0.3/vault.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vault.js/1.0.3/vault.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsvaultjs</tabTrigger>
     <description>Vault.Js</description>

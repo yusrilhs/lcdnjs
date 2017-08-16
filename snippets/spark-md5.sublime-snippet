@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/spark-md5/3.0.0/spark-md5.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/spark-md5/3.0.0/spark-md5.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsspark-md5</tabTrigger>
     <description>Spark Md5</description>

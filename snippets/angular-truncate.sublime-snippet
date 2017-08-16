@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-truncate/0.1.2/truncate.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-truncate/0.1.2/truncate.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsangular-truncate</tabTrigger>
     <description>Angular Truncate</description>

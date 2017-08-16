@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3-path/1.0.5/d3-path.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3-path/1.0.5/d3-path.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsd3-path</tabTrigger>
     <description>D3 Path</description>

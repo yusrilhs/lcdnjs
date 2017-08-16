@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Promin/1.0.1/js/jquery.promin.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Promin/1.0.1/js/jquery.promin.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsPromin</tabTrigger>
     <description>Promin</description>

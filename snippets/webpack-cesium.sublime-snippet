@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/webpack-cesium/1.31.2/webpack.cesium.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/webpack-cesium/1.31.2/webpack.cesium.js"></script>
 ]]></content>
     <tabTrigger>lcjswebpack-cesium</tabTrigger>
     <description>Webpack Cesium</description>

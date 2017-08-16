@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/snabbt.js/0.6.4/snabbt.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/snabbt.js/0.6.4/snabbt.min.js"></script>
 ]]></content>
     <tabTrigger>lcjssnabbtjs</tabTrigger>
     <description>Snabbt.Js</description>

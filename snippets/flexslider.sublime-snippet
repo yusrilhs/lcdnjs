@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.6.4/flexslider.min.css"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.6.4/flexslider.min.css"></script>
 ]]></content>
     <tabTrigger>lcjsflexslider</tabTrigger>
     <description>Flexslider</description>

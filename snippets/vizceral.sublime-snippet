@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vizceral/4.5.0/vizceral.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vizceral/4.5.0/vizceral.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsvizceral</tabTrigger>
     <description>Vizceral</description>

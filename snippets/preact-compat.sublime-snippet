@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/preact-compat/3.17.0/preact-compat.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/preact-compat/3.17.0/preact-compat.min.js"></script>
 ]]></content>
     <tabTrigger>lcjspreact-compat</tabTrigger>
     <description>Preact Compat</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jslite/1.1.12/JSLite.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jslite/1.1.12/JSLite.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsjslite</tabTrigger>
     <description>Jslite</description>

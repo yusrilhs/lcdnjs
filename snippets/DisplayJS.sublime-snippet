@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/DisplayJS/1.2.3/display.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/DisplayJS/1.2.3/display.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsDisplayJS</tabTrigger>
     <description>Displayjs</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular2-polyfill/0.0.32/angular2-polyfill.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular2-polyfill/0.0.32/angular2-polyfill.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsangular2-polyfill</tabTrigger>
     <description>Angular2 Polyfill</description>

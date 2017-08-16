@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/simditor/2.3.6/lib/simditor.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/simditor/2.3.6/lib/simditor.min.js"></script>
 ]]></content>
     <tabTrigger>lcjssimditor</tabTrigger>
     <description>Simditor</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/flight/1.1.4/flight.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/flight/1.1.4/flight.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsflight</tabTrigger>
     <description>Flight</description>

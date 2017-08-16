@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jcf/1.2.3/js/jcf.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jcf/1.2.3/js/jcf.js"></script>
 ]]></content>
     <tabTrigger>lcjsjcf</tabTrigger>
     <description>Jcf</description>

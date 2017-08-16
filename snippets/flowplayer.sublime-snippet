@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/flowplayer/7.0.4/flowplayer.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/flowplayer/7.0.4/flowplayer.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsflowplayer</tabTrigger>
     <description>Flowplayer</description>

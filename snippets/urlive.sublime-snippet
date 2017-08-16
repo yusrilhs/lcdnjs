@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/urlive/1.1.1/jquery.urlive.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/urlive/1.1.1/jquery.urlive.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsurlive</tabTrigger>
     <description>Urlive</description>

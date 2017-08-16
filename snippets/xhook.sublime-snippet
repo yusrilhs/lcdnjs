@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/xhook/1.4.4/xhook.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/xhook/1.4.4/xhook.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsxhook</tabTrigger>
     <description>Xhook</description>

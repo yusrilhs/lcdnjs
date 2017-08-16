@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/yasqe/2.11.14/yasqe.bundled.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/yasqe/2.11.14/yasqe.bundled.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsyasqe</tabTrigger>
     <description>Yasqe</description>

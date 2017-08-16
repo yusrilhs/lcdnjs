@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/flocks.js/1.6.1/flocks.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/flocks.js/1.6.1/flocks.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsflocksjs</tabTrigger>
     <description>Flocks.Js</description>

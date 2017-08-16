@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/websqltracer/1.0.3/webSqlTracer.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/websqltracer/1.0.3/webSqlTracer.min.js"></script>
 ]]></content>
     <tabTrigger>lcjswebsqltracer</tabTrigger>
     <description>Websqltracer</description>

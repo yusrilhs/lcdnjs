@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-formly/8.4.1/formly.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-formly/8.4.1/formly.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsangular-formly</tabTrigger>
     <description>Angular Formly</description>

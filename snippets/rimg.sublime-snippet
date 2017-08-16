@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/rimg/2.1.0/rimg.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/rimg/2.1.0/rimg.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsrimg</tabTrigger>
     <description>Rimg</description>

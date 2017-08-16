@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/CanvasInput/1.2.6/CanvasInput.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/CanvasInput/1.2.6/CanvasInput.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsCanvasInput</tabTrigger>
     <description>Canvasinput</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/primish/0.3.9/primish-min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/primish/0.3.9/primish-min.js"></script>
 ]]></content>
     <tabTrigger>lcjsprimish</tabTrigger>
     <description>Primish</description>

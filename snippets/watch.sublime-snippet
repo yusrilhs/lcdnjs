@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/watch/2.0.4/watch.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/watch/2.0.4/watch.min.js"></script>
 ]]></content>
     <tabTrigger>lcjswatch</tabTrigger>
     <description>Watch</description>

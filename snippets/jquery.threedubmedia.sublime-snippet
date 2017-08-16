@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.threedubmedia/2.2/event.drop/jquery.event.drop.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.threedubmedia/2.2/event.drop/jquery.event.drop.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsjquerythreedubmedia</tabTrigger>
     <description>Jquery.Threedubmedia</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/native-promise-only/0.8.1/npo.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/native-promise-only/0.8.1/npo.js"></script>
 ]]></content>
     <tabTrigger>lcjsnative-promise-only</tabTrigger>
     <description>Native Promise Only</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/kube/6.5.2/css/kube.min.css"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/kube/6.5.2/css/kube.min.css"></script>
 ]]></content>
     <tabTrigger>lcjskube</tabTrigger>
     <description>Kube</description>

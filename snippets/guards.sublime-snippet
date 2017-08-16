@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/guards/1.5.1/guards.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/guards/1.5.1/guards.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsguards</tabTrigger>
     <description>Guards</description>

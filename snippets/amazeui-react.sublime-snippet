@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/amazeui-react/1.2.3/amazeui.react.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/amazeui-react/1.2.3/amazeui.react.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsamazeui-react</tabTrigger>
     <description>Amazeui React</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/js-data-angular/3.2.1/js-data-angular.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/js-data-angular/3.2.1/js-data-angular.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsjs-data-angular</tabTrigger>
     <description>Js Data Angular</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/js-skeleton/3.6.3/skeleton.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/js-skeleton/3.6.3/skeleton.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsjs-skeleton</tabTrigger>
     <description>Js Skeleton</description>

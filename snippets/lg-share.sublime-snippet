@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lg-share/1.0.2/lg-share.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lg-share/1.0.2/lg-share.min.js"></script>
 ]]></content>
     <tabTrigger>lcjslg-share</tabTrigger>
     <description>Lg Share</description>

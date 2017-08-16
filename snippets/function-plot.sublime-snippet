@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/function-plot/1.18.1/function-plot.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/function-plot/1.18.1/function-plot.js"></script>
 ]]></content>
     <tabTrigger>lcjsfunction-plot</tabTrigger>
     <description>Function Plot</description>

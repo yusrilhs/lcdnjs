@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/javascript-hooker/0.2.3/ba-hooker.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/javascript-hooker/0.2.3/ba-hooker.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsjavascript-hooker</tabTrigger>
     <description>Javascript Hooker</description>

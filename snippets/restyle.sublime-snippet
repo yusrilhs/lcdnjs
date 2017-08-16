@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/restyle/0.7.0/restyle.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/restyle/0.7.0/restyle.js"></script>
 ]]></content>
     <tabTrigger>lcjsrestyle</tabTrigger>
     <description>Restyle</description>

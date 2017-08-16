@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/msl-client-browser/1.1.0/mockapi-browser.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/msl-client-browser/1.1.0/mockapi-browser.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsmsl-client-browser</tabTrigger>
     <description>Msl Client Browser</description>

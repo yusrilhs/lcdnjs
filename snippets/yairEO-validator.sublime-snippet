@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/yairEO-validator/3.0.0/validator.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/yairEO-validator/3.0.0/validator.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsyairEO-validator</tabTrigger>
     <description>Yaireo Validator</description>

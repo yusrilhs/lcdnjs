@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react-motion-ui-pack/0.10.3/react-motion-ui-pack.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react-motion-ui-pack/0.10.3/react-motion-ui-pack.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsreact-motion-ui-pack</tabTrigger>
     <description>React Motion Ui Pack</description>

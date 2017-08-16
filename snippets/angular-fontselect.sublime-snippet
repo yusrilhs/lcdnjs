@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-fontselect/0.13.4/angular-fontselect.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-fontselect/0.13.4/angular-fontselect.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsangular-fontselect</tabTrigger>
     <description>Angular Fontselect</description>

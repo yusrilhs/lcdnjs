@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/signet/0.4.8/signet.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/signet/0.4.8/signet.min.js"></script>
 ]]></content>
     <tabTrigger>lcjssignet</tabTrigger>
     <description>Signet</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/deb.js/0.0.2/deb.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/deb.js/0.0.2/deb.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsdebjs</tabTrigger>
     <description>Deb.Js</description>

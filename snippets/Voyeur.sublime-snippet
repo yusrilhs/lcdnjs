@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Voyeur/0.4.0/Voyeur.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Voyeur/0.4.0/Voyeur.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsVoyeur</tabTrigger>
     <description>Voyeur</description>

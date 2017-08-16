@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ng-device-detector/4.0.3/ng-device-detector.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ng-device-detector/4.0.3/ng-device-detector.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsng-device-detector</tabTrigger>
     <description>Ng Device Detector</description>

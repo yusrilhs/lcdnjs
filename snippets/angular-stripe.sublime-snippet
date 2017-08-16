@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-stripe/5.0.0/angular-stripe.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-stripe/5.0.0/angular-stripe.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsangular-stripe</tabTrigger>
     <description>Angular Stripe</description>

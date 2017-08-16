@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/grade-js/1.0.10/grade.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/grade-js/1.0.10/grade.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsgrade-js</tabTrigger>
     <description>Grade Js</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/clarinet/0.11.0/clarinet.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/clarinet/0.11.0/clarinet.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsclarinet</tabTrigger>
     <description>Clarinet</description>

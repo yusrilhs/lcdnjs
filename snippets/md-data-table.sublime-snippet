@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/md-data-table/2.2.0/md-data-table.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/md-data-table/2.2.0/md-data-table.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsmd-data-table</tabTrigger>
     <description>Md Data Table</description>

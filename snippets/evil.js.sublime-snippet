@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/evil.js/42/evil.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/evil.js/42/evil.min.js"></script>
 ]]></content>
     <tabTrigger>lcjseviljs</tabTrigger>
     <description>Evil.Js</description>

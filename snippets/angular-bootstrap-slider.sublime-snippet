@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-bootstrap-slider/0.1.28/slider.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-bootstrap-slider/0.1.28/slider.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsangular-bootstrap-slider</tabTrigger>
     <description>Angular Bootstrap Slider</description>

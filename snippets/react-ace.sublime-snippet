@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react-ace/5.1.2/react-ace.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react-ace/5.1.2/react-ace.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsreact-ace</tabTrigger>
     <description>React Ace</description>

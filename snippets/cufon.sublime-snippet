@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/cufon/1.09i/cufon-yui.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/cufon/1.09i/cufon-yui.min.js"></script>
 ]]></content>
     <tabTrigger>lcjscufon</tabTrigger>
     <description>Cufon</description>

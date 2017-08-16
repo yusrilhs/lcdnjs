@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/socketcluster-client/7.0.1/socketcluster.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/socketcluster-client/7.0.1/socketcluster.min.js"></script>
 ]]></content>
     <tabTrigger>lcjssocketcluster-client</tabTrigger>
     <description>Socketcluster Client</description>

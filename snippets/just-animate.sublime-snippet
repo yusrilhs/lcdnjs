@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/just-animate/2.2.0/just-animate.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/just-animate/2.2.0/just-animate.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsjust-animate</tabTrigger>
     <description>Just Animate</description>

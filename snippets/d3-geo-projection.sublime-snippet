@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3-geo-projection/2.2.0/d3-geo-projection.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3-geo-projection/2.2.0/d3-geo-projection.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsd3-geo-projection</tabTrigger>
     <description>D3 Geo Projection</description>

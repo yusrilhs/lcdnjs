@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/choices.js/3.0.2/choices.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/choices.js/3.0.2/choices.min.js"></script>
 ]]></content>
     <tabTrigger>lcjschoicesjs</tabTrigger>
     <description>Choices.Js</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/chromatism/2.6.0/chromatism.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/chromatism/2.6.0/chromatism.js"></script>
 ]]></content>
     <tabTrigger>lcjschromatism</tabTrigger>
     <description>Chromatism</description>

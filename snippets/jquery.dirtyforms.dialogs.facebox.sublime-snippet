@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.dirtyforms.dialogs.facebox/2.0.0/jquery.dirtyforms.dialogs.facebox.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.dirtyforms.dialogs.facebox/2.0.0/jquery.dirtyforms.dialogs.facebox.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsjquerydirtyformsdialogsfacebox</tabTrigger>
     <description>Jquery.Dirtyforms.Dialogs.Facebox</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/reflux/6.4.1/reflux.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/reflux/6.4.1/reflux.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsreflux</tabTrigger>
     <description>Reflux</description>

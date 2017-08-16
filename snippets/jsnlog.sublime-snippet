@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jsnlog/2.24.0/jsnlog.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jsnlog/2.24.0/jsnlog.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsjsnlog</tabTrigger>
     <description>Jsnlog</description>

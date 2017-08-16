@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/le_js/0.0.3/le.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/le_js/0.0.3/le.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsle_js</tabTrigger>
     <description>Le_js</description>

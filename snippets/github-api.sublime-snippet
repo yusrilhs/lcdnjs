@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/github-api/3.0.0/GitHub.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/github-api/3.0.0/GitHub.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsgithub-api</tabTrigger>
     <description>Github Api</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react-native-elements/0.16.0/bundle.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react-native-elements/0.16.0/bundle.js"></script>
 ]]></content>
     <tabTrigger>lcjsreact-native-elements</tabTrigger>
     <description>React Native Elements</description>

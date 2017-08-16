@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/libsodium-wrappers/0.5.3/sodium.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/libsodium-wrappers/0.5.3/sodium.min.js"></script>
 ]]></content>
     <tabTrigger>lcjslibsodium-wrappers</tabTrigger>
     <description>Libsodium Wrappers</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/superplaceholder/0.1.1/superplaceholder.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/superplaceholder/0.1.1/superplaceholder.min.js"></script>
 ]]></content>
     <tabTrigger>lcjssuperplaceholder</tabTrigger>
     <description>Superplaceholder</description>

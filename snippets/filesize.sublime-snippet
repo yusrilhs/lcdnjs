@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/filesize/3.5.10/filesize.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/filesize/3.5.10/filesize.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsfilesize</tabTrigger>
     <description>Filesize</description>

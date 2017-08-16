@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-img-cropper/1.1.0/angular-img-cropper.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-img-cropper/1.1.0/angular-img-cropper.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsangular-img-cropper</tabTrigger>
     <description>Angular Img Cropper</description>

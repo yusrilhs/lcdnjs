@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/speakingurl/14.0.0/speakingurl.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/speakingurl/14.0.0/speakingurl.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsspeakingurl</tabTrigger>
     <description>Speakingurl</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/riotux/2.1.1/riotux.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/riotux/2.1.1/riotux.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsriotux</tabTrigger>
     <description>Riotux</description>

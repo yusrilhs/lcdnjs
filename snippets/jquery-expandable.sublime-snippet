@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-expandable/1.1.4/jquery.expandable.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-expandable/1.1.4/jquery.expandable.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsjquery-expandable</tabTrigger>
     <description>Jquery Expandable</description>

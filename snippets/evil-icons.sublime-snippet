@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/evil-icons/1.9.0/evil-icons.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/evil-icons/1.9.0/evil-icons.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsevil-icons</tabTrigger>
     <description>Evil Icons</description>

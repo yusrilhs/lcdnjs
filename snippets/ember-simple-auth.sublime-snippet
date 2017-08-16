@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ember-simple-auth/0.8.0/simple-auth.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ember-simple-auth/0.8.0/simple-auth.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsember-simple-auth</tabTrigger>
     <description>Ember Simple Auth</description>

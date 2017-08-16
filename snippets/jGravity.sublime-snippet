@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jGravity/0.8.0/jGravity-min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jGravity/0.8.0/jGravity-min.js"></script>
 ]]></content>
     <tabTrigger>lcjsjGravity</tabTrigger>
     <description>Jgravity</description>

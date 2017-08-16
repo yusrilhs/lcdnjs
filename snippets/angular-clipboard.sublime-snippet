@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-clipboard/1.6.0/angular-clipboard.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-clipboard/1.6.0/angular-clipboard.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsangular-clipboard</tabTrigger>
     <description>Angular Clipboard</description>

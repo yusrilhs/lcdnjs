@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/scroll-scope/0.1.0/scroll-scope.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/scroll-scope/0.1.0/scroll-scope.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsscroll-scope</tabTrigger>
     <description>Scroll Scope</description>

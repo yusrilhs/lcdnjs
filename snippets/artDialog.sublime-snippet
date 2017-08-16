@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/artDialog/7.0.0/dialog.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/artDialog/7.0.0/dialog.js"></script>
 ]]></content>
     <tabTrigger>lcjsartDialog</tabTrigger>
     <description>Artdialog</description>

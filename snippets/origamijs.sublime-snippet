@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/origamijs/0.5.1/origami.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/origamijs/0.5.1/origami.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsorigamijs</tabTrigger>
     <description>Origamijs</description>

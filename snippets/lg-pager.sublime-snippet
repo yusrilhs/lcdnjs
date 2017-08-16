@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lg-pager/1.0.2/lg-pager.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lg-pager/1.0.2/lg-pager.min.js"></script>
 ]]></content>
     <tabTrigger>lcjslg-pager</tabTrigger>
     <description>Lg Pager</description>

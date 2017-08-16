@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/winjs/4.4.3/js/ui.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/winjs/4.4.3/js/ui.min.js"></script>
 ]]></content>
     <tabTrigger>lcjswinjs</tabTrigger>
     <description>Winjs</description>

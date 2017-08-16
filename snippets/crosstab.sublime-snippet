@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/crosstab/0.2.12/crosstab.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/crosstab/0.2.12/crosstab.min.js"></script>
 ]]></content>
     <tabTrigger>lcjscrosstab</tabTrigger>
     <description>Crosstab</description>

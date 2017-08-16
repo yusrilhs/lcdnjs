@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/recompose/0.24.0/Recompose.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/recompose/0.24.0/Recompose.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsrecompose</tabTrigger>
     <description>Recompose</description>

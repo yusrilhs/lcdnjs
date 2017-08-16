@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/weld/0.2.3/weld.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/weld/0.2.3/weld.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsweld</tabTrigger>
     <description>Weld</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tippy.js/0.3.0/tippy.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tippy.js/0.3.0/tippy.js"></script>
 ]]></content>
     <tabTrigger>lcjstippyjs</tabTrigger>
     <description>Tippy.Js</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ngmodeloptions/1.0.1/ngModelOptions.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ngmodeloptions/1.0.1/ngModelOptions.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsngmodeloptions</tabTrigger>
     <description>Ngmodeloptions</description>

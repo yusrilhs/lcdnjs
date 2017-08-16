@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/custom-elements-builder/0.3.4/ceb.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/custom-elements-builder/0.3.4/ceb.min.js"></script>
 ]]></content>
     <tabTrigger>lcjscustom-elements-builder</tabTrigger>
     <description>Custom Elements Builder</description>

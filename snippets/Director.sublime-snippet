@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Director/1.2.8/director.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Director/1.2.8/director.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsDirector</tabTrigger>
     <description>Director</description>

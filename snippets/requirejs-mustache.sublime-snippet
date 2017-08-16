@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/requirejs-mustache/0.0.2/stache.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/requirejs-mustache/0.0.2/stache.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsrequirejs-mustache</tabTrigger>
     <description>Requirejs Mustache</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/anima/0.4.0/anima.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/anima/0.4.0/anima.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsanima</tabTrigger>
     <description>Anima</description>

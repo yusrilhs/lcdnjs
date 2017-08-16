@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/timeline.css/1.0.0/timeline.min.css"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/timeline.css/1.0.0/timeline.min.css"></script>
 ]]></content>
     <tabTrigger>lcjstimelinecss</tabTrigger>
     <description>Timeline.Css</description>

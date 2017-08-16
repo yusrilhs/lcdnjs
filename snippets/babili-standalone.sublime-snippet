@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/babili-standalone/0.0.10/babili.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/babili-standalone/0.0.10/babili.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsbabili-standalone</tabTrigger>
     <description>Babili Standalone</description>

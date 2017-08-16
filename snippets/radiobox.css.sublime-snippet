@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/radiobox.css/1.0.1/css/radiobox.min.css"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/radiobox.css/1.0.1/css/radiobox.min.css"></script>
 ]]></content>
     <tabTrigger>lcjsradioboxcss</tabTrigger>
     <description>Radiobox.Css</description>

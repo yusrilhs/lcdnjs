@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/dash-shaka-playback/2.0.8/dash-shaka-playback.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/dash-shaka-playback/2.0.8/dash-shaka-playback.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsdash-shaka-playback</tabTrigger>
     <description>Dash Shaka Playback</description>

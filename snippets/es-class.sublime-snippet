@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/es-class/2.0.0/es-class.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/es-class/2.0.0/es-class.js"></script>
 ]]></content>
     <tabTrigger>lcjses-class</tabTrigger>
     <description>Es Class</description>

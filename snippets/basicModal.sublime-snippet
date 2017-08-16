@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/basicModal/3.3.9/basicModal.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/basicModal/3.3.9/basicModal.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsbasicModal</tabTrigger>
     <description>Basicmodal</description>

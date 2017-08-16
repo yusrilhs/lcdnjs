@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/heapbox/0.9.4/jquery.heapbox.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/heapbox/0.9.4/jquery.heapbox.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsheapbox</tabTrigger>
     <description>Heapbox</description>

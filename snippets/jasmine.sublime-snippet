@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jasmine/2.7.0/jasmine.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jasmine/2.7.0/jasmine.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsjasmine</tabTrigger>
     <description>Jasmine</description>

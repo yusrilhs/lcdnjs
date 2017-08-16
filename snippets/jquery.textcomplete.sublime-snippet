@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.textcomplete/1.8.2/jquery.textcomplete.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.textcomplete/1.8.2/jquery.textcomplete.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsjquerytextcomplete</tabTrigger>
     <description>Jquery.Textcomplete</description>

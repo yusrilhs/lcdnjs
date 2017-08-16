@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/txt.wav/1.0.5/js/txt.wav.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/txt.wav/1.0.5/js/txt.wav.min.js"></script>
 ]]></content>
     <tabTrigger>lcjstxtwav</tabTrigger>
     <description>Txt.Wav</description>

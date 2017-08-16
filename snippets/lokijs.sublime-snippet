@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lokijs/1.5.0/lokijs.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lokijs/1.5.0/lokijs.min.js"></script>
 ]]></content>
     <tabTrigger>lcjslokijs</tabTrigger>
     <description>Lokijs</description>

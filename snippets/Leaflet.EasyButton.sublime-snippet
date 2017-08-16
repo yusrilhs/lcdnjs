@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.EasyButton/2.2.0/easy-button.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.EasyButton/2.2.0/easy-button.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsLeafletEasyButton</tabTrigger>
     <description>Leaflet.Easybutton</description>

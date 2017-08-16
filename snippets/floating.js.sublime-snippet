@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/floating.js/2.7.1/floating.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/floating.js/2.7.1/floating.js"></script>
 ]]></content>
     <tabTrigger>lcjsfloatingjs</tabTrigger>
     <description>Floating.Js</description>

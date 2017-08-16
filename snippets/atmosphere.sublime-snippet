@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/atmosphere/2.2.9/atmosphere.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/atmosphere/2.2.9/atmosphere.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsatmosphere</tabTrigger>
     <description>Atmosphere</description>

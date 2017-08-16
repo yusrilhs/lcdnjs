@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/zurb-ink/1.0.5/ink.min.css"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/zurb-ink/1.0.5/ink.min.css"></script>
 ]]></content>
     <tabTrigger>lcjszurb-ink</tabTrigger>
     <description>Zurb Ink</description>

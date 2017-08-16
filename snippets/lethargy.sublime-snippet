@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lethargy/1.0.4/lethargy.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lethargy/1.0.4/lethargy.min.js"></script>
 ]]></content>
     <tabTrigger>lcjslethargy</tabTrigger>
     <description>Lethargy</description>

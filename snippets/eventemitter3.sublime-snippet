@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/eventemitter3/2.0.3/index.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/eventemitter3/2.0.3/index.min.js"></script>
 ]]></content>
     <tabTrigger>lcjseventemitter3</tabTrigger>
     <description>Eventemitter3</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/axe-core/2.3.1/axe.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/axe-core/2.3.1/axe.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsaxe-core</tabTrigger>
     <description>Axe Core</description>

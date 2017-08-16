@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/maplace-js/0.2.10/maplace.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/maplace-js/0.2.10/maplace.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsmaplace-js</tabTrigger>
     <description>Maplace Js</description>

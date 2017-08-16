@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/flow.js/2.13.0/flow.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/flow.js/2.13.0/flow.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsflowjs</tabTrigger>
     <description>Flow.Js</description>

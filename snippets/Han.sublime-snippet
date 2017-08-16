@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Han/3.3.0/han.min.css"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Han/3.3.0/han.min.css"></script>
 ]]></content>
     <tabTrigger>lcjsHan</tabTrigger>
     <description>Han</description>

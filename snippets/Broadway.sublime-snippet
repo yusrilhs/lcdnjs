@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Broadway/0.1.0/Player.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Broadway/0.1.0/Player.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsBroadway</tabTrigger>
     <description>Broadway</description>

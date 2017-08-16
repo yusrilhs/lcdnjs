@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-details/0.1.0/jquery.details.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-details/0.1.0/jquery.details.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsjquery-details</tabTrigger>
     <description>Jquery Details</description>

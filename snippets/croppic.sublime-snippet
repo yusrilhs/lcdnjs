@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/croppic/1.0.3/croppic.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/croppic/1.0.3/croppic.min.js"></script>
 ]]></content>
     <tabTrigger>lcjscroppic</tabTrigger>
     <description>Croppic</description>

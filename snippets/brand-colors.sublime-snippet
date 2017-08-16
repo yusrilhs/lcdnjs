@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/brand-colors/1.2.1/css/brand-colors.latest.min.css"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/brand-colors/1.2.1/css/brand-colors.latest.min.css"></script>
 ]]></content>
     <tabTrigger>lcjsbrand-colors</tabTrigger>
     <description>Brand Colors</description>

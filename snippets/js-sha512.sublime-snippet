@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/js-sha512/0.4.0/sha512.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/js-sha512/0.4.0/sha512.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsjs-sha512</tabTrigger>
     <description>Js Sha512</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/across-tabs/1.0.2/across-tabs.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/across-tabs/1.0.2/across-tabs.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsacross-tabs</tabTrigger>
     <description>Across Tabs</description>

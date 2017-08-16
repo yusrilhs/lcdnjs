@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.is.js/0.2.1/jquery.is.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.is.js/0.2.1/jquery.is.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsjqueryisjs</tabTrigger>
     <description>Jquery.Is.Js</description>

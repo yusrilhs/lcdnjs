@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitterlib.js/1.0.9/twitterlib.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitterlib.js/1.0.9/twitterlib.min.js"></script>
 ]]></content>
     <tabTrigger>lcjstwitterlibjs</tabTrigger>
     <description>Twitterlib.Js</description>

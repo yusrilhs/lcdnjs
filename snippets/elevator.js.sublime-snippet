@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/elevator.js/1.0.0/elevator.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/elevator.js/1.0.0/elevator.min.js"></script>
 ]]></content>
     <tabTrigger>lcjselevatorjs</tabTrigger>
     <description>Elevator.Js</description>

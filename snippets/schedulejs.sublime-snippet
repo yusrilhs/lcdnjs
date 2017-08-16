@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/schedulejs/0.6.3/schedule.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/schedulejs/0.6.3/schedule.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsschedulejs</tabTrigger>
     <description>Schedulejs</description>

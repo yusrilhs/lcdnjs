@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.dirtyforms.helpers.alwaysdirty/2.0.0/jquery.dirtyforms.helpers.alwaysdirty.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.dirtyforms.helpers.alwaysdirty/2.0.0/jquery.dirtyforms.helpers.alwaysdirty.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsjquerydirtyformshelpersalwaysdirty</tabTrigger>
     <description>Jquery.Dirtyforms.Helpers.Alwaysdirty</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/livescript/1.5.0/livescript-min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/livescript/1.5.0/livescript-min.js"></script>
 ]]></content>
     <tabTrigger>lcjslivescript</tabTrigger>
     <description>Livescript</description>

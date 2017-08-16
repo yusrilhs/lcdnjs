@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mobx-react/4.2.2/index.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mobx-react/4.2.2/index.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsmobx-react</tabTrigger>
     <description>Mobx React</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/sharer.js/0.3.1/sharer.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/sharer.js/0.3.1/sharer.min.js"></script>
 ]]></content>
     <tabTrigger>lcjssharerjs</tabTrigger>
     <description>Sharer.Js</description>

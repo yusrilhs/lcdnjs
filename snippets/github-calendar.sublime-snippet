@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/github-calendar/1.1.12/github-calendar.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/github-calendar/1.1.12/github-calendar.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsgithub-calendar</tabTrigger>
     <description>Github Calendar</description>

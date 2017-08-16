@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/docsearch.js/2.4.1/docsearch.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/docsearch.js/2.4.1/docsearch.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsdocsearchjs</tabTrigger>
     <description>Docsearch.Js</description>

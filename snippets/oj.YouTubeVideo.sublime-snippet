@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/oj.YouTubeVideo/0.0.1/oj.YouTubeVideo.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/oj.YouTubeVideo/0.0.1/oj.YouTubeVideo.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsojYouTubeVideo</tabTrigger>
     <description>Oj.Youtubevideo</description>

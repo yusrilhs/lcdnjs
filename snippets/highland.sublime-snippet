@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/highland/2.11.1/highland.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/highland/2.11.1/highland.min.js"></script>
 ]]></content>
     <tabTrigger>lcjshighland</tabTrigger>
     <description>Highland</description>

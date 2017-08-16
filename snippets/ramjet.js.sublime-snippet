@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ramjet.js/0.5.0/ramjet.umd.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ramjet.js/0.5.0/ramjet.umd.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsramjetjs</tabTrigger>
     <description>Ramjet.Js</description>

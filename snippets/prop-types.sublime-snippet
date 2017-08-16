@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/prop-types/15.5.10/prop-types.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/prop-types/15.5.10/prop-types.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsprop-types</tabTrigger>
     <description>Prop Types</description>
