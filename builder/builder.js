@@ -9,7 +9,7 @@ const cdnjsApiUrl = 'https://api.cdnjs.com/libraries?fields=version'
 
 const snippetTemplate = '<snippet>\n\
     <content><![CDATA[\n\
-script type="text/javascript" src="<%= latest %>"></script>\n\
+<script type="text/javascript" src="<%= latest %>"></script>\n\
 ]]></content>\n\
     <tabTrigger>lcjs<%= name %></tabTrigger>\n\
     <description><%= description %></description>\n\
