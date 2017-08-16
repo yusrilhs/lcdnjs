@@ -1,0 +1,22 @@
+{
+  "name": "lcdnjs-builder",
+  "version": "1.0.0",
+  "description": "Sublime 3 Snippet Builder for Latest cdnjs library",
+  "main": "builder/builder.js",
+  "scripts": {
+    "start": "node builder/builder.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusrilhs/lcdnjs.git"
+  },
+  "author": "Yusril Herlian Syah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yusrilhs/lcdnjs/issues"
+  },
+  "homepage": "https://github.com/yusrilhs/lcdnjs#readme",
+  "dependencies": {
+    "gulp-util": "^3.0.8"
+  }
+}
