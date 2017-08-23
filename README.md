@@ -153,6 +153,7 @@ All snippet prefixed with `lcjs`
 * angular-media-queries
 * angular-messages
 * angular-mixpanel
+* angular-mocks
 * angular-moment-picker
 * angular-moment
 * angular-morris
@@ -544,6 +545,7 @@ All snippet prefixed with `lcjs`
 * chartist-plugin-legend
 * chartist
 * chartjs-plugin-annotation
+* chartjs-plugin-zoom
 * chartkick
 * checkbox.css
 * checklist-model
@@ -838,6 +840,7 @@ All snippet prefixed with `lcjs`
 * elevator.js
 * elfinder
 * elm-runtime
+* email-autocomplete
 * embed-box
 * embed-js
 * embedly-jquery
@@ -2573,6 +2576,7 @@ All snippet prefixed with `lcjs`
 * simple-statistics
 * simple-text-rotator
 * simple-uploader
+* simplebar
 * simplecartjs
 * simplelightbox
 * simplemde
