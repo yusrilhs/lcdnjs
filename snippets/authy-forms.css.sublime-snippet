@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/authy-forms.css/2.2/form.authy.min.css"></script>
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/authy-forms.css/2.2/form.authy.min.css">
 ]]></content>
     <tabTrigger>lcjsauthy-formscss</tabTrigger>
     <description>Authy Forms.Css</description>

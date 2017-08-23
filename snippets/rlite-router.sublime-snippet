@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/rlite-router/2.0.1/rlite.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/rlite-router/2.0.3/rlite.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsrlite-router</tabTrigger>
     <description>Rlite Router</description>

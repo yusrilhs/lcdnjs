@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-i18n/1.6.5/angular-locale_en-us.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-i18n/1.6.6/angular-locale_en-us.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsangular-i18n</tabTrigger>
     <description>Angular I18n</description>

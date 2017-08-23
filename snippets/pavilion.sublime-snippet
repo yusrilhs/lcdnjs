@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pavilion/2.0.3/pavilion.min.css"></script>
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/pavilion/2.0.3/pavilion.min.css">
 ]]></content>
     <tabTrigger>lcjspavilion</tabTrigger>
     <description>Pavilion</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/minireset.css/0.0.2/minireset.min.css"></script>
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/minireset.css/0.0.2/minireset.min.css">
 ]]></content>
     <tabTrigger>lcjsminiresetcss</tabTrigger>
     <description>Minireset.Css</description>

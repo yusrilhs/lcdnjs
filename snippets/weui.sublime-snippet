@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/weui/1.1.2/style/weui.min.css"></script>
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/weui/1.1.2/style/weui.min.css">
 ]]></content>
     <tabTrigger>lcjsweui</tabTrigger>
     <description>Weui</description>

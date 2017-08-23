@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/grd/1.2.3/grd.css"></script>
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/grd/1.2.3/grd.css">
 ]]></content>
     <tabTrigger>lcjsgrd</tabTrigger>
     <description>Grd</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/kule.lazy/3.1.170618/css/kule-lazy.min.css"></script>
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/kule.lazy/3.1.170618/css/kule-lazy.min.css">
 ]]></content>
     <tabTrigger>lcjskulelazy</tabTrigger>
     <description>Kule.Lazy</description>

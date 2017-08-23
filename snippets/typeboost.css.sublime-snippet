@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/typeboost.css/0.1.8/css/typeboost.min.css"></script>
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/typeboost.css/0.1.8/css/typeboost.min.css">
 ]]></content>
     <tabTrigger>lcjstypeboostcss</tabTrigger>
     <description>Typeboost.Css</description>

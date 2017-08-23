@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/startbootstrap-landing-page/3.3.7/css/landing-page.min.css"></script>
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/startbootstrap-landing-page/3.3.7/css/landing-page.min.css">
 ]]></content>
     <tabTrigger>lcjsstartbootstrap-landing-page</tabTrigger>
     <description>Startbootstrap Landing Page</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/custommarkup/1.1.12/cm.min.css"></script>
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/custommarkup/1.1.12/cm.min.css">
 ]]></content>
     <tabTrigger>lcjscustommarkup</tabTrigger>
     <description>Custommarkup</description>

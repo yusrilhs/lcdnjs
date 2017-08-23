@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/DinaKit/1.2/css/cdn_dinakit.min.css"></script>
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/DinaKit/1.2/css/cdn_dinakit.min.css">
 ]]></content>
     <tabTrigger>lcjsDinaKit</tabTrigger>
     <description>Dinakit</description>

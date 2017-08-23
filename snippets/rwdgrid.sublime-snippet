@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/rwdgrid/2/css/rwdgrid.min.css"></script>
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/rwdgrid/2/css/rwdgrid.min.css">
 ]]></content>
     <tabTrigger>lcjsrwdgrid</tabTrigger>
     <description>Rwdgrid</description>

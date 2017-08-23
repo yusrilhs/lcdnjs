@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/onsen/2.5.2/js/onsenui.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/onsen/2.5.3/js/onsenui.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsonsen</tabTrigger>
     <description>Onsen</description>

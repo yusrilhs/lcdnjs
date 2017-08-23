@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hack/0.8.0/hack.css"></script>
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/hack/0.8.0/hack.css">
 ]]></content>
     <tabTrigger>lcjshack</tabTrigger>
     <description>Hack</description>

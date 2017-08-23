@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gumby/2.6.4/css/gumby.min.css"></script>
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/gumby/2.6.4/css/gumby.min.css">
 ]]></content>
     <tabTrigger>lcjsgumby</tabTrigger>
     <description>Gumby</description>

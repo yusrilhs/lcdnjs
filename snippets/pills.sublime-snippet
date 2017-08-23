@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pills/1.0.1/pills.min.css"></script>
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/pills/1.0.1/pills.min.css">
 ]]></content>
     <tabTrigger>lcjspills</tabTrigger>
     <description>Pills</description>

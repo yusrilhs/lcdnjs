@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/blaze/3.3.0/blaze.min.css"></script>
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/blaze/3.3.0/blaze.min.css">
 ]]></content>
     <tabTrigger>lcjsblaze</tabTrigger>
     <description>Blaze</description>

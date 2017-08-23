@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/videojs-swf/5.4.1/video-js.swf"></script>
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/videojs-swf/5.4.1/video-js.swf">
 ]]></content>
     <tabTrigger>lcjsvideojs-swf</tabTrigger>
     <description>Videojs Swf</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/systemjs/0.20.17/system.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/systemjs/0.20.18/system.js"></script>
 ]]></content>
     <tabTrigger>lcjssystemjs</tabTrigger>
     <description>Systemjs</description>
