@@ -7,9 +7,16 @@ const https = require('https')
 const cdnjsApiUrl = 'https://api.cdnjs.com/libraries?fields=version'
     , snippetPath = path.join(__dirname, '../snippets')
 
-const snippetTemplate = '<snippet>\n\
+const snippetJs = '<snippet>\n\
     <content><![CDATA[\n\
 <script type="text/javascript" src="<%= latest %>"></script>\n\
+]]></content>\n\
+    <tabTrigger>lcjs<%= name %></tabTrigger>\n\
+    <description><%= description %></description>\n\
+</snippet>\n'
+    , snippetCss = '<snippet>\n\
+    <content><![CDATA[\n\
+<link rel="stylesheet" type="text/css" href="<%= latest %>">\n\
 ]]></content>\n\
     <tabTrigger>lcjs<%= name %></tabTrigger>\n\
     <description><%= description %></description>\n\
@@ -95,6 +102,10 @@ LcdnjsBuilder.prototype.build = function() {
     dumps[libName] = {
       version: lib.version
     }
+
+    let snippetTemplate = (path.extname(lib.latest) == '.js') ? 
+                              snippetJs :
+                              snippetCss
 
     let content = gutil.template(snippetTemplate, lib)
 
