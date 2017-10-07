@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/waud.js/0.9.11/waud.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/waud.js/0.9.14/waud.min.js"></script>
 ]]></content>
     <tabTrigger>lcjswaudjs</tabTrigger>
     <description>Waud.Js</description>

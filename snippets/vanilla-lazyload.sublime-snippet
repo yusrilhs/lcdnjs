@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vanilla-lazyload/8.0.3/lazyload.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vanilla-lazyload/10.3.1/lazyload.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsvanilla-lazyload</tabTrigger>
     <description>Vanilla Lazyload</description>

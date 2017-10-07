@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-chartist.js/4.3.3/angular-chartist.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-chartist.js/4.3.4/angular-chartist.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsangular-chartistjs</tabTrigger>
     <description>Angular Chartist.Js</description>

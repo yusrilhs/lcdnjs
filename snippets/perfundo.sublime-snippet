@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/perfundo/2.0.4/perfundo.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/perfundo/3.1.1/perfundo.min.css">
 ]]></content>
     <tabTrigger>lcjsperfundo</tabTrigger>
     <description>Perfundo</description>

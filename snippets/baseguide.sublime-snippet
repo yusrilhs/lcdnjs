@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/baseguide/2.0.1/css/baseguide.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/baseguide/2.0.2/css/baseguide.min.css">
 ]]></content>
     <tabTrigger>lcjsbaseguide</tabTrigger>
     <description>Baseguide</description>

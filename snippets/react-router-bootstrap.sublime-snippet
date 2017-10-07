@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react-router-bootstrap/0.24.2/ReactRouterBootstrap.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react-router-bootstrap/0.24.4/ReactRouterBootstrap.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsreact-router-bootstrap</tabTrigger>
     <description>React Router Bootstrap</description>

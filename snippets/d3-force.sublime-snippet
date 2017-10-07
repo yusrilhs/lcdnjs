@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3-force/1.0.6/d3-force.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3-force/1.1.0/d3-force.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsd3-force</tabTrigger>
     <description>D3 Force</description>

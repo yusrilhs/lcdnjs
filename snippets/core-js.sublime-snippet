@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/core-js/2.5.0/core.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/core-js/2.5.1/core.min.js"></script>
 ]]></content>
     <tabTrigger>lcjscore-js</tabTrigger>
     <description>Core Js</description>

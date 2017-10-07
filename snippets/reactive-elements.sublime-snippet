@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/reactive-elements/0.6.7/reactive-elements.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/reactive-elements/0.6.8/reactive-elements.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsreactive-elements</tabTrigger>
     <description>Reactive Elements</description>

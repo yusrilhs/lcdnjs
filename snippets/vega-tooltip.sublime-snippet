@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vega-tooltip/0.4.3/vega-tooltip.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vega-tooltip/0.4.4/vega-tooltip.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsvega-tooltip</tabTrigger>
     <description>Vega Tooltip</description>

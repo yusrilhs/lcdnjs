@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/raven.js/3.17.0/raven.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/raven.js/3.18.1/raven.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsravenjs</tabTrigger>
     <description>Raven.Js</description>

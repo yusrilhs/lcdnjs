@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/inobounce/0.1.4/inobounce.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/inobounce/0.1.5/inobounce.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsinobounce</tabTrigger>
     <description>Inobounce</description>

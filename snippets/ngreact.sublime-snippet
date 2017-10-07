@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ngreact/0.4.1/ngReact.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ngreact/0.5.0/ngReact.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsngreact</tabTrigger>
     <description>Ngreact</description>

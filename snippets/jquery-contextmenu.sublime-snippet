@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-contextmenu/2.5.0/jquery.contextMenu.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-contextmenu/2.6.2/jquery.contextMenu.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsjquery-contextmenu</tabTrigger>
     <description>Jquery Contextmenu</description>

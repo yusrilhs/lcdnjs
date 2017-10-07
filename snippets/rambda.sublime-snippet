@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/rambda/0.8.6/webVersion.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/rambda/0.9.3/webVersion.js"></script>
 ]]></content>
     <tabTrigger>lcjsrambda</tabTrigger>
     <description>Rambda</description>

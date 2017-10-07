@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/grommet/1.6.0/grommet.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/grommet/1.8.3/grommet.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsgrommet</tabTrigger>
     <description>Grommet</description>

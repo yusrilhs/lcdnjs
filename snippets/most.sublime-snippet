@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/most/1.6.2/most.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/most/1.7.2/most.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsmost</tabTrigger>
     <description>Most</description>

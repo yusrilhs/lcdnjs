@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/redux-form/7.0.3/redux-form.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/redux-form/7.1.0/redux-form.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsredux-form</tabTrigger>
     <description>Redux Form</description>

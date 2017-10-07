@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/typescript/2.5.1/typescript.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/typescript/2.5.3/typescript.min.js"></script>
 ]]></content>
     <tabTrigger>lcjstypescript</tabTrigger>
     <description>Typescript</description>

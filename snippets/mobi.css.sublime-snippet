@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/mobi.css/1.2.0/mobi.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/mobi.css/3.1.1/mobi.min.css">
 ]]></content>
     <tabTrigger>lcjsmobicss</tabTrigger>
     <description>Mobi.Css</description>

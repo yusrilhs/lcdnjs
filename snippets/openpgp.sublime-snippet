@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/openpgp/2.5.9/openpgp.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/openpgp/2.5.11/openpgp.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsopenpgp</tabTrigger>
     <description>Openpgp</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/iamdustan-smoothscroll/0.3.6/smoothscroll.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/iamdustan-smoothscroll/0.4.0/smoothscroll.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsiamdustan-smoothscroll</tabTrigger>
     <description>Iamdustan Smoothscroll</description>

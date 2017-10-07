@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react-ios-switch/0.1.10/bundle.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react-ios-switch/0.1.19/bundle.js"></script>
 ]]></content>
     <tabTrigger>lcjsreact-ios-switch</tabTrigger>
     <description>React Ios Switch</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/kefir/3.7.3/kefir.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/kefir/3.7.4/kefir.min.js"></script>
 ]]></content>
     <tabTrigger>lcjskefir</tabTrigger>
     <description>Kefir</description>

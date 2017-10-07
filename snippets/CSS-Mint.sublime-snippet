@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/CSS-Mint/1.4.3/css-mint.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/CSS-Mint/1.4.6/css-mint.min.css">
 ]]></content>
     <tabTrigger>lcjsCSS-Mint</tabTrigger>
     <description>Css Mint</description>

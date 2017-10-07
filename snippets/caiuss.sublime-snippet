@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/caiuss/1.4.8/caiuss.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/caiuss/1.4.10/caiuss.min.css">
 ]]></content>
     <tabTrigger>lcjscaiuss</tabTrigger>
     <description>Caiuss</description>

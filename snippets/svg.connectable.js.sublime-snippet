@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/svg.connectable.js/2.0.0/svg.connectable.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/svg.connectable.js/2.0.1/svg.connectable.min.js"></script>
 ]]></content>
     <tabTrigger>lcjssvgconnectablejs</tabTrigger>
     <description>Svg.Connectable.Js</description>

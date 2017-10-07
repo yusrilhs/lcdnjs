@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vue-color/2.3.2/vue-color.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vue-color/2.4.0/vue-color.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsvue-color</tabTrigger>
     <description>Vue Color</description>

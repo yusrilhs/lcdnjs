@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pushy/1.1.0/js/pushy.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pushy/1.1.2/js/pushy.min.js"></script>
 ]]></content>
     <tabTrigger>lcjspushy</tabTrigger>
     <description>Pushy</description>
