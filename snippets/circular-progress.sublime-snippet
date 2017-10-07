@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/circular-progress/0.2.3/circular-progress.min.js"></script>
+]]></content>
+    <tabTrigger>lcjscircular-progress</tabTrigger>
+    <description>Circular Progress</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vuetify/0.16.2/vuetify.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsvuetify</tabTrigger>
+    <description>Vuetify</description>
+</snippet>

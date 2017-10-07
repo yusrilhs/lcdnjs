@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/excel-formula/1.4.2/excel-formula.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsexcel-formula</tabTrigger>
+    <description>Excel Formula</description>
+</snippet>

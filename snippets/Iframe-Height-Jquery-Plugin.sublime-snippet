@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Iframe-Height-Jquery-Plugin/1.2.5/iframeheight.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsIframe-Height-Jquery-Plugin</tabTrigger>
+    <description>Iframe Height Jquery Plugin</description>
+</snippet>

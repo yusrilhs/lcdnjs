@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-gridster/0.13.15/angular-gridster.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsangular-gridster</tabTrigger>
+    <description>Angular Gridster</description>
+</snippet>

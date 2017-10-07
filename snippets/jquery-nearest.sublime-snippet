@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-nearest/1.4.0/jquery.nearest.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjquery-nearest</tabTrigger>
+    <description>Jquery Nearest</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.loadtemplate/1.5.10/jquery.loadTemplate.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjqueryloadtemplate</tabTrigger>
+    <description>Jquery.Loadtemplate</description>
+</snippet>

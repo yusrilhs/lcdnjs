@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/kurento-client/6.6.0/js/kurento-client.min.js"></script>
+]]></content>
+    <tabTrigger>lcjskurento-client</tabTrigger>
+    <description>Kurento Client</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/rot.js/0.6.0/rot.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsrotjs</tabTrigger>
+    <description>Rot.Js</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ef.js/0.4.1-beta.2/ef.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsefjs</tabTrigger>
+    <description>Ef.Js</description>
+</snippet>

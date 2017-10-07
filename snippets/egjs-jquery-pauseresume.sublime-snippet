@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/egjs-jquery-pauseresume/2.0.1/pauseresume.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsegjs-jquery-pauseresume</tabTrigger>
+    <description>Egjs Jquery Pauseresume</description>
+</snippet>

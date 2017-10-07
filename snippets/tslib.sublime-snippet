@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tslib/1.7.1/tslib.min.js"></script>
+]]></content>
+    <tabTrigger>lcjstslib</tabTrigger>
+    <description>Tslib</description>
+</snippet>

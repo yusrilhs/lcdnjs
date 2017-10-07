@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/egjs-agent/2.1.1/agent.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsegjs-agent</tabTrigger>
+    <description>Egjs Agent</description>
+</snippet>

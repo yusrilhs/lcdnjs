@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/videojs-playLists/0.2.0/videojs-playlists.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsvideojs-playLists</tabTrigger>
+    <description>Videojs Playlists</description>
+</snippet>

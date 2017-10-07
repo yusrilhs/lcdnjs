@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react-instantsearch/4.1.2/Core.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsreact-instantsearch</tabTrigger>
+    <description>React Instantsearch</description>
+</snippet>

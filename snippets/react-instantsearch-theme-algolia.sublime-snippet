@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/react-instantsearch-theme-algolia/4.1.2/style.min.css">
+]]></content>
+    <tabTrigger>lcjsreact-instantsearch-theme-algolia</tabTrigger>
+    <description>React Instantsearch Theme Algolia</description>
+</snippet>

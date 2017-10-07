@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/egjs-jquery-transform/2.0.0/transform.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsegjs-jquery-transform</tabTrigger>
+    <description>Egjs Jquery Transform</description>
+</snippet>

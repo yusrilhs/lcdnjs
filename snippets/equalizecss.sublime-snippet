@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/equalizecss/1.2.1/css/equalize.min.css">
+]]></content>
+    <tabTrigger>lcjsequalizecss</tabTrigger>
+    <description>Equalizecss</description>
+</snippet>

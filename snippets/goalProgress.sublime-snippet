@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/goalProgress/1.0/goalProgress.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsgoalProgress</tabTrigger>
+    <description>Goalprogress</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/inferno-test-utils/3.9.0/inferno-test-utils.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsinferno-test-utils</tabTrigger>
+    <description>Inferno Test Utils</description>
+</snippet>

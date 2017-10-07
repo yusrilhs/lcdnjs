@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/es7-shim/6.0.0/es7-shim.min.js"></script>
+]]></content>
+    <tabTrigger>lcjses7-shim</tabTrigger>
+    <description>Es7 Shim</description>
+</snippet>

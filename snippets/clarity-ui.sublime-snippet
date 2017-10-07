@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/clarity-ui/0.10.8/clarity-ui.min.css">
+]]></content>
+    <tabTrigger>lcjsclarity-ui</tabTrigger>
+    <description>Clarity Ui</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tesseract.js/1.0.10/tesseract.min.js"></script>
+]]></content>
+    <tabTrigger>lcjstesseractjs</tabTrigger>
+    <description>Tesseract.Js</description>
+</snippet>

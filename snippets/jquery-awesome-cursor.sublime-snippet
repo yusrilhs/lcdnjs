@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-awesome-cursor/0.3.1/jquery.awesome-cursor.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjquery-awesome-cursor</tabTrigger>
+    <description>Jquery Awesome Cursor</description>
+</snippet>
