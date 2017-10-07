@@ -129,6 +129,7 @@ All snippet prefixed with `lcjs`
 * angular-google-chart
 * angular-google-maps
 * angular-gravatar
+* angular-gridster
 * angular-hal
 * angular-highlightjs
 * angular-hotkeys
@@ -215,6 +216,7 @@ All snippet prefixed with `lcjs`
 * angular-ui-mask
 * angular-ui-notification
 * angular-ui-router-default
+* angular-ui-router-title
 * angular-ui-router.statehelper
 * angular-ui-router
 * angular-ui-select
@@ -497,6 +499,7 @@ All snippet prefixed with `lcjs`
 * Broadway
 * browser-deeplink
 * browser-logos
+* brython
 * bsjs
 * bttn.css
 * bttrlazyloading
@@ -523,6 +526,7 @@ All snippet prefixed with `lcjs`
 * CanvasInput
 * canvasjs
 * canvasXpress
+* canvg
 * canvid
 * Captionator
 * card
@@ -567,6 +571,7 @@ All snippet prefixed with `lcjs`
 * cinnamon.js
 * circles
 * circliful
+* circular-progress
 * ckan
 * ckeditor
 * Clamp.js
@@ -574,6 +579,8 @@ All snippet prefixed with `lcjs`
 * clappr-chromecast-plugin
 * clappr
 * clarinet
+* clarity-icons
+* clarity-ui
 * classie
 * classlist
 * classnames
@@ -608,12 +615,14 @@ All snippet prefixed with `lcjs`
 * commonmark
 * completer
 * componentjs
+* concretejs
 * condition
 * conditional-field
 * conditionizr.js
 * confidencejs
 * console-polyfill
 * console.js
+* constraintjs
 * ContentTools
 * convnetjs
 * cookie-banner
@@ -763,6 +772,7 @@ All snippet prefixed with `lcjs`
 * deepstream.io-client-js
 * defiant.js
 * depot
+* design-system
 * detect_swipe
 * Detect.js
 * detectizr
@@ -807,6 +817,7 @@ All snippet prefixed with `lcjs`
 * draft-js
 * dragdealer
 * draggabilly
+* draggable
 * dragonbones
 * dragula
 * drawer
@@ -828,7 +839,18 @@ All snippet prefixed with `lcjs`
 * easyXDM
 * echarts
 * eddy
+* ef.js
 * egg.js
+* egjs-agent
+* egjs-axes
+* egjs-component
+* egjs-flicking
+* egjs-infinitegrid
+* egjs-jquery-pauseresume
+* egjs-jquery-transform
+* egjs-persist
+* egjs-rotate
+* egjs-visible
 * egjs
 * ekko-lightbox
 * elasticlunr
@@ -864,6 +886,7 @@ All snippet prefixed with `lcjs`
 * emoji-translate
 * emojify.js
 * emojione
+* emojionearea
 * engine.io-client
 * enjoyhint
 * enquire.js
@@ -873,12 +896,14 @@ All snippet prefixed with `lcjs`
 * epoch
 * eqcss
 * equalize.js
+* equalizecss
 * eruda
 * es-class
 * es5-shim
 * es6-promise
 * es6-shim
 * es6-tween
+* es7-shim
 * esprima
 * esri-leaflet-geocoder
 * esri-leaflet-related
@@ -897,6 +922,7 @@ All snippet prefixed with `lcjs`
 * evil-icons
 * evil.js
 * excel-builder
+* excel-formula
 * exif-js
 * expect.js
 * expect
@@ -1071,6 +1097,7 @@ All snippet prefixed with `lcjs`
 * gmap3
 * gmaps.js
 * gmaps4rails
+* goalProgress
 * godlike.css
 * gojs
 * golden-layout
@@ -1080,12 +1107,14 @@ All snippet prefixed with `lcjs`
 * grade-js
 * graingert-wow
 * granim
+* grapesjs
 * graphael
 * graphdracula
 * graphicsjs
 * graphiql
 * grd
 * gremlins.js
+* gridder
 * griddle-react
 * gridforms
 * gridifier
@@ -1175,6 +1204,7 @@ All snippet prefixed with `lcjs`
 * Hyphenator
 * i18next-browser-languagedetector
 * i18next-locize-backend
+* i18next-xhr-backend
 * i18next
 * i3d3
 * iamdustan-smoothscroll
@@ -1189,6 +1219,7 @@ All snippet prefixed with `lcjs`
 * identicon.js
 * ie8
 * ieBetter.js
+* Iframe-Height-Jquery-Plugin
 * iframe-resizer
 * ifvisible
 * iGrowl
@@ -1210,7 +1241,18 @@ All snippet prefixed with `lcjs`
 * infamous
 * infect
 * inferno-compat
+* inferno-component
+* inferno-create-class
+* inferno-create-element
+* inferno-devtools
+* inferno-hyperscript
+* inferno-mobx
+* inferno-redux
+* inferno-router
+* inferno-server
 * inferno-shared
+* inferno-test-utils
+* inferno-vnode-flags
 * inferno
 * infieldLabel
 * infinity
@@ -1278,6 +1320,7 @@ All snippet prefixed with `lcjs`
 * jed
 * jeditable.js
 * jets
+* jexcel
 * jGravity
 * jic
 * jinplace
@@ -1305,6 +1348,7 @@ All snippet prefixed with `lcjs`
 * jQRangeSlider
 * jqtree
 * jquery_lazyload
+* jquery-advanced-news-ticker
 * jquery-ajaxchimp
 * jquery-ajaxQueue
 * jquery-ajaxtransport-xdomainrequest
@@ -1312,6 +1356,7 @@ All snippet prefixed with `lcjs`
 * jquery-animateNumber
 * jquery-autocomplete
 * jquery-autotab
+* jquery-awesome-cursor
 * jquery-backstretch
 * jquery-bar-rating
 * jquery-bgiframe
@@ -1389,6 +1434,7 @@ All snippet prefixed with `lcjs`
 * jquery-modal
 * jquery-mosaic
 * jquery-mousewheel
+* jquery-nearest
 * jquery-nice-select
 * jquery-nivoslider
 * jquery-noty
@@ -1460,6 +1506,7 @@ All snippet prefixed with `lcjs`
 * jQuery-viewport-checker
 * jquery-visibility
 * jquery-visible
+* jquery-watch
 * jQuery-webcam
 * jquery-weui
 * jquery-xmlrpc
@@ -1517,6 +1564,7 @@ All snippet prefixed with `lcjs`
 * jQuery.highlightRegex
 * jquery.hoverintent
 * jquery.html5loader
+* jquery.i18n
 * jquery.iframe-transport
 * jquery.iframetracker
 * jquery.imagesloaded
@@ -1530,6 +1578,7 @@ All snippet prefixed with `lcjs`
 * jquery.lazyloadxt
 * jquery.lifestream
 * jquery.liveurl
+* jquery.loadtemplate
 * jQuery.Marquee
 * jquery.mask
 * jquery.maskedinput
@@ -1732,6 +1781,7 @@ All snippet prefixed with `lcjs`
 * kronos.js
 * kube
 * kule.lazy
+* kurento-client
 * kute.js
 * kwargsjs
 * l20n
@@ -1879,6 +1929,7 @@ All snippet prefixed with `lcjs`
 * material-design-iconic-font
 * material-design-icons
 * material-design-lite
+* material-kit
 * MaterialDesign-Webfont
 * materialize-autocomplete
 * materialize
@@ -1952,6 +2003,7 @@ All snippet prefixed with `lcjs`
 * moment-recur
 * moment-timezone
 * moment.js
+* monaco-editor
 * money.js
 * monkberry-standalone
 * monkberry
@@ -2055,6 +2107,7 @@ All snippet prefixed with `lcjs`
 * ngStorage
 * nice-validator
 * ninjaui
+* nipplejs
 * nivo-lightbox
 * nlp_compromise
 * nod
@@ -2070,10 +2123,12 @@ All snippet prefixed with `lcjs`
 * notifxi
 * notify.js
 * notify
+* noty
 * noUiSlider
 * nprogress
 * ns-popover
 * nuclear-js
+* numbered
 * numbro
 * numeral.js
 * numeric
@@ -2370,12 +2425,16 @@ All snippet prefixed with `lcjs`
 * react-datepicker
 * react-datetime
 * react-disqus-thread
+* react-dom
 * react-faux-dom
 * react-foundation-apps
 * react-highcharts
 * react-inlinesvg
+* react-instantsearch-theme-algolia
+* react-instantsearch
 * react-intl
 * react-ios-switch
+* react-leaflet
 * react-localstorage
 * react-markdown
 * react-modal
@@ -2410,15 +2469,18 @@ All snippet prefixed with `lcjs`
 * reactstrap
 * reading-time
 * Readmore.js
+* readremaining.js
 * ready.js
 * recompose
 * reconnecting-websocket
+* recorderjs
 * redom
 * reductio
 * redux-form-material-ui
 * redux-form
 * redux-little-router
 * redux-persist
+* redux-promise-middleware
 * redux-router
 * redux-saga
 * redux-thunk
@@ -2451,6 +2513,7 @@ All snippet prefixed with `lcjs`
 * reqwest
 * reselect
 * respond.js
+* response.js
 * responsive-elements
 * responsive-nav.js
 * responsiveCarousel
@@ -2477,6 +2540,7 @@ All snippet prefixed with `lcjs`
 * rollbar.js
 * rome
 * roslibjs
+* rot.js
 * roundabout
 * roundSlider
 * rsvp
@@ -2543,6 +2607,7 @@ All snippet prefixed with `lcjs`
 * shaka-player
 * sharer.js
 * shariff
+* Sharrre
 * shave
 * shell.js
 * shepherd
@@ -2785,6 +2850,7 @@ All snippet prefixed with `lcjs`
 * templatebinding
 * tern
 * terraformer
+* tesseract.js
 * tether-drop
 * tether-select
 * tether-tooltip
@@ -2813,6 +2879,7 @@ All snippet prefixed with `lcjs`
 * timezone-js
 * tingle
 * tiny-date-picker
+* tiny-slider
 * tinycolor
 * tinyColorPicker
 * tinycon
@@ -2862,6 +2929,7 @@ All snippet prefixed with `lcjs`
 * trix
 * Trumbowyg
 * trunk8
+* tslib
 * tufte-css
 * tunajs
 * turbolinks
@@ -2970,6 +3038,7 @@ All snippet prefixed with `lcjs`
 * videojs-ima
 * videojs-markers
 * videojs-overlay
+* videojs-playLists
 * videojs-resolution-switcher
 * videojs-swf
 * videojs-vast-vpaid
@@ -3005,6 +3074,7 @@ All snippet prefixed with `lcjs`
 * vue-form
 * vue-google-maps
 * vue-i18n
+* vue-lazyload
 * vue-ls
 * vue-material-components
 * vue-material
@@ -3018,6 +3088,7 @@ All snippet prefixed with `lcjs`
 * vue
 * vuefire
 * vuejs-paginator
+* vuetify
 * vuex
 * vuikit
 * w2ui
@@ -3061,6 +3132,7 @@ All snippet prefixed with `lcjs`
 * wingcss
 * winjs
 * wnumb
+* woofmark
 * wordcloud2.js
 * wow
 * wuzzle
@@ -3107,6 +3179,7 @@ All snippet prefixed with `lcjs`
 * zooming
 * zoomooz
 * zoomove
+* zrender
 * zTree.v3
 * zuck.js
 * zui
