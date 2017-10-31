@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jQuery.Gantt/1.1.0/js/jquery.fn.gantt.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjQueryGantt</tabTrigger>
+    <description>Jquery.Gantt</description>
+</snippet>

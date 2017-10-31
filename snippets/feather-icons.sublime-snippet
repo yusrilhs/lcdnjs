@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/feather-icons/3.3.0/feather.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsfeather-icons</tabTrigger>
+    <description>Feather Icons</description>
+</snippet>

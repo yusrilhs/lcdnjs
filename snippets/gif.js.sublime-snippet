@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gif.js/0.2.0/gif.js"></script>
+]]></content>
+    <tabTrigger>lcjsgifjs</tabTrigger>
+    <description>Gif.Js</description>
+</snippet>

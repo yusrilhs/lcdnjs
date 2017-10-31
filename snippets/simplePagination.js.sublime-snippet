@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/simplePagination.js/1.6/jquery.simplePagination.min.js"></script>
+]]></content>
+    <tabTrigger>lcjssimplePaginationjs</tabTrigger>
+    <description>Simplepagination.Js</description>
+</snippet>

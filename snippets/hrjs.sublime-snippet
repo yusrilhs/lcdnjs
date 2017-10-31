@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hrjs/1.0.2/hr.min.js"></script>
+]]></content>
+    <tabTrigger>lcjshrjs</tabTrigger>
+    <description>Hrjs</description>
+</snippet>

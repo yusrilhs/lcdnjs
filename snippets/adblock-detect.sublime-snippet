@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/adblock-detect/1.0.5/index.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsadblock-detect</tabTrigger>
+    <description>Adblock Detect</description>
+</snippet>

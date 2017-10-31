@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/buy-button-js/0.4.13/buybutton.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsbuy-button-js</tabTrigger>
+    <description>Buy Button Js</description>
+</snippet>

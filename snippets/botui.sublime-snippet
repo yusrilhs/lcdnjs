@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/botui/0.3.4/botui.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsbotui</tabTrigger>
+    <description>Botui</description>
+</snippet>

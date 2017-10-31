@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/roll-call/0.7.1/rollcall.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsroll-call</tabTrigger>
+    <description>Roll Call</description>
+</snippet>
