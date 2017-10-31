@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/clarity-icons/0.10.8/clarity-icons.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/clarity-icons/0.10.11/clarity-icons.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsclarity-icons</tabTrigger>
     <description>Clarity Icons</description>

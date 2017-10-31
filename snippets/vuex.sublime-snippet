@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vuex/2.4.1/vuex.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vuex/3.0.0/vuex.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsvuex</tabTrigger>
     <description>Vuex</description>

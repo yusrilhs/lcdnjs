@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/youtube-google-analytics/8.1.0/lunametrics-youtube.gtm.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/youtube-google-analytics/8.1.4/lunametrics-youtube.gtm.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsyoutube-google-analytics</tabTrigger>
     <description>Youtube Google Analytics</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/sinon.js/4.0.1/sinon.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/sinon.js/4.0.2/sinon.min.js"></script>
 ]]></content>
     <tabTrigger>lcjssinonjs</tabTrigger>
     <description>Sinon.Js</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/3.16.4/math.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/3.16.5/math.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsmathjs</tabTrigger>
     <description>Mathjs</description>

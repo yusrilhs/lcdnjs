@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3-zoom/1.6.0/d3-zoom.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3-zoom/1.7.1/d3-zoom.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsd3-zoom</tabTrigger>
     <description>D3 Zoom</description>

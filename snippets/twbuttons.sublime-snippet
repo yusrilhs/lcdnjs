@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twbuttons/0.1.1/twbuttons.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twbuttons/0.1.2/twbuttons.min.css">
 ]]></content>
     <tabTrigger>lcjstwbuttons</tabTrigger>
     <description>Twbuttons</description>

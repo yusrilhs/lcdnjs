@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/knockout-dragdrop/2.6.0/knockout.dragdrop.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/knockout-dragdrop/2.6.1/knockout.dragdrop.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsknockout-dragdrop</tabTrigger>
     <description>Knockout Dragdrop</description>

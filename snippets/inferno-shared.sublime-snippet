@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/inferno-shared/3.9.0/inferno-shared.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/inferno-shared/3.10.1/inferno-shared.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsinferno-shared</tabTrigger>
     <description>Inferno Shared</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vue-material/0.7.5/vue-material.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vue-material/0.8.1/vue-material.js"></script>
 ]]></content>
     <tabTrigger>lcjsvue-material</tabTrigger>
     <description>Vue Material</description>

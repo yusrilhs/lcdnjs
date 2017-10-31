@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/muicss/0.9.27/js/mui.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/muicss/0.9.28/js/mui.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsmuicss</tabTrigger>
     <description>Muicss</description>

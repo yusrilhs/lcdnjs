@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react-leaflet/1.7.0/react-leaflet.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react-leaflet/1.7.1/react-leaflet.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsreact-leaflet</tabTrigger>
     <description>React Leaflet</description>

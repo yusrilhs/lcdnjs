@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/myscript/1.2.3/myscript.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/myscript/4.0.0/myscript.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsmyscript</tabTrigger>
     <description>Myscript</description>

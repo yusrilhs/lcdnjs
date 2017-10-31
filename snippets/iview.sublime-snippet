@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/iview/2.4.0/iview.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/iview/2.6.0/iview.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsiview</tabTrigger>
     <description>Iview</description>

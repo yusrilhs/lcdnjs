@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/monaco-editor/0.10.0/min/vs/editor/editor.main.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/monaco-editor/0.10.1/min/vs/editor/editor.main.js"></script>
 ]]></content>
     <tabTrigger>lcjsmonaco-editor</tabTrigger>
     <description>Monaco Editor</description>

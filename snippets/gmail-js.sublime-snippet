@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gmail-js/0.6.11/gmail.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gmail-js/0.6.12/gmail.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsgmail-js</tabTrigger>
     <description>Gmail Js</description>

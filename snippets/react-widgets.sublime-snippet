@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react-widgets/4.0.2/react-widgets.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react-widgets/4.0.3/react-widgets.js"></script>
 ]]></content>
     <tabTrigger>lcjsreact-widgets</tabTrigger>
     <description>React Widgets</description>

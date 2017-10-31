@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/msgpack5/3.5.0/msgpack5.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/msgpack5/3.6.0/msgpack5.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsmsgpack5</tabTrigger>
     <description>Msgpack5</description>

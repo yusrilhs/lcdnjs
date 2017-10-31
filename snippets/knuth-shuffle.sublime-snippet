@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/knuth-shuffle/1.0.1/index.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/knuth-shuffle/1.0.8/index.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsknuth-shuffle</tabTrigger>
     <description>Knuth Shuffle</description>

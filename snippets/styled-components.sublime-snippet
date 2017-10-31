@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/styled-components/2.2.1/styled-components.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/styled-components/2.2.3/styled-components.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsstyled-components</tabTrigger>
     <description>Styled Components</description>

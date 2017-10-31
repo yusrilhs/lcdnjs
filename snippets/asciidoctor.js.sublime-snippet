@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/asciidoctor.js/1.5.6-preview.3/asciidoctor.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/asciidoctor.js/1.5.6-preview.4/asciidoctor.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsasciidoctorjs</tabTrigger>
     <description>Asciidoctor.Js</description>

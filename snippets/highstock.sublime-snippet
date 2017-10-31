@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/highstock/6.0.1/highstock.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/highstock/6.0.2/highstock.js"></script>
 ]]></content>
     <tabTrigger>lcjshighstock</tabTrigger>
     <description>Highstock</description>

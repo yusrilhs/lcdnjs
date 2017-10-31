@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-input-masks/4.0.0/angular-input-masks.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-input-masks/4.1.0/angular-input-masks.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsangular-input-masks</tabTrigger>
     <description>Angular Input Masks</description>

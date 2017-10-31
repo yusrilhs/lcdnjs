@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/imageviewer/0.5.1/viewer.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/imageviewer/0.6.0/viewer.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsimageviewer</tabTrigger>
     <description>Imageviewer</description>

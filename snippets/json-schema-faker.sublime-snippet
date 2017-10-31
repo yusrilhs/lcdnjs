@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/json-schema-faker/0.4.3/json-schema-faker.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/json-schema-faker/0.4.6/json-schema-faker.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsjson-schema-faker</tabTrigger>
     <description>Json Schema Faker</description>

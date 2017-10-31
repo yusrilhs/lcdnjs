@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jsPlumb/2.2.9/jsplumb.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jsPlumb/2.5.7/js/jsplumb.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsjsPlumb</tabTrigger>
     <description>Jsplumb</description>

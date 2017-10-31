@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Uniform.js/4.2.0/js/jquery.uniform.bundled.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Uniform.js/4.2.2/js/jquery.uniform.bundled.js"></script>
 ]]></content>
     <tabTrigger>lcjsUniformjs</tabTrigger>
     <description>Uniform.Js</description>

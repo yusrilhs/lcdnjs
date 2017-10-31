@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/Primer/9.5.0/build.css">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/Primer/9.6.0/build.css">
 ]]></content>
     <tabTrigger>lcjsPrimer</tabTrigger>
     <description>Primer</description>

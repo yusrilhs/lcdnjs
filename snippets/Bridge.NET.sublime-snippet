@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Bridge.NET/16.3.2/bridge.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Bridge.NET/16.4.1/bridge.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsBridgeNET</tabTrigger>
     <description>Bridge.Net</description>
