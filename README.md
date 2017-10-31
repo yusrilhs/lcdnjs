@@ -31,6 +31,7 @@ All snippet prefixed with `lcjs`
 * acorn
 * across-tabs
 * adapterjs
+* adblock-detect
 * admin-lte
 * adobe-sign-sdk
 * aegis
@@ -69,6 +70,7 @@ All snippet prefixed with `lcjs`
 * ami.js
 * ammaps
 * amplifyjs
+* amplitudejs
 * amstockchart
 * analytics.js
 * anchor-js
@@ -487,6 +489,7 @@ All snippet prefixed with `lcjs`
 * bootswatch
 * bottlejs
 * bottleneck
+* botui
 * bowser
 * bPopup
 * brain
@@ -509,6 +512,7 @@ All snippet prefixed with `lcjs`
 * bulmaswatch
 * burger
 * Buttons
+* buy-button-js
 * buzz
 * bxslider
 * c3-angular
@@ -678,6 +682,7 @@ All snippet prefixed with `lcjs`
 * cssobj
 * cssuseragent
 * cssx
+* cta.js
 * cubism
 * cufon
 * cuid
@@ -927,6 +932,7 @@ All snippet prefixed with `lcjs`
 * expect.js
 * expect
 * expr-eval
+* expressive-annotations-validate
 * ext-core
 * extjs
 * F2
@@ -942,11 +948,13 @@ All snippet prefixed with `lcjs`
 * FastActive
 * fastclick
 * fastdom
+* fastselect
 * fatcow-icons
 * favico.js
 * faviconx
 * fbbk-json
 * fdaciuk-ajax
+* feather-icons
 * featherlight
 * feature.js
 * fecha
@@ -1004,6 +1012,7 @@ All snippet prefixed with `lcjs`
 * flowchart
 * flowplayer
 * Flowtype.js
+* flubber
 * fluidbox
 * fluidvids.js
 * flux
@@ -1073,9 +1082,11 @@ All snippet prefixed with `lcjs`
 * geojson2svg
 * geolocator
 * geopattern
+* gettext.js
 * gh.js
 * gibberish-aes
 * gibon
+* gif.js
 * gifffer
 * gifshot
 * gillie
@@ -1181,6 +1192,7 @@ All snippet prefixed with `lcjs`
 * Hoverizr
 * howler
 * hprose-html5
+* hrjs
 * html-gl
 * html-inspector
 * html-minifier
@@ -1317,6 +1329,7 @@ All snippet prefixed with `lcjs`
 * jcanvas
 * jcarousel
 * jcf
+* jclic.js
 * jed
 * jeditable.js
 * jets
@@ -1487,6 +1500,7 @@ All snippet prefixed with `lcjs`
 * jquery-tiny-pubsub
 * jquery-toast-plugin
 * jquery-toggles
+* jquery-tokeninput
 * jquery-tools
 * jquery-touch-events
 * jquery-treegrid
@@ -1557,6 +1571,7 @@ All snippet prefixed with `lcjs`
 * jquery.form
 * jquery.formalize
 * jquery.formset
+* jQuery.Gantt
 * jquery.googlemap
 * jquery.gray
 * jquery.gridster
@@ -1994,6 +2009,7 @@ All snippet prefixed with `lcjs`
 * mobx
 * mocha
 * mockstate
+* Modaal
 * ModelCore
 * modernizr
 * mogl
@@ -2007,6 +2023,7 @@ All snippet prefixed with `lcjs`
 * money.js
 * monkberry-standalone
 * monkberry
+* moonjs
 * mootools-more
 * mootools
 * mori
@@ -2129,6 +2146,7 @@ All snippet prefixed with `lcjs`
 * ns-popover
 * nuclear-js
 * numbered
+* numbers.js
 * numbro
 * numeral.js
 * numeric
@@ -2443,6 +2461,7 @@ All snippet prefixed with `lcjs`
 * react-move
 * react-native-elements
 * react-nvd3
+* react-popper
 * react-quill
 * react-redux-form
 * react-redux
@@ -2536,6 +2555,7 @@ All snippet prefixed with `lcjs`
 * rivescript
 * rivets
 * rlite-router
+* roll-call
 * roll
 * rollbar.js
 * rome
@@ -2646,6 +2666,7 @@ All snippet prefixed with `lcjs`
 * simplelightbox
 * simplemde
 * simplemodal
+* simplePagination.js
 * simplestatemanager
 * simpleui
 * simplex-noise
@@ -2758,6 +2779,7 @@ All snippet prefixed with `lcjs`
 * stellar-base
 * stellar-sdk
 * stellar.js
+* sticky-js
 * sticky-kit
 * sticky-table-headers
 * stickyfill
@@ -2910,6 +2932,7 @@ All snippet prefixed with `lcjs`
 * tota11y
 * touchjs
 * toxiclibsjs
+* tracing.js
 * tracking.js
 * trackpad-scroll-emulator
 * transducers.js
