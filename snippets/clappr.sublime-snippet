@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/clappr/0.2.75/clappr.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/clappr/0.2.77/clappr.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsclappr</tabTrigger>
     <description>Clappr</description>

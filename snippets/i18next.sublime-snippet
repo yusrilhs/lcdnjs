@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/i18next/10.0.6/i18next.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/i18next/10.0.7/i18next.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsi18next</tabTrigger>
     <description>I18next</description>

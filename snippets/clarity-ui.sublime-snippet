@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/clarity-ui/0.10.11/clarity-ui.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/clarity-ui/0.10.12/clarity-ui.min.css">
 ]]></content>
     <tabTrigger>lcjsclarity-ui</tabTrigger>
     <description>Clarity Ui</description>

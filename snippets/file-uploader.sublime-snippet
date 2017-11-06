@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/file-uploader/5.15.0/fine-uploader.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/file-uploader/5.15.1/fine-uploader.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsfile-uploader</tabTrigger>
     <description>File Uploader</description>

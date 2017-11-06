@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react-block-ui/1.1.0/reactblockui.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react-block-ui/1.1.1/reactblockui.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsreact-block-ui</tabTrigger>
     <description>React Block Ui</description>

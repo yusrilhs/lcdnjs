@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/pretty-checkbox/2.2.1/pretty.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/pretty-checkbox/3.0.0/pretty-checkbox.min.css">
 ]]></content>
     <tabTrigger>lcjspretty-checkbox</tabTrigger>
     <description>Pretty Checkbox</description>

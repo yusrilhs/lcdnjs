@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/6pac-slickgrid/2.3.8/slick.core.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/6pac-slickgrid/2.3.9/slick.core.min.js"></script>
 ]]></content>
     <tabTrigger>lcjs6pac-slickgrid</tabTrigger>
     <description>6pac Slickgrid</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/survey-angular/0.12.35/survey.angular.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/survey-angular/0.12.36/survey.angular.min.js"></script>
 ]]></content>
     <tabTrigger>lcjssurvey-angular</tabTrigger>
     <description>Survey Angular</description>

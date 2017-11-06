@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/nes/6.4.3/client.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/nes/7.0.1/client.js"></script>
 ]]></content>
     <tabTrigger>lcjsnes</tabTrigger>
     <description>Nes</description>
