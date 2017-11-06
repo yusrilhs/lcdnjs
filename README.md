@@ -594,6 +594,7 @@ All snippet prefixed with `lcjs`
 * clickspark.js
 * ClientJS
 * clientside-haml-js
+* clipboard-polyfill
 * clipboard.js
 * clmtrackr
 * clndr
@@ -782,6 +783,7 @@ All snippet prefixed with `lcjs`
 * Detect.js
 * detectizr
 * device.js
+* devicon
 * devicons
 * dexie
 * df-number-format
@@ -1229,6 +1231,7 @@ All snippet prefixed with `lcjs`
 * idbwrapper
 * ideal-image-slider
 * identicon.js
+* ie-love
 * ie8
 * ieBetter.js
 * Iframe-Height-Jquery-Plugin
@@ -1716,6 +1719,7 @@ All snippet prefixed with `lcjs`
 * jsnlog
 * json-editor
 * json-formatter
+* json-forms
 * json-mask
 * json-schema-faker
 * json2
@@ -1906,6 +1910,7 @@ All snippet prefixed with `lcjs`
 * loStorage.js
 * lovefield
 * lowdb
+* lozad.js
 * lrsjng.jquery-qrcode
 * lscache
 * luminateExtend
@@ -2264,6 +2269,7 @@ All snippet prefixed with `lcjs`
 * perfundo
 * perliedman-leaflet-control-geocoder
 * persian.js
+* PgwSlider
 * phaser-ce
 * phaser
 * phery.js
@@ -2308,6 +2314,7 @@ All snippet prefixed with `lcjs`
 * playlyfe-odysseus
 * please-wait
 * pleasejs
+* plotly.js
 * plottable.js
 * plupload
 * pluralize
@@ -2634,6 +2641,7 @@ All snippet prefixed with `lcjs`
 * shine.js
 * shoelace-css
 * shoestring
+* shopify-buy
 * shopify-cartjs
 * should.js
 * show-your-terms
@@ -2789,6 +2797,7 @@ All snippet prefixed with `lcjs`
 * store.js
 * store2
 * strapdown-topbar
+* stretchy
 * string_score
 * string-fn
 * string-format
@@ -3058,10 +3067,13 @@ All snippet prefixed with `lcjs`
 * videojs-contrib-ads
 * videojs-contrib-dash
 * videojs-contrib-hls
+* videojs-ga
+* videojs-hotkeys
 * videojs-ima
 * videojs-markers
 * videojs-overlay
 * videojs-playLists
+* videojs-record
 * videojs-resolution-switcher
 * videojs-swf
 * videojs-vast-vpaid
@@ -3106,6 +3118,7 @@ All snippet prefixed with `lcjs`
 * vue-router
 * vue-smart-table
 * vue-strap
+* vue-toasted
 * vue-validator
 * Vue.Draggable
 * vue
