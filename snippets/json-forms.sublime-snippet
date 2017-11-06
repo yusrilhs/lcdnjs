@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/json-forms/1.6.3/js/brutusin-json-forms.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjson-forms</tabTrigger>
+    <description>Json Forms</description>
+</snippet>

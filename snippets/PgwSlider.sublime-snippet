@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/PgwSlider/2.3.1/pgwslider.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsPgwSlider</tabTrigger>
+    <description>Pgwslider</description>
+</snippet>

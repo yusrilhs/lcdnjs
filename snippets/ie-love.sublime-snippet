@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ie-love/0.0.3/ie-love.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsie-love</tabTrigger>
+    <description>Ie Love</description>
+</snippet>

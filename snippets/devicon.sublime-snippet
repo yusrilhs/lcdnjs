@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/devicon/2.2/devicon.min.css">
+]]></content>
+    <tabTrigger>lcjsdevicon</tabTrigger>
+    <description>Devicon</description>
+</snippet>

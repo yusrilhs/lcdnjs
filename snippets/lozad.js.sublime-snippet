@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lozad.js/1.0.9/lozad.min.js"></script>
+]]></content>
+    <tabTrigger>lcjslozadjs</tabTrigger>
+    <description>Lozad.Js</description>
+</snippet>
