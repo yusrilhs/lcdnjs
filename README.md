@@ -1049,6 +1049,7 @@ All snippet prefixed with `lcjs`
 * free-jqgrid
 * freewall
 * freezer-js
+* froala-design-blocks
 * froala-editor
 * frontpress
 * frozen-moment
