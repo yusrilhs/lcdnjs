@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/grapesjs/0.12.17/grapes.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/grapesjs/0.12.25/grapes.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsgrapesjs</tabTrigger>
     <description>Grapesjs</description>
