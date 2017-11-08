@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vue-chartjs/3.0.1/vue-chartjs.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vue-chartjs/3.0.2/vue-chartjs.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsvue-chartjs</tabTrigger>
     <description>Vue Chartjs</description>
