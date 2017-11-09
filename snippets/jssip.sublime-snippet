@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jssip/3.0.25/jssip.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jssip/3.0.26/jssip.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsjssip</tabTrigger>
     <description>Jssip</description>
