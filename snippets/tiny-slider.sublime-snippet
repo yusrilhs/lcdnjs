@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.3.2/min/tiny-slider.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.3.3/min/tiny-slider.js"></script>
 ]]></content>
     <tabTrigger>lcjstiny-slider</tabTrigger>
     <description>Tiny Slider</description>
