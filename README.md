@@ -1046,6 +1046,7 @@ All snippet prefixed with `lcjs`
 * foundicons
 * fpsmeter
 * framework7
+* frappe-charts
 * free-jqgrid
 * freewall
 * freezer-js
@@ -2445,6 +2446,7 @@ All snippet prefixed with `lcjs`
 * react-bootstrap
 * react-chartjs-2
 * react-chartjs
+* react-contextmenu
 * react-cookie
 * react-data-grid
 * react-date-picker
@@ -2835,6 +2837,7 @@ All snippet prefixed with `lcjs`
 * svg.pan-zoom.js
 * svg4everybody
 * svgeezy
+* svgxuse
 * sw-toolbox
 * swagger-ui
 * sweetalert
