@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/sceditor/1.5.2/jquery.sceditor.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/sceditor/2.0.0/jquery.sceditor.min.js"></script>
 ]]></content>
     <tabTrigger>lcjssceditor</tabTrigger>
     <description>Sceditor</description>

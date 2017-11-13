@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-mapboxgl-directive/0.41.0/angular-mapboxgl-directive.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-mapboxgl-directive/0.43.0/angular-mapboxgl-directive.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsangular-mapboxgl-directive</tabTrigger>
     <description>Angular Mapboxgl Directive</description>

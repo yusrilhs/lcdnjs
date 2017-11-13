@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/oauth-io/0.6.1/oauth.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/oauth-io/0.6.2/oauth.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsoauth-io</tabTrigger>
     <description>Oauth Io</description>

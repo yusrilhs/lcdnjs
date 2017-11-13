@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/currency-flags/1.2.0/currency-flags.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/currency-flags/1.2.1/currency-flags.min.css">
 ]]></content>
     <tabTrigger>lcjscurrency-flags</tabTrigger>
     <description>Currency Flags</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-datetimepicker/2.5.4/jquery.datetimepicker.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-datetimepicker/2.5.12/jquery.datetimepicker.full.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsjquery-datetimepicker</tabTrigger>
     <description>Jquery Datetimepicker</description>

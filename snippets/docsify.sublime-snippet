@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/docsify/4.5.2/docsify.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/docsify/4.5.3/docsify.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsdocsify</tabTrigger>
     <description>Docsify</description>
