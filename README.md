@@ -1813,6 +1813,7 @@ All snippet prefixed with `lcjs`
 * ladda-bootstrap
 * Ladda
 * lamb
+* lamejs
 * later
 * lave
 * layer
