@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/loglevel/1.5.1/loglevel.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/loglevel/1.6.0/loglevel.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsloglevel</tabTrigger>
     <description>Loglevel</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/16.1.0/umd/react-dom.production.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/16.1.1/umd/react-dom.production.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsreact-dom</tabTrigger>
     <description>React Dom</description>
