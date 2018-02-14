@@ -10,7 +10,7 @@ This repository just Sublime Snippet for lazy time to find any latest library li
 
 ## How To Use
 
-All snippet prefixed with `lcjs` 
+All snippet prefixed with `lcjs`
 
 ## Snippet library included
 
@@ -54,6 +54,7 @@ All snippet prefixed with `lcjs`
 * alertifyjs-alertify.js
 * AlertifyJS
 * alexandernst-angular-multi-select
+* algebra.js
 * algoliasearch-helper-js
 * algoliasearch.zendesk-hc
 * algoliasearch
@@ -132,6 +133,7 @@ All snippet prefixed with `lcjs`
 * angular-google-maps
 * angular-gravatar
 * angular-gridster
+* angular-growl-2
 * angular-hal
 * angular-highlightjs
 * angular-hotkeys
@@ -139,6 +141,7 @@ All snippet prefixed with `lcjs`
 * angular-i18n
 * angular-image-spinner
 * angular-img-cropper
+* angular-imgcache.js
 * angular-input-masks
 * angular-inview
 * angular-js-bootstrap-datetimepicker
@@ -166,6 +169,7 @@ All snippet prefixed with `lcjs`
 * angular-notification
 * angular-numeraljs
 * angular-nvd3
+* angular-patternfly
 * angular-permission
 * angular-poller
 * angular-pusher
@@ -391,6 +395,7 @@ All snippet prefixed with `lcjs`
 * benchmark
 * bespoke.js
 * better-dateinput-polyfill
+* big-integer
 * big.js
 * bigfishtv-turret
 * bigfoot
@@ -429,6 +434,7 @@ All snippet prefixed with `lcjs`
 * bootflat
 * bootpag
 * bootstrap-3-typeahead
+* bootstrap-autohidingnavbar
 * bootstrap-calendar
 * bootstrap-checkbox
 * bootstrap-colorpicker
@@ -506,6 +512,7 @@ All snippet prefixed with `lcjs`
 * bsjs
 * bttn.css
 * bttrlazyloading
+* bubbly-bg
 * buckets
 * bucky
 * bulma
@@ -560,6 +567,7 @@ All snippet prefixed with `lcjs`
 * cheet.js
 * chess.js
 * chibi
+* chimee
 * chirashi
 * chocolat
 * choices.js
@@ -649,6 +657,7 @@ All snippet prefixed with `lcjs`
 * Counter-Up
 * countly-sdk-web
 * country-region-dropdown-menu
+* country-select-js
 * countup.js
 * covjson-reader
 * cplayer
@@ -667,10 +676,13 @@ All snippet prefixed with `lcjs`
 * crunch
 * cryptico
 * crypto-js
+* css-animations.js
+* css-doodle
 * css-element-queries
 * css-layout
 * css-loader
 * CSS-Mint
+* css-sans
 * css-social-buttons
 * css-spinning-spinners
 * css3-animate-it
@@ -681,6 +693,7 @@ All snippet prefixed with `lcjs`
 * cssgram
 * csshake
 * cssobj
+* csspin
 * cssuseragent
 * cssx
 * cta.js
@@ -758,6 +771,7 @@ All snippet prefixed with `lcjs`
 * datacomb
 * datalib
 * datamaps
+* datatable
 * datatables-colvis
 * datatables-fixedheader
 * datatables-tabletools
@@ -777,6 +791,7 @@ All snippet prefixed with `lcjs`
 * deep-diff
 * deepstream.io-client-js
 * defiant.js
+* dependent-dropdown
 * depot
 * design-system
 * detect_swipe
@@ -823,9 +838,11 @@ All snippet prefixed with `lcjs`
 * dplayer
 * draft-js
 * dragdealer
+* DragDrop
 * draggabilly
 * draggable
 * dragonbones
+* dragscroll
 * dragula
 * drawer
 * drawingboard.js
@@ -888,16 +905,19 @@ All snippet prefixed with `lcjs`
 * ember.js
 * emberFire
 * emblem
+* emergence.js
 * eModal
 * emoji-picker
 * emoji-translate
 * emojify.js
 * emojione
 * emojionearea
+* encoding-japanese
 * engine.io-client
 * enjoyhint
 * enquire.js
 * entypo
+* eonasdan-bootstrap-datetimepicker
 * epiceditor
 * epitome
 * epoch
@@ -920,6 +940,7 @@ All snippet prefixed with `lcjs`
 * europa
 * evaporate
 * eve.js
+* event-drops
 * event-source-polyfill
 * eventable
 * EventEmitter
@@ -930,6 +951,7 @@ All snippet prefixed with `lcjs`
 * evil.js
 * excel-builder
 * excel-formula
+* exceljs
 * exif-js
 * expect.js
 * expect
@@ -1020,11 +1042,14 @@ All snippet prefixed with `lcjs`
 * flux
 * fluxify
 * flv.js
+* focusable
 * foggy
+* folktale
 * font-awesome-animation
 * font-awesome
 * font-linux
 * font-mfizz
+* fontawesome-iconpicker
 * fontfaceobserver
 * foonav
 * force-js
@@ -1044,6 +1069,7 @@ All snippet prefixed with `lcjs`
 * foundation-essential
 * foundation
 * foundicons
+* fpo
 * fpsmeter
 * framework7
 * frappe-charts
@@ -1083,6 +1109,7 @@ All snippet prefixed with `lcjs`
 * geocomplete
 * geoext
 * geojs
+* geojson
 * geojson2svg
 * geolocator
 * geopattern
@@ -1093,8 +1120,10 @@ All snippet prefixed with `lcjs`
 * gif.js
 * gifffer
 * gifshot
+* gijgo
 * gillie
 * gist-embed
+* gitalk
 * gitgraph.js
 * github-api
 * github-calendar
@@ -1104,6 +1133,7 @@ All snippet prefixed with `lcjs`
 * github-repo-widget
 * gitter-sidecar
 * gl-matrix
+* glamor
 * glamorous
 * Glide.js
 * gliojs
@@ -1119,6 +1149,7 @@ All snippet prefixed with `lcjs`
 * goodshare.js
 * gorillascript
 * gotem
+* gpu.js
 * grade-js
 * graingert-wow
 * granim
@@ -1146,6 +1177,7 @@ All snippet prefixed with `lcjs`
 * gumshoe
 * gyrejs
 * h5Validate
+* hack-font
 * hack
 * hallo.js
 * hamburgers
@@ -1170,6 +1202,7 @@ All snippet prefixed with `lcjs`
 * hellojs
 * hideseek
 * hideshowpassword
+* highcharts-export-csv
 * highcharts-ng
 * highcharts
 * highchartTable
@@ -1224,6 +1257,7 @@ All snippet prefixed with `lcjs`
 * i18next
 * i3d3
 * iamdustan-smoothscroll
+* IBM-type
 * ical.js
 * ICanHaz.js
 * ice
@@ -1248,6 +1282,7 @@ All snippet prefixed with `lcjs`
 * imager.js
 * imageviewer
 * imagine.js
+* imask
 * imgareaselect
 * imgLiquid
 * immstruct
@@ -1367,6 +1402,7 @@ All snippet prefixed with `lcjs`
 * jqtree
 * jquery_lazyload
 * jquery-advanced-news-ticker
+* jquery-ajax-localstorage-cache
 * jquery-ajaxchimp
 * jquery-ajaxQueue
 * jquery-ajaxtransport-xdomainrequest
@@ -1381,6 +1417,7 @@ All snippet prefixed with `lcjs`
 * jquery-boilerplate
 * jquery-bootgrid
 * jquery-bootpag
+* jquery-bracket
 * jquery-browser
 * jquery-cascading-dropdown
 * jquery-chained
@@ -1498,6 +1535,7 @@ All snippet prefixed with `lcjs`
 * jquery-storage-api
 * jquery-tagsinput
 * jquery-te
+* jquery-teletype-plugin
 * jquery-textext
 * jquery-throttle-debounce
 * jquery-timeago
@@ -1512,6 +1550,7 @@ All snippet prefixed with `lcjs`
 * jquery-treetable
 * jquery-tubeplayer
 * jquery-twinkle
+* jquery-typeahead
 * jquery-ui-bootstrap
 * jquery-ui-map
 * jquery-ui-multiselect-widget
@@ -1532,6 +1571,7 @@ All snippet prefixed with `lcjs`
 * jquery-zoom
 * jquery.activity-indicator
 * jquery.actual
+* jquery.adaptive-backgrounds
 * jquery.address
 * jquery.age
 * jquery.allowed-chars
@@ -1541,6 +1581,7 @@ All snippet prefixed with `lcjs`
 * jquery.atmosphere
 * jquery.avgrund
 * jquery.ba-bbq
+* jquery.basictable
 * jQuery.BgSwitcher
 * jQuery.BlackAndWhite
 * jquery.blockUI
@@ -1608,6 +1649,7 @@ All snippet prefixed with `lcjs`
 * jquery.meiomask
 * jQuery.mmenu
 * jquery.mobilephonenumber
+* jquery.mosaicflow
 * jQuery.my
 * jquery.nanoscroller
 * jquery.nicescroll
@@ -1633,7 +1675,9 @@ All snippet prefixed with `lcjs`
 * jquery.scregal
 * jquery.scroll4ever
 * jquery.scrollbar
+* jquery.scrollex
 * jquery.scrollfire
+* jquery.selectbox
 * jquery.selectboxit
 * jquery.selection
 * jquery.serializeJSON
@@ -1664,6 +1708,7 @@ All snippet prefixed with `lcjs`
 * jquery.turbolinks
 * jquery.ui-contextmenu
 * jquery.waitforimages
+* jquery.webticker
 * jquery.wookmark
 * jquery
 * jquerykeyframes
@@ -1714,6 +1759,7 @@ All snippet prefixed with `lcjs`
 * jsgrid
 * jshashes
 * jshint
+* jSignature
 * jslite
 * jsmediatags
 * jsmpeg
@@ -1853,6 +1899,7 @@ All snippet prefixed with `lcjs`
 * leaflet.markercluster
 * leaflet.pm
 * Leaflet.Spin
+* leaflet.toolbar.js
 * leaflet
 * leapjs
 * legofy
@@ -1928,6 +1975,7 @@ All snippet prefixed with `lcjs`
 * magic
 * magicsuggest
 * magnific-popup.js
+* magnify
 * mailcheck
 * malihu-custom-scrollbar-plugin
 * mammoth
@@ -1989,6 +2037,7 @@ All snippet prefixed with `lcjs`
 * midi.js
 * midnight.js
 * milligram
+* milojs
 * min.js
 * min
 * mindb
@@ -2016,6 +2065,7 @@ All snippet prefixed with `lcjs`
 * mobx-react
 * mobx
 * mocha
+* Mock.js
 * mockstate
 * Modaal
 * ModelCore
@@ -2046,6 +2096,7 @@ All snippet prefixed with `lcjs`
 * mouse0270-bootstrap-notify
 * mousetrap
 * move.js
+* moveTo
 * moviedb
 * msgpack-lite
 * msgpack5
@@ -2098,6 +2149,8 @@ All snippet prefixed with `lcjs`
 * ng-i18next
 * ng-idle
 * ng-img-crop
+* ng-inline-edit
+* ng-jsoneditor
 * ng-knob
 * ng-meta
 * ng-notify
@@ -2197,8 +2250,11 @@ All snippet prefixed with `lcjs`
 * opal-jquery
 * opal-parser
 * opal
+* open-color
 * open-iconic
+* open-weather
 * openajax-hub
+* openfl
 * openlayers
 * openlocationcode
 * openpgp
@@ -2210,6 +2266,9 @@ All snippet prefixed with `lcjs`
 * oppia
 * optimal-select
 * orb
+* orgchart-webcomponents
+* OrgChart.js
+* orgchart
 * origamijs
 * ornajs
 * ot.js
@@ -2334,6 +2393,7 @@ All snippet prefixed with `lcjs`
 * popper.js
 * portal
 * porthole
+* poshytip
 * postal.js
 * postgrest-client
 * postscribe
@@ -2385,6 +2445,7 @@ All snippet prefixed with `lcjs`
 * pusher-angular
 * pusher
 * pushy
+* pwnjs
 * pwstrength-bootstrap
 * pym
 * q.js
@@ -2447,6 +2508,7 @@ All snippet prefixed with `lcjs`
 * react-bootstrap
 * react-chartjs-2
 * react-chartjs
+* react-chartkick
 * react-contextmenu
 * react-cookie
 * react-data-grid
@@ -2456,7 +2518,9 @@ All snippet prefixed with `lcjs`
 * react-disqus-thread
 * react-dom
 * react-faux-dom
+* react-flip-move
 * react-foundation-apps
+* react-grid-layout
 * react-highcharts
 * react-inlinesvg
 * react-instantsearch-theme-algolia
@@ -2546,6 +2610,7 @@ All snippet prefixed with `lcjs`
 * response.js
 * responsive-elements
 * responsive-nav.js
+* responsive
 * responsiveCarousel
 * ResponsiveSlides.js
 * ReStable
@@ -2606,6 +2671,7 @@ All snippet prefixed with `lcjs`
 * script.js
 * scriptaculous
 * scroll-scope
+* scrollama
 * scrolldir
 * scrollgress
 * scrollify
@@ -2703,6 +2769,7 @@ All snippet prefixed with `lcjs`
 * slider-pro
 * slideReveal
 * slidesjs
+* sliiide
 * slim-scroll
 * slim-select
 * slim.js
@@ -2725,6 +2792,7 @@ All snippet prefixed with `lcjs`
 * snap.js
 * snap.svg.zpd
 * snap.svg
+* snarl
 * snoocore
 * Snowstorm
 * social-feed
@@ -2794,6 +2862,7 @@ All snippet prefixed with `lcjs`
 * sticky-js
 * sticky-kit
 * sticky-table-headers
+* stickybits
 * stickyfill
 * stickyfloat
 * stickyNavbar.js
@@ -2847,6 +2916,7 @@ All snippet prefixed with `lcjs`
 * swig
 * swing
 * swipe
+* swipebox
 * swipejs
 * Swiper
 * switchery
@@ -2884,6 +2954,7 @@ All snippet prefixed with `lcjs`
 * template_js
 * template7
 * templatebinding
+* tempusdominus-bootstrap-4
 * tern
 * terraformer
 * tesseract.js
@@ -2967,6 +3038,7 @@ All snippet prefixed with `lcjs`
 * Trumbowyg
 * trunk8
 * tslib
+* tuesday
 * tufte-css
 * tunajs
 * turbolinks
@@ -3010,6 +3082,7 @@ All snippet prefixed with `lcjs`
 * ui-router-extras
 * ui-selectableScroll
 * uikit
+* uiv
 * umbrella
 * underscore-contrib
 * underscore.js
@@ -3022,6 +3095,7 @@ All snippet prefixed with `lcjs`
 * unsemantic
 * unslider
 * unveil
+* unveil2
 * upb
 * UpUp
 * URI.js
@@ -3045,6 +3119,7 @@ All snippet prefixed with `lcjs`
 * vanilla-lazyload
 * vanilla-masker
 * vanilla-modal
+* vanilla-tilt
 * vault.js
 * vectorious
 * vee-validate
@@ -3061,6 +3136,7 @@ All snippet prefixed with `lcjs`
 * vertx
 * vex-js
 * vibrant.js
+* victor
 * victory
 * Vidage
 * vide
@@ -3072,6 +3148,7 @@ All snippet prefixed with `lcjs`
 * videojs-contrib-ads
 * videojs-contrib-dash
 * videojs-contrib-hls
+* videojs-flash
 * videojs-ga
 * videojs-hotkeys
 * videojs-ima
@@ -3081,7 +3158,9 @@ All snippet prefixed with `lcjs`
 * videojs-record
 * videojs-resolution-switcher
 * videojs-swf
+* videojs-vast-plugin
 * videojs-vast-vpaid
+* videojs-wavesurfer
 * videojs-youtube
 * videomail-client
 * vidom
@@ -3106,6 +3185,7 @@ All snippet prefixed with `lcjs`
 * vquery
 * vtt.js
 * vue-async-data
+* vue-bootstrap-datetimepicker
 * vue-chartjs
 * vue-clickaway
 * vue-color
@@ -3114,6 +3194,7 @@ All snippet prefixed with `lcjs`
 * vue-form
 * vue-google-maps
 * vue-i18n
+* vue-instant
 * vue-lazyload
 * vue-ls
 * vue-material-components
@@ -3190,6 +3271,7 @@ All snippet prefixed with `lcjs`
 * xls
 * xlsx
 * xregexp
+* xStore
 * xstream
 * xterm
 * xuijs
@@ -3208,6 +3290,7 @@ All snippet prefixed with `lcjs`
 * zclip
 * Zebra_datepicker
 * zenscroll
+* zensh-ui-autocomplete
 * zepto.fullpage
 * zepto
 * zeroclipboard
