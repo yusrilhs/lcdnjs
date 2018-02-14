@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/sliiide/1.1.4/sliiide.min.js"></script>
+]]></content>
+    <tabTrigger>lcjssliiide</tabTrigger>
+    <description>Sliiide</description>
+</snippet>

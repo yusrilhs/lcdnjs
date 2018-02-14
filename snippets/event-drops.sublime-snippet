@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/event-drops/0.2.0/eventDrops.js"></script>
+]]></content>
+    <tabTrigger>lcjsevent-drops</tabTrigger>
+    <description>Event Drops</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-teletype-plugin/0.1.6/jquery.teletype.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjquery-teletype-plugin</tabTrigger>
+    <description>Jquery Teletype Plugin</description>
+</snippet>

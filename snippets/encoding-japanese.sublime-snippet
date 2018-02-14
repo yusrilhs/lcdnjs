@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/encoding-japanese/1.0.28/encoding.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsencoding-japanese</tabTrigger>
+    <description>Encoding Japanese</description>
+</snippet>

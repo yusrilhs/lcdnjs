@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/uiv/0.18.0/uiv.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsuiv</tabTrigger>
+    <description>Uiv</description>
+</snippet>

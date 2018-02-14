@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/xStore/2.0.4/xStore.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsxStore</tabTrigger>
+    <description>Xstore</description>
+</snippet>

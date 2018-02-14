@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-typeahead/2.10.4/jquery.typeahead.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjquery-typeahead</tabTrigger>
+    <description>Jquery Typeahead</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ng-jsoneditor/1.51/ng-jsoneditor.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsng-jsoneditor</tabTrigger>
+    <description>Ng Jsoneditor</description>
+</snippet>

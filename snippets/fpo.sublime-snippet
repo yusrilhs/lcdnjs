@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fpo/6.1.6/fpo.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsfpo</tabTrigger>
+    <description>Fpo</description>
+</snippet>

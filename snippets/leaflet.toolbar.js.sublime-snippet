@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.toolbar.js/0.3.0/leaflet.toolbar.js"></script>
+]]></content>
+    <tabTrigger>lcjsleaflettoolbarjs</tabTrigger>
+    <description>Leaflet.Toolbar.Js</description>
+</snippet>

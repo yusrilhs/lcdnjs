@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.adaptive-backgrounds/1.0.3/jquery.adaptive-backgrounds.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjqueryadaptive-backgrounds</tabTrigger>
+    <description>Jquery.Adaptive Backgrounds</description>
+</snippet>

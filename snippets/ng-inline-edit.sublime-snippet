@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ng-inline-edit/0.7.0/ng-inline-edit.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsng-inline-edit</tabTrigger>
+    <description>Ng Inline Edit</description>
+</snippet>

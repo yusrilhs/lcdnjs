@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/css-sans/1.0.0/css-sans.css">
+]]></content>
+    <tabTrigger>lcjscss-sans</tabTrigger>
+    <description>Css Sans</description>
+</snippet>

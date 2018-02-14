@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/snarl/0.3.4/snarl.min.js"></script>
+]]></content>
+    <tabTrigger>lcjssnarl</tabTrigger>
+    <description>Snarl</description>
+</snippet>

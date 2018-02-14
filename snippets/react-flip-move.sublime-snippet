@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react-flip-move/3.0.1/react-flip-move.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsreact-flip-move</tabTrigger>
+    <description>React Flip Move</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/OrgChart.js/0.0.1/OrgChart.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsOrgChartjs</tabTrigger>
+    <description>Orgchart.Js</description>
+</snippet>

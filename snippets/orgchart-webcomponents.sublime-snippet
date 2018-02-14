@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/orgchart-webcomponents/0.0.1/orgchart-webcomponents.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsorgchart-webcomponents</tabTrigger>
+    <description>Orgchart Webcomponents</description>
+</snippet>

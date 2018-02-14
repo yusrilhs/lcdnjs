@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/focusable/1.0.0/focus-element-overlay.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsfocusable</tabTrigger>
+    <description>Focusable</description>
+</snippet>

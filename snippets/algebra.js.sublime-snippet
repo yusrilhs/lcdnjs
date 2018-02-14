@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/algebra.js/0.2.6/algebra.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsalgebrajs</tabTrigger>
+    <description>Algebra.Js</description>
+</snippet>

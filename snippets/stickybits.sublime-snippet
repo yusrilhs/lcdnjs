@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/stickybits/3.0.4/stickybits.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsstickybits</tabTrigger>
+    <description>Stickybits</description>
+</snippet>

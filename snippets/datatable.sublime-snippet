@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/datatable/2.0.1/js/datatable.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsdatatable</tabTrigger>
+    <description>Datatable</description>
+</snippet>

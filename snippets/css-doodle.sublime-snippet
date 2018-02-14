@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/css-doodle/0.2.1/css-doodle.min.js"></script>
+]]></content>
+    <tabTrigger>lcjscss-doodle</tabTrigger>
+    <description>Css Doodle</description>
+</snippet>

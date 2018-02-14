@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-patternfly/4.14.9/angular-patternfly.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsangular-patternfly</tabTrigger>
+    <description>Angular Patternfly</description>
+</snippet>

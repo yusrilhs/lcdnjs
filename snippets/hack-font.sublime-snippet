@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/hack-font/3.002/web/hack.min.css">
+]]></content>
+    <tabTrigger>lcjshack-font</tabTrigger>
+    <description>Hack Font</description>
+</snippet>

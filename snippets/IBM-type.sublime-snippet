@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/IBM-type/0.5.4/css/ibm-type.min.css">
+]]></content>
+    <tabTrigger>lcjsIBM-type</tabTrigger>
+    <description>Ibm Type</description>
+</snippet>

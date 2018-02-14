@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/milojs/1.6.1/milo.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsmilojs</tabTrigger>
+    <description>Milojs</description>
+</snippet>

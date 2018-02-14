@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/DragDrop/0.3.0/drag-drop.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsDragDrop</tabTrigger>
+    <description>Dragdrop</description>
+</snippet>

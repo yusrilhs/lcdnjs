@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/emergence.js/1.1.2/emergence.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsemergencejs</tabTrigger>
+    <description>Emergence.Js</description>
+</snippet>

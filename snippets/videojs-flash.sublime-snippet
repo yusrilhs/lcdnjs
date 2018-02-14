@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/videojs-flash/2.1.0/videojs-flash.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsvideojs-flash</tabTrigger>
+    <description>Videojs Flash</description>
+</snippet>

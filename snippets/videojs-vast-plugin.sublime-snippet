@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/videojs-vast-plugin/0.2.1/videojs.vast.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsvideojs-vast-plugin</tabTrigger>
+    <description>Videojs Vast Plugin</description>
+</snippet>
