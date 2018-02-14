@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/handsontable/0.34.5/handsontable.full.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/handsontable/0.35.1/handsontable.full.min.js"></script>
 ]]></content>
     <tabTrigger>lcjshandsontable</tabTrigger>
     <description>Handsontable</description>

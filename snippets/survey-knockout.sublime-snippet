@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/survey-knockout/0.95.0/survey.ko.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/survey-knockout/1.0.7/survey.ko.min.js"></script>
 ]]></content>
     <tabTrigger>lcjssurvey-knockout</tabTrigger>
     <description>Survey Knockout</description>

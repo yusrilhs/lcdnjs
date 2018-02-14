@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/goodshare.js/4.0.9/goodshare.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/goodshare.js/4.1.2/goodshare.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsgoodsharejs</tabTrigger>
     <description>Goodshare.Js</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/inferno-create-class/3.10.1/inferno-create-class.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/inferno-create-class/4.0.3/inferno-create-class.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsinferno-create-class</tabTrigger>
     <description>Inferno Create Class</description>

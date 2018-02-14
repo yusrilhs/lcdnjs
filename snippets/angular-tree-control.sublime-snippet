@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-tree-control/0.2.28/angular-tree-control.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-tree-control/0.2.30/angular-tree-control.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsangular-tree-control</tabTrigger>
     <description>Angular Tree Control</description>

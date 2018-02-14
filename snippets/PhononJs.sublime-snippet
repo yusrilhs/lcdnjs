@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/PhononJs/1.4.5/js/phonon-core.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/PhononJs/1.4.9/js/phonon-core.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsPhononJs</tabTrigger>
     <description>Phononjs</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/dont-go/1.0.8/dont-go.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/dont-go/1.1.0/dont-go.umd.js"></script>
 ]]></content>
     <tabTrigger>lcjsdont-go</tabTrigger>
     <description>Dont Go</description>

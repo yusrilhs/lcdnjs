@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/expr-eval/1.2.0/bundle.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/expr-eval/1.2.1/bundle.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsexpr-eval</tabTrigger>
     <description>Expr Eval</description>

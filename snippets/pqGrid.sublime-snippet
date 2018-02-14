@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pqGrid/2.2.0/pqgrid.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pqGrid/2.4.1/pqgrid.min.js"></script>
 ]]></content>
     <tabTrigger>lcjspqGrid</tabTrigger>
     <description>Pqgrid</description>

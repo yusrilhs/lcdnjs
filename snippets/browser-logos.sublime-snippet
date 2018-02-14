@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/browser-logos/43.2.0/chromium/chromium_48x48.png">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/browser-logos/45.3.0/chromium/chromium_48x48.png">
 ]]></content>
     <tabTrigger>lcjsbrowser-logos</tabTrigger>
     <description>Browser Logos</description>

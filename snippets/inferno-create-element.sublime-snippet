@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/inferno-create-element/3.10.1/inferno-create-element.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/inferno-create-element/4.0.3/inferno-create-element.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsinferno-create-element</tabTrigger>
     <description>Inferno Create Element</description>

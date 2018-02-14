@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/zabuto_calendar/1.6.0/zabuto_calendar.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/zabuto_calendar/1.6.3/zabuto_calendar.min.js"></script>
 ]]></content>
     <tabTrigger>lcjszabuto_calendar</tabTrigger>
     <description>Zabuto_calendar</description>

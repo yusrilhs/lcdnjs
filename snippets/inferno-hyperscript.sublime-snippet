@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/inferno-hyperscript/3.10.1/inferno-hyperscript.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/inferno-hyperscript/4.0.3/inferno-hyperscript.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsinferno-hyperscript</tabTrigger>
     <description>Inferno Hyperscript</description>

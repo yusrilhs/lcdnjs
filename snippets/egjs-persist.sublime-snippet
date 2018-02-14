@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/egjs-persist/2.1.0/persist.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/egjs-persist/2.1.2/persist.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsegjs-persist</tabTrigger>
     <description>Egjs Persist</description>

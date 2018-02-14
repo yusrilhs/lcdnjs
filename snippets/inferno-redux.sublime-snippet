@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/inferno-redux/3.10.1/inferno-redux.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/inferno-redux/4.0.3/inferno-redux.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsinferno-redux</tabTrigger>
     <description>Inferno Redux</description>

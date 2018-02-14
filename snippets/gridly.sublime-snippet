@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/gridly/1.4.11/gridly-col-widths.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/gridly/1.4.12/gridly-col-widths.min.css">
 ]]></content>
     <tabTrigger>lcjsgridly</tabTrigger>
     <description>Gridly</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mocha/4.0.1/mocha.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mocha/5.0.1/mocha.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsmocha</tabTrigger>
     <description>Mocha</description>

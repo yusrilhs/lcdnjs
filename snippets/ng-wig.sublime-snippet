@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ng-wig/3.0.14/ng-wig.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ng-wig/3.0.16/ng-wig.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsng-wig</tabTrigger>
     <description>Ng Wig</description>

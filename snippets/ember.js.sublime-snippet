@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ember.js/2.16.2/ember.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ember.js/2.18.1/ember.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsemberjs</tabTrigger>
     <description>Ember.Js</description>

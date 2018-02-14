@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/froala-design-blocks/1.0.1/css/froala_blocks.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/froala-design-blocks/1.0.2/css/froala_blocks.min.css">
 ]]></content>
     <tabTrigger>lcjsfroala-design-blocks</tabTrigger>
     <description>Froala Design Blocks</description>

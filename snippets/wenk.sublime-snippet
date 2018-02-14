@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/wenk/1.0.6/wenk.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/wenk/1.0.7/wenk.min.css">
 ]]></content>
     <tabTrigger>lcjswenk</tabTrigger>
     <description>Wenk</description>

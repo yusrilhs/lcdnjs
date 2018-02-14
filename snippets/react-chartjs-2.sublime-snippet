@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react-chartjs-2/2.6.4/react-chartjs-2.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react-chartjs-2/2.7.0/react-chartjs-2.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsreact-chartjs-2</tabTrigger>
     <description>React Chartjs 2</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jspanel3/3.11.0/jquery.jspanel.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jspanel3/3.11.1/jquery.jspanel.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsjspanel3</tabTrigger>
     <description>Jspanel3</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react-contextmenu/2.8.0/react-contextmenu.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react-contextmenu/2.9.2/react-contextmenu.js"></script>
 ]]></content>
     <tabTrigger>lcjsreact-contextmenu</tabTrigger>
     <description>React Contextmenu</description>

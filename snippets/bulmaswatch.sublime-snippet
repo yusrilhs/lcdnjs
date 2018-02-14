@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/bulmaswatch/0.5.2/default/bulmaswatch.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/bulmaswatch/0.6.1/default/bulmaswatch.min.css">
 ]]></content>
     <tabTrigger>lcjsbulmaswatch</tabTrigger>
     <description>Bulmaswatch</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/webtorrent/0.98.20/webtorrent.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/webtorrent/0.98.21/webtorrent.min.js"></script>
 ]]></content>
     <tabTrigger>lcjswebtorrent</tabTrigger>
     <description>Webtorrent</description>

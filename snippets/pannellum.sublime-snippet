@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pannellum/2.3.2/pannellum.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pannellum/2.4.0/pannellum.js"></script>
 ]]></content>
     <tabTrigger>lcjspannellum</tabTrigger>
     <description>Pannellum</description>

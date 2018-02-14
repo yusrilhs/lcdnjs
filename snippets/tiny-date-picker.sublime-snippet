@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tiny-date-picker/3.1.4/tiny-date-picker.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tiny-date-picker/3.1.7/tiny-date-picker.min.js"></script>
 ]]></content>
     <tabTrigger>lcjstiny-date-picker</tabTrigger>
     <description>Tiny Date Picker</description>

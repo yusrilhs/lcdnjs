@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/emojionearea/3.2.6/emojionearea.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/emojionearea/3.4.1/emojionearea.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsemojionearea</tabTrigger>
     <description>Emojionearea</description>

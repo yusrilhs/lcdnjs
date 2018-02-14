@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/picnic/6.4.0/picnic.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/picnic/6.5.0/picnic.min.css">
 ]]></content>
     <tabTrigger>lcjspicnic</tabTrigger>
     <description>Picnic</description>

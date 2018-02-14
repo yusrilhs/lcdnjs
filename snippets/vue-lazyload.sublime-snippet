@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vue-lazyload/1.1.4/vue-lazyload.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vue-lazyload/1.2.1/vue-lazyload.js"></script>
 ]]></content>
     <tabTrigger>lcjsvue-lazyload</tabTrigger>
     <description>Vue Lazyload</description>

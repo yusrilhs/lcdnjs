@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/yasgui/2.7.8/yasgui.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/yasgui/2.7.21/yasgui.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsyasgui</tabTrigger>
     <description>Yasgui</description>

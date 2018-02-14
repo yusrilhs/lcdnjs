@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jsmediatags/3.8.1/jsmediatags.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jsmediatags/3.9.0/jsmediatags.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsjsmediatags</tabTrigger>
     <description>Jsmediatags</description>

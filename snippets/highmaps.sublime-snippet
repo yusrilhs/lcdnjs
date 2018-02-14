@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/highmaps/6.0.2/highmaps.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/highmaps/6.0.3/highmaps.js"></script>
 ]]></content>
     <tabTrigger>lcjshighmaps</tabTrigger>
     <description>Highmaps</description>

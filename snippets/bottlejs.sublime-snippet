@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bottlejs/1.6.1/bottle.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bottlejs/1.7.0/bottle.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsbottlejs</tabTrigger>
     <description>Bottlejs</description>

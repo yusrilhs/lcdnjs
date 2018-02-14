@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/egjs-infinitegrid/2.1.1/infinitegrid.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/egjs-infinitegrid/3.2.4/infinitegrid.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsegjs-infinitegrid</tabTrigger>
     <description>Egjs Infinitegrid</description>

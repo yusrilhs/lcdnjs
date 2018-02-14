@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react-select/0.9.1/react-select.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react-select/1.2.1/react-select.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsreact-select</tabTrigger>
     <description>React Select</description>

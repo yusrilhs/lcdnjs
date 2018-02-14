@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Tocca.js/2.0.1/Tocca.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Tocca.js/2.0.3/Tocca.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsToccajs</tabTrigger>
     <description>Tocca.Js</description>

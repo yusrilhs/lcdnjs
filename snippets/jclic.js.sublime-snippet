@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jclic.js/1.0.1/jclic.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jclic.js/1.1.2/jclic.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsjclicjs</tabTrigger>
     <description>Jclic.Js</description>

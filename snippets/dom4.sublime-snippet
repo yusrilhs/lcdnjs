@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/dom4/1.8.5/dom4.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/dom4/3.0.0/dom4.js"></script>
 ]]></content>
     <tabTrigger>lcjsdom4</tabTrigger>
     <description>Dom4</description>

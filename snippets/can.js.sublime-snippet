@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/can.js/3.12.1/can.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/can.js/4.0.1/can.min.js"></script>
 ]]></content>
     <tabTrigger>lcjscanjs</tabTrigger>
     <description>Can.Js</description>
