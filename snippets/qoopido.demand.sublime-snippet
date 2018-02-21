@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/qoopido.demand/5.0.0/demand.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/qoopido.demand/5.0.1/demand.js"></script>
 ]]></content>
     <tabTrigger>lcjsqoopidodemand</tabTrigger>
     <description>Qoopido.Demand</description>

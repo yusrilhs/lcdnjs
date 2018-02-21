@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fabric.js/2.0.1/fabric.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fabric.js/2.0.2/fabric.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsfabricjs</tabTrigger>
     <description>Fabric.Js</description>

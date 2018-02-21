@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/patternfly/3.38.1/js/patternfly.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/patternfly/3.39.0/js/patternfly.min.js"></script>
 ]]></content>
     <tabTrigger>lcjspatternfly</tabTrigger>
     <description>Patternfly</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/metisMenu/2.7.2/metisMenu.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/metisMenu/2.7.4/metisMenu.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsmetisMenu</tabTrigger>
     <description>Metismenu</description>

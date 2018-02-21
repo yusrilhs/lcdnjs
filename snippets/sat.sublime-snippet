@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/sat/0.6.0/SAT.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/sat/0.7.0/SAT.min.js"></script>
 ]]></content>
     <tabTrigger>lcjssat</tabTrigger>
     <description>Sat</description>

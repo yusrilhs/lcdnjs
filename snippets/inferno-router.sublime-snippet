@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/inferno-router/4.0.3/inferno-router.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/inferno-router/4.0.4/inferno-router.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsinferno-router</tabTrigger>
     <description>Inferno Router</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/psl/1.1.23/psl.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/psl/1.1.24/psl.min.js"></script>
 ]]></content>
     <tabTrigger>lcjspsl</tabTrigger>
     <description>Psl</description>

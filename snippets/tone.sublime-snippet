@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tone/0.12.63/Tone.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tone/0.12.64/Tone.min.js"></script>
 ]]></content>
     <tabTrigger>lcjstone</tabTrigger>
     <description>Tone</description>

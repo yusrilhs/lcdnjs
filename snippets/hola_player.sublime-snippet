@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hola_player/1.0.141/hola_player.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hola_player/1.0.143/hola_player.js"></script>
 ]]></content>
     <tabTrigger>lcjshola_player</tabTrigger>
     <description>Hola_player</description>

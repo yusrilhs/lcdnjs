@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/engine.io-client/3.1.4/engine.io.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/engine.io-client/3.1.5/engine.io.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsengineio-client</tabTrigger>
     <description>Engine.Io Client</description>

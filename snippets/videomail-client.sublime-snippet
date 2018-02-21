@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/videomail-client/2.2.2/videomail-client.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/videomail-client/2.2.4/videomail-client.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsvideomail-client</tabTrigger>
     <description>Videomail Client</description>

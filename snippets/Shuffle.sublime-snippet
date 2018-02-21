@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Shuffle/5.0.3/shuffle.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Shuffle/5.1.0/shuffle.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsShuffle</tabTrigger>
     <description>Shuffle</description>

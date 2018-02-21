@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gijgo/1.8.0/combined/js/gijgo.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gijgo/1.8.1/combined/js/gijgo.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsgijgo</tabTrigger>
     <description>Gijgo</description>

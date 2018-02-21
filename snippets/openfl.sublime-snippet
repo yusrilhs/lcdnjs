@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/openfl/7.1.1/openfl.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/openfl/7.1.2/openfl.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsopenfl</tabTrigger>
     <description>Openfl</description>
