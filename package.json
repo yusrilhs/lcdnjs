@@ -18,7 +18,8 @@
   "homepage": "https://github.com/yusrilhs/lcdnjs#readme",
   "dependencies": {
     "compare-version": "^0.1.2",
-    "fancy-log": "^1.3.2"
+    "fancy-log": "^1.3.2",
+    "lodash.template": "^4.4.0"
   },
   "devDependencies": {}
 }
