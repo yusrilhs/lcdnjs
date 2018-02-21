@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/yusrilhs/lcdnjs#readme",
   "dependencies": {
-    "compare-version": "^0.1.2",
-    "gulp-util": "^3.0.8"
-  }
+    "compare-version": "^0.1.2"
+  },
+  "devDependencies": {}
 }
