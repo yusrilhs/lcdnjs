@@ -1,8 +1,9 @@
 const https = require('https')
-    , gutil = require('gulp-util')
+    , log = require('fancy-log')
     , fs = require('fs')
     , path = require('path')
     , compareVersions = require('compare-version')
+    , template = require('lodash.template')
 
 const cdnjsApiUrl = 'https://api.cdnjs.com/libraries?fields=version'
     , snippetPath = path.join(__dirname, '../snippets')
@@ -25,7 +26,7 @@ const snippetJs = '<snippet>\n\
 let LcdnjsBuilder = function() {
   this.results = []
 
-  gutil.log('Starting LcdnjsBuilder')
+  log.info('Starting LcdnjsBuilder')
 }
 
 LcdnjsBuilder.prototype.onRetrieveApi = function() {
@@ -40,16 +41,16 @@ LcdnjsBuilder.prototype.onRetrieveApi = function() {
   function onEnd() {
     let cdnjsResponse = JSON.parse(body)
     that.results = cdnjsResponse.results
-    
-    gutil.log(that.results.length + ' libraries retrieved')
+
+    log.info(that.results.length + ' libraries retrieved')
     that.build();
   }
 
   let files = fs.readdirSync(snippetPath)
 
   if(files.length) {
-    
-    gutil.log('Cleaning previous snippet')
+
+    log.info('Cleaning previous snippet')
 
     files.forEach(function(file) {
       file = path.join(snippetPath, file)
@@ -58,7 +59,7 @@ LcdnjsBuilder.prototype.onRetrieveApi = function() {
   }
 
   return function(res) {
-    gutil.log('Retrieving data from: ' + cdnjsApiUrl)
+    log.info('Retrieving data from: ' + cdnjsApiUrl)
 
     res.on('data', onData)
     res.on('end', onEnd)
@@ -66,15 +67,15 @@ LcdnjsBuilder.prototype.onRetrieveApi = function() {
 }
 
 LcdnjsBuilder.prototype.onError = function(err) {
-  gutil.log('Error: ', err)
+  log.error('Error: ', err)
 }
 
 LcdnjsBuilder.prototype.build = function() {
   let that = this
     , libraries = []
     , dumps = {}
-  
-  gutil.log('Start building sublime snippet at: ' + snippetPath)
+
+  log.info('Start building sublime snippet at: ' + snippetPath)
 
   that.results.forEach(function(lib) {
     let libName = lib.name
@@ -92,7 +93,7 @@ LcdnjsBuilder.prototype.build = function() {
 
     if (dump) {
         if(compareVersions(dump.version, lib.version) < 0) {
-          gutil.log('Remove previous version snippet of: ' + libName)
+          log.warning('Remove previous version snippet of: ' + libName)
           fs.unlinkSync(path.join(snippetPath, libName + '.sublime-snippet'))
         } else {
           return
@@ -103,19 +104,20 @@ LcdnjsBuilder.prototype.build = function() {
       version: lib.version
     }
 
-    let snippetTemplate = (path.extname(lib.latest) == '.js') ? 
+    let snippetTemplate = (path.extname(lib.latest) == '.js') ?
                               snippetJs :
                               snippetCss
 
-    let content = gutil.template(snippetTemplate, lib)
+    let compiled = template(snippetTemplate)
+    let content = compiled(lib)
 
     that.writeFile(libName, content)
     libraries.push('* ' + libName)
   })
-  
+
   fs.writeFileSync(path.join(__dirname, '../.log'), libraries.join('\n'))
 
-  gutil.log('Buiding latest cdnjs sublime snippet completed')
+  log.info('Buiding latest cdnjs sublime snippet completed')
 
 }
 
@@ -123,11 +125,11 @@ LcdnjsBuilder.prototype.writeFile = function(name, content) {
   let filePath = path.join(snippetPath, name + '.sublime-snippet')
     , that = this
 
-  gutil.log('Writing file: ' + filePath)
+  log.info('Writing file: ' + filePath)
 
   fs.writeFile(filePath, content, function(err) {
     if (err) return that.onError(err)
-    gutil.log('Snippet for library ' + name + ' created succesfully');
+    log.info('Snippet for library ' + name + ' created succesfully');
   })
 }
 
