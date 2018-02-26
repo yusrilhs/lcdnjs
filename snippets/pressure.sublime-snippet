@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pressure/2.1.2/pressure.min.js"></script>
+]]></content>
+    <tabTrigger>lcjspressure</tabTrigger>
+    <description>Pressure</description>
+</snippet>

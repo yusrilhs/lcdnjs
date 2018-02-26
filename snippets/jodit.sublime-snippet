@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jodit/3.1.47/jodit.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jodit/3.1.50/jodit.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsjodit</tabTrigger>
     <description>Jodit</description>

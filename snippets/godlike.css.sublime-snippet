@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/godlike.css/3.5.9/godlike.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/godlike.css/3.6.1/godlike.min.css">
 ]]></content>
     <tabTrigger>lcjsgodlikecss</tabTrigger>
     <description>Godlike.Css</description>
