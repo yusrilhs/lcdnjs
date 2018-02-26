@@ -617,6 +617,7 @@ All snippet prefixed with `lcjs`
 * coffee-script
 * coin-slider
 * collageplus
+* collect.js
 * colofilter.css
 * color-js
 * color-scheme
@@ -1073,6 +1074,7 @@ All snippet prefixed with `lcjs`
 * fpsmeter
 * framework7
 * frappe-charts
+* frappe-gantt
 * free-jqgrid
 * freewall
 * freezer-js
@@ -1087,6 +1089,7 @@ All snippet prefixed with `lcjs`
 * fuckadblock
 * fuelux
 * fukol-grids
+* fullcalendar-scheduler
 * fullcalendar
 * fullPage.js
 * function-plot
@@ -1763,6 +1766,7 @@ All snippet prefixed with `lcjs`
 * jslite
 * jsmediatags
 * jsmpeg
+* jsnes
 * jsnetworkx
 * jsnlog
 * json-editor
@@ -2405,6 +2409,7 @@ All snippet prefixed with `lcjs`
 * prefixfree
 * PreloadJS
 * prelodr
+* pressure
 * prettify
 * pretty-checkbox
 * prettyCheckable
@@ -2548,6 +2553,7 @@ All snippet prefixed with `lcjs`
 * react-select
 * react-semantify
 * react-slick
+* react-sortable-hoc
 * react-swipe
 * react-table
 * react-textarea-autosize
