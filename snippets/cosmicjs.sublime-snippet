@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/cosmicjs/3.1.1/cosmicjs.browser.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/cosmicjs/3.2.14/cosmicjs.browser.min.js"></script>
 ]]></content>
     <tabTrigger>lcjscosmicjs</tabTrigger>
     <description>Cosmicjs</description>

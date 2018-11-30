@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/TheoremJS/1.2.0/theorem.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsTheoremJS</tabTrigger>
+    <description>Theoremjs</description>
+</snippet>

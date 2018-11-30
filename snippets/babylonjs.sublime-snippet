@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/babylonjs/2.5.0/babylon.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/babylonjs/3.3.0/babylon.js"></script>
 ]]></content>
     <tabTrigger>lcjsbabylonjs</tabTrigger>
     <description>Babylonjs</description>

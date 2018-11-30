@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tui-editor/1.2.7/tui-editor-Editor.min.js"></script>
+]]></content>
+    <tabTrigger>lcjstui-editor</tabTrigger>
+    <description>Tui Editor</description>
+</snippet>

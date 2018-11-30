@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/androidicons/1.0/css/androidicons.min.css">
+]]></content>
+    <tabTrigger>lcjsandroidicons</tabTrigger>
+    <description>Androidicons</description>
+</snippet>

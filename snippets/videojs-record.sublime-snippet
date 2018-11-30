@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/videojs-record/2.1.2/videojs.record.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/videojs-record/2.4.1/videojs.record.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsvideojs-record</tabTrigger>
     <description>Videojs Record</description>

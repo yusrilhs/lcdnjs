@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/html5tooltipsjs/1.7.2/html5tooltips.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/html5tooltipsjs/1.7.3/html5tooltips.min.js"></script>
 ]]></content>
     <tabTrigger>lcjshtml5tooltipsjs</tabTrigger>
     <description>Html5tooltipsjs</description>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/covervid/1.0/covervid.min.js"></script>
+]]></content>
+    <tabTrigger>lcjscovervid</tabTrigger>
+    <description>Covervid</description>
+</snippet>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/brython/3.4.0/brython.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/brython/3.6.2/brython.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsbrython</tabTrigger>
     <description>Brython</description>

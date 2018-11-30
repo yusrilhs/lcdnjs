@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-touch/1.6.9/angular-touch.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-touch/1.7.5/angular-touch.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsangular-touch</tabTrigger>
     <description>Angular Touch</description>

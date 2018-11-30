@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/material-scrolltop/1.0.1/material-scrolltop.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsmaterial-scrolltop</tabTrigger>
+    <description>Material Scrolltop</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-rss/3.3.0/jquery.rss.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjquery-rss</tabTrigger>
+    <description>Jquery Rss</description>
+</snippet>

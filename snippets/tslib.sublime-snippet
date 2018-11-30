@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tslib/1.9.0/tslib.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tslib/1.9.3/tslib.min.js"></script>
 ]]></content>
     <tabTrigger>lcjstslib</tabTrigger>
     <description>Tslib</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ami.js/0.0.22/ami.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ami.js/0.22.0/ami.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsamijs</tabTrigger>
     <description>Ami.Js</description>

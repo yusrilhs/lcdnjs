@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react-faux-dom/4.1.0/ReactFauxDOM.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react-faux-dom/4.2.0/ReactFauxDOM.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsreact-faux-dom</tabTrigger>
     <description>React Faux Dom</description>

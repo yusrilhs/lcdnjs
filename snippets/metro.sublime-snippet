@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/metro/3.0.17/js/metro.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/metro/4.2.30/js/metro.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsmetro</tabTrigger>
     <description>Metro</description>

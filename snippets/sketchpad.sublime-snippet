@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/sketchpad/0.1.0/scripts/sketchpad.min.js"></script>
+]]></content>
+    <tabTrigger>lcjssketchpad</tabTrigger>
+    <description>Sketchpad</description>
+</snippet>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/webcomponentsjs/1.1.0/custom-elements-es5-adapter.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/webcomponentsjs/2.2.1/custom-elements-es5-adapter.js"></script>
 ]]></content>
     <tabTrigger>lcjswebcomponentsjs</tabTrigger>
     <description>Webcomponentsjs</description>

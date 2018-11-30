@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/overpass/3.0.2/overpass-webfont/overpass.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/overpass/3.0.3/overpass-webfont/overpass.min.css">
 ]]></content>
     <tabTrigger>lcjsoverpass</tabTrigger>
     <description>Overpass</description>

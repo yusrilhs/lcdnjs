@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/forge/0.7.1/forge.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/forge/0.7.6/forge.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsforge</tabTrigger>
     <description>Forge</description>

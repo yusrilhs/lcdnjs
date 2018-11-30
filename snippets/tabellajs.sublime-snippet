@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tabellajs/0.4.1/tabella.min.js"></script>
+]]></content>
+    <tabTrigger>lcjstabellajs</tabTrigger>
+    <description>Tabellajs</description>
+</snippet>

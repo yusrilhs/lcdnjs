@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/videojs-hotkeys/0.2.20/videojs.hotkeys.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/videojs-hotkeys/0.2.22/videojs.hotkeys.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsvideojs-hotkeys</tabTrigger>
     <description>Videojs Hotkeys</description>

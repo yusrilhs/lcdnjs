@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/dplayer/1.22.2/DPlayer.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/dplayer/1.25.0/DPlayer.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsdplayer</tabTrigger>
     <description>Dplayer</description>

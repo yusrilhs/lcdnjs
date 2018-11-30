@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/keen-js/4.3.0/keen.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/keen-js/5.0.5/keen.umd.min.js"></script>
 ]]></content>
     <tabTrigger>lcjskeen-js</tabTrigger>
     <description>Keen Js</description>

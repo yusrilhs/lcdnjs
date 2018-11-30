@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/zone.js/0.8.20/zone.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/zone.js/0.8.26/zone.min.js"></script>
 ]]></content>
     <tabTrigger>lcjszonejs</tabTrigger>
     <description>Zone.Js</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react-chartkick/0.1.6/react-chartkick.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react-chartkick/0.3.0/react-chartkick.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsreact-chartkick</tabTrigger>
     <description>React Chartkick</description>

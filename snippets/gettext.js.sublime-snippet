@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gettext.js/0.5.4/gettext.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gettext.js/0.6.0/gettext.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsgettextjs</tabTrigger>
     <description>Gettext.Js</description>

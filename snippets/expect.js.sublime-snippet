@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/expect.js/0.2.0/expect.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/expect.js/0.3.1/index.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsexpectjs</tabTrigger>
     <description>Expect.Js</description>

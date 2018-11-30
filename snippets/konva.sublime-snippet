@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/konva/1.7.6/konva.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/konva/2.5.1/konva.min.js"></script>
 ]]></content>
     <tabTrigger>lcjskonva</tabTrigger>
     <description>Konva</description>

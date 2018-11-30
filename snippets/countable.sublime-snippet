@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/countable/3.0.0/Countable.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/countable/3.0.1/Countable.min.js"></script>
 ]]></content>
     <tabTrigger>lcjscountable</tabTrigger>
     <description>Countable</description>

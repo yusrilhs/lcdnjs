@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/starability/2.4.2/starability-minified/starability-all.min.css">
+]]></content>
+    <tabTrigger>lcjsstarability</tabTrigger>
+    <description>Starability</description>
+</snippet>

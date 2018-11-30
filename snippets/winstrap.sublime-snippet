@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/winstrap/0.5.12/css/winstrap.min.css">
+]]></content>
+    <tabTrigger>lcjswinstrap</tabTrigger>
+    <description>Winstrap</description>
+</snippet>

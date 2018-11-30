@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/imgcache.js/2.1.0/imgcache.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsimgcachejs</tabTrigger>
+    <description>Imgcache.Js</description>
+</snippet>

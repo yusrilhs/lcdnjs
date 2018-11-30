@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/aws-sdk/2.202.0/aws-sdk.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/aws-sdk/2.368.0/aws-sdk.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsaws-sdk</tabTrigger>
     <description>Aws Sdk</description>

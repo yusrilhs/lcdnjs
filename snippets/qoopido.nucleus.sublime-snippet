@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/qoopido.nucleus/3.1.0/base.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/qoopido.nucleus/3.1.6/base.js"></script>
 ]]></content>
     <tabTrigger>lcjsqoopidonucleus</tabTrigger>
     <description>Qoopido.Nucleus</description>

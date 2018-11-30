@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/apexcharts/2.2.3/apexcharts.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsapexcharts</tabTrigger>
+    <description>Apexcharts</description>
+</snippet>

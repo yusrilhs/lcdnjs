@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/rest.js/15.2.6/octokit-rest.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsrestjs</tabTrigger>
+    <description>Rest.Js</description>
+</snippet>

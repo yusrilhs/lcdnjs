@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tensorflow/0.14.0/tf.min.js"></script>
+]]></content>
+    <tabTrigger>lcjstensorflow</tabTrigger>
+    <description>Tensorflow</description>
+</snippet>

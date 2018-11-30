@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/simplebar/2.5.1/simplebar.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/simplebar/2.6.1/simplebar.min.js"></script>
 ]]></content>
     <tabTrigger>lcjssimplebar</tabTrigger>
     <description>Simplebar</description>

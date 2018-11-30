@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/decimal.js/9.0.1/decimal.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/decimal.js/10.0.1/decimal.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsdecimaljs</tabTrigger>
     <description>Decimal.Js</description>

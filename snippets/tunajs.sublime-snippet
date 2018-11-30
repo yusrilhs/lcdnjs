@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tunajs/1.0.0/tuna-min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tunajs/1.0.2/tuna-min.js"></script>
 ]]></content>
     <tabTrigger>lcjstunajs</tabTrigger>
     <description>Tunajs</description>

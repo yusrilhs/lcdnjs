@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/zrender/3.6.1/zrender.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/zrender/4.0.5/zrender.min.js"></script>
 ]]></content>
     <tabTrigger>lcjszrender</tabTrigger>
     <description>Zrender</description>

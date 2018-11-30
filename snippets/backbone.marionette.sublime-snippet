@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/backbone.marionette/3.5.1/backbone.marionette.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/backbone.marionette/4.0.0/backbone.marionette.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsbackbonemarionette</tabTrigger>
     <description>Backbone.Marionette</description>

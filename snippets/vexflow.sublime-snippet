@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vexflow/1.2.87/vexflow-min.js"></script>
+]]></content>
+    <tabTrigger>lcjsvexflow</tabTrigger>
+    <description>Vexflow</description>
+</snippet>

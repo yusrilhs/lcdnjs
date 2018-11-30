@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/string-fn/1.6.0/webVersion.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/string-fn/1.8.0/webVersion.js"></script>
 ]]></content>
     <tabTrigger>lcjsstring-fn</tabTrigger>
     <description>String Fn</description>

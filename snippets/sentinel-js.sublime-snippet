@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/sentinel-js/0.0.5/sentinel.min.js"></script>
+]]></content>
+    <tabTrigger>lcjssentinel-js</tabTrigger>
+    <description>Sentinel Js</description>
+</snippet>

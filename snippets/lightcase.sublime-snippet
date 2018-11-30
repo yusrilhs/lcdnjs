@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lightcase/2.4.2/js/lightcase.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lightcase/2.5.0/js/lightcase.min.js"></script>
 ]]></content>
     <tabTrigger>lcjslightcase</tabTrigger>
     <description>Lightcase</description>

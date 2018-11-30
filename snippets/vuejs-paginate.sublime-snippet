@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vuejs-paginate/2.0.1/index.js"></script>
+]]></content>
+    <tabTrigger>lcjsvuejs-paginate</tabTrigger>
+    <description>Vuejs Paginate</description>
+</snippet>

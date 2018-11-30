@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/startbootstrap-stylish-portfolio/3.3.7/css/stylish-portfolio.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/startbootstrap-stylish-portfolio/5.0.1/css/stylish-portfolio.min.css">
 ]]></content>
     <tabTrigger>lcjsstartbootstrap-stylish-portfolio</tabTrigger>
     <description>Startbootstrap Stylish Portfolio</description>

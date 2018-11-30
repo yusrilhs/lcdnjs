@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/string-saw/0.0.29/saw-min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/string-saw/0.0.34/saw.js"></script>
 ]]></content>
     <tabTrigger>lcjsstring-saw</tabTrigger>
     <description>String Saw</description>

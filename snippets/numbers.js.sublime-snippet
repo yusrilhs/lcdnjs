@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/numbers.js/0.6.0/numbers.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/numbers.js/0.7.0/numbers.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsnumbersjs</tabTrigger>
     <description>Numbers.Js</description>

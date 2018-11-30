@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-markdown-editor/2.0.2/js/bootstrap-markdown-editor.js"></script>
+]]></content>
+    <tabTrigger>lcjsbootstrap-markdown-editor</tabTrigger>
+    <description>Bootstrap Markdown Editor</description>
+</snippet>

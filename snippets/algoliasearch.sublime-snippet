@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/algoliasearch/3.24.11/algoliasearch.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/algoliasearch/3.30.0/algoliasearch.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsalgoliasearch</tabTrigger>
     <description>Algoliasearch</description>

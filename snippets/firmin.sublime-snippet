@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/firmin/1.0.0/firmin.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsfirmin</tabTrigger>
+    <description>Firmin</description>
+</snippet>

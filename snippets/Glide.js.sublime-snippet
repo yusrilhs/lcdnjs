@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Glide.js/2.1.0/glide.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Glide.js/3.2.4/glide.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsGlidejs</tabTrigger>
     <description>Glide.Js</description>

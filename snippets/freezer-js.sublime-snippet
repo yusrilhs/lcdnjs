@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/freezer-js/0.14.0/freezer.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/freezer-js/0.14.1/freezer.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsfreezer-js</tabTrigger>
     <description>Freezer Js</description>

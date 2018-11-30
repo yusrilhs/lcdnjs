@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-groupedlayercontrol/0.6.0/leaflet.groupedlayercontrol.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-groupedlayercontrol/0.6.1/leaflet.groupedlayercontrol.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsleaflet-groupedlayercontrol</tabTrigger>
     <description>Leaflet Groupedlayercontrol</description>

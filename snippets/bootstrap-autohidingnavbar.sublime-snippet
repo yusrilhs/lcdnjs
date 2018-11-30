@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-autohidingnavbar/1.0.6/jquery.bootstrap-autohidingnavbar.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-autohidingnavbar/4.0.0/jquery.bootstrap-autohidingnavbar.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsbootstrap-autohidingnavbar</tabTrigger>
     <description>Bootstrap Autohidingnavbar</description>

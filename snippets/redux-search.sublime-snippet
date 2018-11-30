@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/redux-search/2.4.1/redux-search.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsredux-search</tabTrigger>
+    <description>Redux Search</description>
+</snippet>

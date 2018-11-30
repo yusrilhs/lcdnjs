@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/openwebicons/1.4.3/css/openwebicons.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/openwebicons/1.5.0/css/openwebicons.min.css">
 ]]></content>
     <tabTrigger>lcjsopenwebicons</tabTrigger>
     <description>Openwebicons</description>

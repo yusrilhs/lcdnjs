@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/libphonenumber/8.9.0/phonenumberutil.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/libphonenumber/8.10.1/phonenumberutil.min.js"></script>
 ]]></content>
     <tabTrigger>lcjslibphonenumber</tabTrigger>
     <description>Libphonenumber</description>

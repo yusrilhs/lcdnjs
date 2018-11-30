@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/peaks.js/0.9.8/peaks.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/peaks.js/0.9.13/peaks.min.js"></script>
 ]]></content>
     <tabTrigger>lcjspeaksjs</tabTrigger>
     <description>Peaks.Js</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/spectre.css/0.5.1/spectre.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/spectre.css/0.5.7/spectre.min.css">
 ]]></content>
     <tabTrigger>lcjsspectrecss</tabTrigger>
     <description>Spectre.Css</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/element-ui/2.2.0/index.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/element-ui/2.4.11/index.js"></script>
 ]]></content>
     <tabTrigger>lcjselement-ui</tabTrigger>
     <description>Element Ui</description>

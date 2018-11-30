@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/rough.js/2.2.5/rough.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsroughjs</tabTrigger>
+    <description>Rough.Js</description>
+</snippet>

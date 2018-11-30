@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/smooth-scrollbar/8.2.6/smooth-scrollbar.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/smooth-scrollbar/8.3.1/smooth-scrollbar.js"></script>
 ]]></content>
     <tabTrigger>lcjssmooth-scrollbar</tabTrigger>
     <description>Smooth Scrollbar</description>

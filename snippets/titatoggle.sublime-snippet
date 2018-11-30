@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/titatoggle/2.0.1/titatoggle-dist-min.css">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/titatoggle/2.1.2/titatoggle-dist-min.css">
 ]]></content>
     <tabTrigger>lcjstitatoggle</tabTrigger>
     <description>Titatoggle</description>

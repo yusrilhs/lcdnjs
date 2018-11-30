@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/scrollama/1.4.1/scrollama.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/scrollama/1.4.4/scrollama.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsscrollama</tabTrigger>
     <description>Scrollama</description>

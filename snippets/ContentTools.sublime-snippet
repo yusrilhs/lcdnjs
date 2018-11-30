@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ContentTools/1.6.4/content-tools.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ContentTools/1.6.10/content-tools.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsContentTools</tabTrigger>
     <description>Contenttools</description>

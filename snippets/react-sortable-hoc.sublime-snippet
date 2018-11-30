@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react-sortable-hoc/0.6.8/react-sortable-hoc.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react-sortable-hoc/0.8.4/react-sortable-hoc.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsreact-sortable-hoc</tabTrigger>
     <description>React Sortable Hoc</description>

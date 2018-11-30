@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/antd/3.2.2/antd.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/antd/3.10.9/antd.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsantd</tabTrigger>
     <description>Antd</description>

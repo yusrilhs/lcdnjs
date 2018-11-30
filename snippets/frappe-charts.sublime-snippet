@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/frappe-charts/0.0.8/frappe-charts.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/frappe-charts/1.1.0/frappe-charts.min.css">
 ]]></content>
     <tabTrigger>lcjsfrappe-charts</tabTrigger>
     <description>Frappe Charts</description>

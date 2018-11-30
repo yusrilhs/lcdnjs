@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/inferno-component/4.0.4/inferno-component.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/inferno-component/7.0.0/inferno-component.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsinferno-component</tabTrigger>
     <description>Inferno Component</description>

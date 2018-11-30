@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/embedo/1.7.3/embedo.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/embedo/1.8.0/embedo.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsembedo</tabTrigger>
     <description>Embedo</description>

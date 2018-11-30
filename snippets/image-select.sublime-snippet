@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/image-select/2.0/ImageSelect.jquery.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsimage-select</tabTrigger>
+    <description>Image Select</description>
+</snippet>

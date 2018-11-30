@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/strophe.js/1.2.14/strophe.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/strophe.js/1.2.16/strophe.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsstrophejs</tabTrigger>
     <description>Strophe.Js</description>

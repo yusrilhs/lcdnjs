@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/graphdracula/1.2.0/dracula.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/graphdracula/1.2.1/dracula.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsgraphdracula</tabTrigger>
     <description>Graphdracula</description>

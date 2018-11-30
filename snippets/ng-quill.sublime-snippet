@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ng-quill/3.5.2/ng-quill.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ng-quill/3.8.0/ng-quill.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsng-quill</tabTrigger>
     <description>Ng Quill</description>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jQuery.scrollSpeed/1.0.2/jQuery.scrollSpeed.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjQueryscrollSpeed</tabTrigger>
+    <description>Jquery.Scrollspeed</description>
+</snippet>

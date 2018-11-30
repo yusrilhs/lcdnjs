@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/rsuite/3.4.3/rsuite.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsrsuite</tabTrigger>
+    <description>Rsuite</description>
+</snippet>

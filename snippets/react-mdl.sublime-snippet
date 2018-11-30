@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react-mdl/1.11.0/ReactMDL.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsreact-mdl</tabTrigger>
+    <description>React Mdl</description>
+</snippet>

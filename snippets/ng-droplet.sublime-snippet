@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ng-droplet/0.7.0/ng-droplet.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ng-droplet/0.7.1/ng-droplet.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsng-droplet</tabTrigger>
     <description>Ng Droplet</description>

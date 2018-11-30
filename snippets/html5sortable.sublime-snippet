@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/html5sortable/0.7.0/html.sortable.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/html5sortable/0.9.8/html5sortable.min.js"></script>
 ]]></content>
     <tabTrigger>lcjshtml5sortable</tabTrigger>
     <description>Html5sortable</description>

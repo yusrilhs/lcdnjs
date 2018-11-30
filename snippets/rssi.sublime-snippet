@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/rssi/0.0.7/rssi.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsrssi</tabTrigger>
+    <description>Rssi</description>
+</snippet>

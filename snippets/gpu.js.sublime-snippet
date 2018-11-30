@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gpu.js/1.0.0/gpu.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gpu.js/1.10.4/gpu.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsgpujs</tabTrigger>
     <description>Gpu.Js</description>

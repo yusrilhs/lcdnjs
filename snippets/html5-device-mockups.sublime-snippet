@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/html5-device-mockups/3.2.1/dist/device-mockups.min.css">
+]]></content>
+    <tabTrigger>lcjshtml5-device-mockups</tabTrigger>
+    <description>Html5 Device Mockups</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/PickMeUp/3.1.3/pickmeup.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsPickMeUp</tabTrigger>
+    <description>Pickmeup</description>
+</snippet>

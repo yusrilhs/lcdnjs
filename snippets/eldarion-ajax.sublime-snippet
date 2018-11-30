@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/eldarion-ajax/0.12.0/eldarion-ajax.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/eldarion-ajax/0.16.0/js/eldarion-ajax.min.js"></script>
 ]]></content>
     <tabTrigger>lcjseldarion-ajax</tabTrigger>
     <description>Eldarion Ajax</description>

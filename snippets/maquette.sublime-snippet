@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/maquette/3.2.1/maquette.umd.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/maquette/3.3.2/maquette.umd.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsmaquette</tabTrigger>
     <description>Maquette</description>

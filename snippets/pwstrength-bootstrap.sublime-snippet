@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pwstrength-bootstrap/2.2.1/pwstrength-bootstrap.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pwstrength-bootstrap/3.0.1/pwstrength-bootstrap.min.js"></script>
 ]]></content>
     <tabTrigger>lcjspwstrength-bootstrap</tabTrigger>
     <description>Pwstrength Bootstrap</description>

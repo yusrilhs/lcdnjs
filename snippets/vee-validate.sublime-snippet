@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vee-validate/2.0.4/vee-validate.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vee-validate/2.1.1/vee-validate.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsvee-validate</tabTrigger>
     <description>Vee Validate</description>

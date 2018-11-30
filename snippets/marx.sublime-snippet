@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/marx/2.0.7/marx.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/marx/3.0.3/marx.min.css">
 ]]></content>
     <tabTrigger>lcjsmarx</tabTrigger>
     <description>Marx</description>

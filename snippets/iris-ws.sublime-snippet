@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/iris-ws/10.7.0/client.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsiris-ws</tabTrigger>
+    <description>Iris Ws</description>
+</snippet>

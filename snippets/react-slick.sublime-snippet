@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react-slick/0.19.0/react-slick.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react-slick/0.23.2/react-slick.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsreact-slick</tabTrigger>
     <description>React Slick</description>

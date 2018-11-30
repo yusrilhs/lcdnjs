@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ant-design-pro/2.1.1/ant-design-pro.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsant-design-pro</tabTrigger>
+    <description>Ant Design Pro</description>
+</snippet>

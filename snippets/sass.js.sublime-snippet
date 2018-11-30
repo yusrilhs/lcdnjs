@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/sass.js/0.10.9/sass.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/sass.js/0.10.13/sass.min.js"></script>
 ]]></content>
     <tabTrigger>lcjssassjs</tabTrigger>
     <description>Sass.Js</description>

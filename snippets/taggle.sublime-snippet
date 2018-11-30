@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/taggle/1.13.0/taggle.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/taggle/1.14.1/taggle.min.js"></script>
 ]]></content>
     <tabTrigger>lcjstaggle</tabTrigger>
     <description>Taggle</description>

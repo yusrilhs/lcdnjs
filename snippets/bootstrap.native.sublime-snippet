@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap.native/2.0.21/bootstrap-native.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap.native/2.0.24/bootstrap-native.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsbootstrapnative</tabTrigger>
     <description>Bootstrap.Native</description>

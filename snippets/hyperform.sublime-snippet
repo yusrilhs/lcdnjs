@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hyperform/0.9.9/hyperform.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hyperform/0.9.21/hyperform.min.js"></script>
 ]]></content>
     <tabTrigger>lcjshyperform</tabTrigger>
     <description>Hyperform</description>

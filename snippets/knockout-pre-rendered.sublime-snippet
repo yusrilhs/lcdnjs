@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/knockout-pre-rendered/0.9.1/knockout-pre-rendered.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/knockout-pre-rendered/0.10.1/knockout-pre-rendered.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsknockout-pre-rendered</tabTrigger>
     <description>Knockout Pre Rendered</description>

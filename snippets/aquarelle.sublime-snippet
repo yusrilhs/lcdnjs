@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/aquarelle/1.0.0/Aquarelle.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsaquarelle</tabTrigger>
+    <description>Aquarelle</description>
+</snippet>

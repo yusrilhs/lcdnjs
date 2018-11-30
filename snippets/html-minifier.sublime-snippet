@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/html-minifier/3.5.9/htmlminifier.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/html-minifier/3.6.0/htmlminifier.min.js"></script>
 ]]></content>
     <tabTrigger>lcjshtml-minifier</tabTrigger>
     <description>Html Minifier</description>

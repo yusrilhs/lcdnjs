@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tui-calendar/1.8.0/tui-calendar.min.js"></script>
+]]></content>
+    <tabTrigger>lcjstui-calendar</tabTrigger>
+    <description>Tui Calendar</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Vue2Leaflet/1.0.2/vue2-leaflet.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsVue2Leaflet</tabTrigger>
+    <description>Vue2leaflet</description>
+</snippet>

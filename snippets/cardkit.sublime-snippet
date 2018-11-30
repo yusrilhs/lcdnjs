@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/cardkit/2.0.6/cardkit.js"></script>
+]]></content>
+    <tabTrigger>lcjscardkit</tabTrigger>
+    <description>Cardkit</description>
+</snippet>

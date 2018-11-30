@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ring.js/2.2.0/ring.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ring.js/2.2.4/ring.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsringjs</tabTrigger>
     <description>Ring.Js</description>

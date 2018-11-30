@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/choo/6.13.1/bundle.min.js"></script>
+]]></content>
+    <tabTrigger>lcjschoo</tabTrigger>
+    <description>Choo</description>
+</snippet>

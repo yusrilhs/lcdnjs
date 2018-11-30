@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/bigfishtv-turret/4.0.4/turretcss.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/bigfishtv-turret/4.1.4/turretcss.min.css">
 ]]></content>
     <tabTrigger>lcjsbigfishtv-turret</tabTrigger>
     <description>Bigfishtv Turret</description>

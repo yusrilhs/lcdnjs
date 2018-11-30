@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/startbootstrap-freelancer/3.3.7/js/freelancer.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/startbootstrap-freelancer/5.0.0/js/freelancer.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsstartbootstrap-freelancer</tabTrigger>
     <description>Startbootstrap Freelancer</description>

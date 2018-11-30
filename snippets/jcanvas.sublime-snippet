@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jcanvas/21.0.0/min/jcanvas.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jcanvas/21.0.1/min/jcanvas.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsjcanvas</tabTrigger>
     <description>Jcanvas</description>

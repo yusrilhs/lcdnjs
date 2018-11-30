@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jarallax/1.9.3/jarallax.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jarallax/1.10.6/jarallax.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsjarallax</tabTrigger>
     <description>Jarallax</description>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/modern-normalize/0.5.0/modern-normalize.min.css">
+]]></content>
+    <tabTrigger>lcjsmodern-normalize</tabTrigger>
+    <description>Modern Normalize</description>
+</snippet>

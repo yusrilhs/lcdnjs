@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/loadCSS/2.0.1/loadCSS.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsloadCSS</tabTrigger>
+    <description>Loadcss</description>
+</snippet>

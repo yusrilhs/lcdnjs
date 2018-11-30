@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/design-system/2.5.2/styles/salesforce-lightning-design-system.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/design-system/2.7.5/styles/salesforce-lightning-design-system.min.css">
 ]]></content>
     <tabTrigger>lcjsdesign-system</tabTrigger>
     <description>Design System</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/glamorous/4.11.6/glamorous.umd.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/glamorous/4.13.1/glamorous.umd.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsglamorous</tabTrigger>
     <description>Glamorous</description>

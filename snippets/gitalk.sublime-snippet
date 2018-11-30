@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gitalk/1.2.2/gitalk.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gitalk/1.4.1/gitalk.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsgitalk</tabTrigger>
     <description>Gitalk</description>

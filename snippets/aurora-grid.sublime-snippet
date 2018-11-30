@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/aurora-grid/1.0.8/aurora-grid.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/aurora-grid/1.0.9/aurora-grid.min.css">
 ]]></content>
     <tabTrigger>lcjsaurora-grid</tabTrigger>
     <description>Aurora Grid</description>

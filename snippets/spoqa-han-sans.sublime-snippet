@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/spoqa-han-sans/2.1.1/css/SpoqaHanSans-kr.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/spoqa-han-sans/2.1.2/css/SpoqaHanSans-kr.min.css">
 ]]></content>
     <tabTrigger>lcjsspoqa-han-sans</tabTrigger>
     <description>Spoqa Han Sans</description>

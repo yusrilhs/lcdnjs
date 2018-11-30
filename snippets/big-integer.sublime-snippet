@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/big-integer/1.6.26/BigInteger.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/big-integer/1.6.36/BigInteger.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsbig-integer</tabTrigger>
     <description>Big Integer</description>

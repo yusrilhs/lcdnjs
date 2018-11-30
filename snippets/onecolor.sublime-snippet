@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/onecolor/3.0.5/one-color-all.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/onecolor/3.1.0/one-color-all.js"></script>
 ]]></content>
     <tabTrigger>lcjsonecolor</tabTrigger>
     <description>Onecolor</description>

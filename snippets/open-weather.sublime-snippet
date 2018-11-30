@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/open-weather/1.2.0/openWeather.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/open-weather/2.0.0/openweather.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsopen-weather</tabTrigger>
     <description>Open Weather</description>

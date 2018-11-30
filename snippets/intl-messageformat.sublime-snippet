@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/intl-messageformat/2.2.0/intl-messageformat.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsintl-messageformat</tabTrigger>
+    <description>Intl Messageformat</description>
+</snippet>

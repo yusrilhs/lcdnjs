@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react-datepicker/1.2.1/react-datepicker.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react-datepicker/2.0.0/react-datepicker.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsreact-datepicker</tabTrigger>
     <description>React Datepicker</description>

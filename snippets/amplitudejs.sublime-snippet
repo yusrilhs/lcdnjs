@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/amplitudejs/3.2.3/amplitude.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/amplitudejs/3.3.1/amplitude.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsamplitudejs</tabTrigger>
     <description>Amplitudejs</description>

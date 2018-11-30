@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/0.7.2/tailwind.min.css">
+]]></content>
+    <tabTrigger>lcjstailwindcss</tabTrigger>
+    <description>Tailwindcss</description>
+</snippet>

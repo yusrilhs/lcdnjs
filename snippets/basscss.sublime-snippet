@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/basscss/8.0.4/css/basscss.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/basscss/8.0.10/css/basscss.min.css">
 ]]></content>
     <tabTrigger>lcjsbasscss</tabTrigger>
     <description>Basscss</description>

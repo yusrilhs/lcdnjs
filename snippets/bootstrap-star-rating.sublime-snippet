@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-star-rating/4.0.3/js/star-rating.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-star-rating/4.0.5/js/star-rating.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsbootstrap-star-rating</tabTrigger>
     <description>Bootstrap Star Rating</description>

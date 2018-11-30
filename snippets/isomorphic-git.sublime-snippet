@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/isomorphic-git/0.40.2/bundle.umd.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsisomorphic-git</tabTrigger>
+    <description>Isomorphic Git</description>
+</snippet>

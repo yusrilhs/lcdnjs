@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ajv/6.1.1/ajv.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ajv/6.6.1/ajv.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsajv</tabTrigger>
     <description>Ajv</description>

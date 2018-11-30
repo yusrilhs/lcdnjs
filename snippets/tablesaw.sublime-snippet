@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tablesaw/3.0.9/tablesaw.min.js"></script>
+]]></content>
+    <tabTrigger>lcjstablesaw</tabTrigger>
+    <description>Tablesaw</description>
+</snippet>

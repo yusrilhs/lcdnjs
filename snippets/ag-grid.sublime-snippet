@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ag-grid/16.0.1/ag-grid.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ag-grid/19.1.4/ag-grid-community.min.js"></script>
 ]]></content>
     <tabTrigger>lcjsag-grid</tabTrigger>
     <description>Ag Grid</description>

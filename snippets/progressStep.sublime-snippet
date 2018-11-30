@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/progressStep/1.0.3/progressStep.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsprogressStep</tabTrigger>
+    <description>Progressstep</description>
+</snippet>

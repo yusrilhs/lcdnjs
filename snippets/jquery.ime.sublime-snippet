@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.ime/0.2.0/jquery.ime.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsjqueryime</tabTrigger>
+    <description>Jquery.Ime</description>
+</snippet>

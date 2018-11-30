@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/satellite.js/2.0.0/satellite.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/satellite.js/3.0.0/satellite.min.js"></script>
 ]]></content>
     <tabTrigger>lcjssatellitejs</tabTrigger>
     <description>Satellite.Js</description>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/squire-rte/1.8.11/squire.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/squire-rte/1.9.0/squire.js"></script>
 ]]></content>
     <tabTrigger>lcjssquire-rte</tabTrigger>
     <description>Squire Rte</description>

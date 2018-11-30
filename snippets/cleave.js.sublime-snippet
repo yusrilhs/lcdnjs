@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/cleave.js/1.1.1/cleave.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/cleave.js/1.4.4/cleave.min.js"></script>
 ]]></content>
     <tabTrigger>lcjscleavejs</tabTrigger>
     <description>Cleave.Js</description>

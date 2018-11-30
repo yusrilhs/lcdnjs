@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/iNotify/1.1.0/iNotify.min.js"></script>
+]]></content>
+    <tabTrigger>lcjsiNotify</tabTrigger>
+    <description>Inotify</description>
+</snippet>

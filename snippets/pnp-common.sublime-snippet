@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pnp-common/1.2.6/common.es5.umd.min.js"></script>
+]]></content>
+    <tabTrigger>lcjspnp-common</tabTrigger>
+    <description>Pnp Common</description>
+</snippet>
